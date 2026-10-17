@@ -1,0 +1,301 @@
+customer_id,customer_name,region,segment,signup_date
+1000,Noah Nair,British Columbia,New,2023-10-25
+1001,Nikhil Mehta,Alberta,New,2024-08-13
+1002,Olivia Brown,Ontario,New,2023-07-09
+1003,Mason Mehta,Manitoba,New,2023-06-05
+1004,Olivia Brown,British Columbia,New,2023-12-10
+1005,Mason Sharma,Ontario,VIP,2023-04-22
+1006,Sanya Brown,Quebec,New,2024-05-17
+1007,Riya Gagnon,Ontario,VIP,2024-03-14
+1008,Ananya Patel,Quebec,New,2024-08-17
+1009,Nikhil Kim,Ontario,New,2023-06-21
+1010,Ananya Singh,Ontario,Returning,2023-04-26
+1011,Mia Singh,Alberta,Returning,2023-01-29
+1012,Ava Reddy,Ontario,Returning,2023-06-10
+1013,Aditya Nair,Ontario,New,2023-07-08
+1014,Olivia Nair,Alberta,New,2023-07-20
+1015,Liam Chen,Quebec,New,2024-01-05
+1016,Divya Kaur,British Columbia,New,2023-01-29
+1017,Aarav Kaur,Ontario,New,2024-03-15
+1018,Noah Reddy,Alberta,New,2024-07-15
+1019,Sophia Mehta,Quebec,New,2023-12-30
+1020,Meera Nair,Quebec,New,2024-02-18
+1021,Olivia Gagnon,Manitoba,New,2024-03-14
+1022,Rahul Gupta,Ontario,New,2024-05-24
+1023,Meera Singh,Ontario,New,2024-05-27
+1024,Noah Gagnon,Alberta,Returning,2023-07-02
+1025,Ethan Patel,Quebec,VIP,2024-07-30
+1026,Olivia Iyer,Alberta,New,2023-06-23
+1027,Divya Gagnon,British Columbia,New,2023-01-16
+1028,Mason Gagnon,British Columbia,New,2023-07-03
+1029,Mia Kaur,Quebec,New,2024-04-16
+1030,Rahul Mehta,Ontario,VIP,2023-06-12
+1031,Mia Mehta,Ontario,New,2023-07-28
+1032,Arjun Iyer,Quebec,VIP,2023-06-20
+1033,Kabir Li,Alberta,Returning,2023-04-29
+1034,Emma Kaur,Ontario,New,2024-02-02
+1035,Mason Smith,Manitoba,New,2023-09-20
+1036,Divya Mehta,Alberta,VIP,2024-05-13
+1037,Karan Kim,Ontario,Returning,2024-02-11
+1038,Aditya Nair,Ontario,Returning,2023-12-19
+1039,Nikhil Kaur,British Columbia,New,2023-08-09
+1040,Vikram Nair,Alberta,Returning,2024-06-11
+1041,Pooja Nair,Quebec,New,2024-01-03
+1042,Mia Patel,Ontario,VIP,2024-03-22
+1043,Pooja Kim,British Columbia,New,2024-01-20
+1044,Meera Kim,Ontario,Returning,2024-05-29
+1045,Vikram Smith,British Columbia,Returning,2023-04-11
+1046,Mason Nair,Quebec,New,2024-01-03
+1047,Karan Nair,Ontario,New,2023-11-21
+1048,Ananya Mehta,Ontario,Returning,2023-07-21
+1049,Vikram Singh,Ontario,New,2023-11-22
+1050,Mia Iyer,Ontario,Returning,2024-01-07
+1051,Riya Singh,Quebec,New,2024-01-13
+1052,Meera Tremblay,Alberta,New,2023-12-03
+1053,Noah Patel,Quebec,Returning,2023-01-01
+1054,Meera Smith,Alberta,Returning,2023-11-27
+1055,Meera Smith,Ontario,New,2023-08-30
+1056,Emma Kaur,Alberta,New,2023-02-08
+1057,Ethan Khan,Quebec,Returning,2023-03-04
+1058,Arjun Chen,Ontario,Returning,2024-05-15
+1059,Meera Khan,Ontario,New,2023-02-04
+1060,Priya Nair,Quebec,New,2024-06-28
+1061,Noah Brown,Quebec,New,2023-03-30
+1062,Olivia Nair,Quebec,Returning,2024-08-17
+1063,Riya Nguyen,Ontario,VIP,2023-07-09
+1064,Mia Gagnon,Quebec,VIP,2024-04-19
+1065,Vikram Nair,Ontario,VIP,2023-07-17
+1066,Nikhil Kim,Alberta,Returning,2023-08-19
+1067,Ananya Sharma,Quebec,Returning,2023-05-31
+1068,Aditya Nguyen,Quebec,New,2023-04-07
+1069,Nikhil Sharma,Ontario,Returning,2023-11-16
+1070,Vikram Nguyen,Ontario,Returning,2023-01-27
+1071,Rahul Singh,Ontario,New,2023-04-30
+1072,Liam Reddy,British Columbia,New,2024-06-04
+1073,Divya Singh,Ontario,New,2023-04-10
+1074,Vikram Gupta,Quebec,Returning,2024-07-06
+1075,Mia Smith,Ontario,New,2023-09-03
+1076,Vikram Smith,British Columbia,VIP,2023-11-10
+1077,Meera Smith,Ontario,Returning,2023-09-15
+1078,Sophia Singh,Ontario,Returning,2023-08-12
+1079,Emma Khan,Ontario,New,2023-09-09
+1080,Riya Li,Ontario,New,2023-01-21
+1081,Ananya Li,Manitoba,Returning,2023-05-14
+1082,Aarav Gagnon,Ontario,Returning,2023-09-23
+1083,Aditya Mehta,Ontario,New,2023-08-04
+1084,Mason Smith,British Columbia,New,2023-01-15
+1085,Aarav Kaur,Ontario,Returning,2024-07-10
+1086,Mia Brown,Alberta,New,2023-03-24
+1087,Olivia Patel,Manitoba,New,2024-03-23
+1088,Divya Smith,Quebec,Returning,2023-04-12
+1089,Olivia Singh,Quebec,New,2023-08-14
+1090,Aarav Patel,Alberta,New,2024-04-24
+1091,Ananya Chen,Quebec,Returning,2024-08-09
+1092,Liam Reddy,Ontario,New,2023-11-10
+1093,Nikhil Iyer,Ontario,New,2024-03-27
+1094,Olivia Kaur,British Columbia,Returning,2024-05-04
+1095,Neha Gagnon,Manitoba,New,2024-08-14
+1096,Aditya Kim,Manitoba,Returning,2023-12-21
+1097,Ethan Chen,Ontario,New,2023-09-30
+1098,Olivia Li,Manitoba,Returning,2023-11-30
+1099,Aditya Tremblay,Quebec,Returning,2023-09-16
+1100,Nikhil Nguyen,Quebec,New,2023-08-04
+1101,Rohan Tremblay,Ontario,Returning,2023-09-24
+1102,Ishita Mehta,Alberta,Returning,2023-04-11
+1103,Arjun Khan,Quebec,VIP,2024-07-19
+1104,Vikram Sharma,Quebec,VIP,2023-07-22
+1105,Ananya Kim,Quebec,Returning,2024-05-17
+1106,Mason Khan,Quebec,VIP,2023-07-16
+1107,Ishita Iyer,Manitoba,New,2024-04-05
+1108,Priya Gagnon,Quebec,New,2023-05-31
+1109,Ethan Kaur,Ontario,Returning,2023-02-23
+1110,Ava Nguyen,British Columbia,New,2024-05-23
+1111,Ethan Gagnon,Alberta,New,2023-10-15
+1112,Ethan Sharma,Alberta,Returning,2024-07-14
+1113,Ava Singh,British Columbia,New,2023-07-30
+1114,Olivia Reddy,Ontario,VIP,2024-05-30
+1115,Ava Sharma,Ontario,New,2023-05-06
+1116,Ethan Khan,Ontario,Returning,2023-08-21
+1117,Rahul Brown,Ontario,New,2023-08-10
+1118,Divya Tremblay,Ontario,VIP,2024-07-25
+1119,Arjun Reddy,British Columbia,New,2023-04-18
+1120,Noah Kaur,Alberta,New,2024-04-17
+1121,Sophia Iyer,Ontario,New,2023-06-06
+1122,Ananya Sharma,Ontario,New,2023-10-25
+1123,Olivia Gupta,British Columbia,New,2024-03-15
+1124,Divya Khan,Quebec,Returning,2023-08-30
+1125,Olivia Patel,Alberta,New,2023-02-09
+1126,Mason Khan,British Columbia,New,2023-03-14
+1127,Neha Kaur,Manitoba,Returning,2024-05-03
+1128,Rohan Smith,British Columbia,Returning,2023-09-07
+1129,Rohan Chen,Ontario,New,2024-02-25
+1130,Vikram Tremblay,Ontario,Returning,2023-09-15
+1131,Mia Gupta,Ontario,Returning,2024-03-07
+1132,Emma Gagnon,Alberta,Returning,2024-03-31
+1133,Aarav Sharma,Ontario,Returning,2024-01-26
+1134,Divya Iyer,Manitoba,VIP,2024-01-30
+1135,Aditya Reddy,Quebec,Returning,2023-04-17
+1136,Karan Nguyen,Quebec,New,2023-05-27
+1137,Sanya Reddy,Alberta,VIP,2024-05-24
+1138,Rahul Kim,Manitoba,New,2023-11-10
+1139,Ishita Iyer,Ontario,New,2023-05-02
+1140,Ethan Gupta,British Columbia,Returning,2023-10-21
+1141,Rohan Chen,Ontario,VIP,2024-04-10
+1142,Kabir Iyer,Alberta,New,2023-11-19
+1143,Priya Patel,Alberta,New,2023-11-24
+1144,Emma Brown,Ontario,New,2023-06-09
+1145,Lucas Gupta,Ontario,New,2024-08-06
+1146,Ananya Gagnon,Alberta,New,2023-01-22
+1147,Emma Kaur,Ontario,New,2024-01-24
+1148,Emma Reddy,Manitoba,New,2024-06-19
+1149,Neha Khan,Manitoba,New,2023-09-08
+1150,Ishita Reddy,Manitoba,New,2024-04-22
+1151,Ethan Tremblay,Manitoba,VIP,2024-06-10
+1152,Meera Nguyen,Quebec,New,2023-02-06
+1153,Ethan Brown,Alberta,VIP,2023-07-10
+1154,Noah Nair,Alberta,VIP,2023-07-03
+1155,Divya Patel,Manitoba,Returning,2023-08-29
+1156,Divya Patel,Ontario,New,2023-07-29
+1157,Rahul Iyer,Quebec,New,2023-09-18
+1158,Arjun Nguyen,British Columbia,Returning,2023-08-20
+1159,Arjun Kaur,Alberta,VIP,2024-07-15
+1160,Meera Nguyen,Ontario,New,2023-11-01
+1161,Divya Nair,Manitoba,Returning,2023-11-02
+1162,Rohan Nguyen,Ontario,New,2024-04-29
+1163,Ananya Brown,Ontario,New,2024-05-18
+1164,Nikhil Brown,Ontario,Returning,2023-11-01
+1165,Ethan Sharma,Quebec,New,2023-03-25
+1166,Lucas Singh,Quebec,New,2023-08-20
+1167,Olivia Nguyen,Ontario,Returning,2023-05-14
+1168,Riya Li,British Columbia,VIP,2023-04-02
+1169,Priya Reddy,British Columbia,Returning,2024-03-05
+1170,Noah Gupta,Ontario,Returning,2023-01-13
+1171,Ethan Tremblay,Alberta,Returning,2024-06-01
+1172,Nikhil Nguyen,Ontario,VIP,2023-03-01
+1173,Meera Sharma,Quebec,New,2023-07-25
+1174,Mia Patel,Alberta,New,2024-07-28
+1175,Priya Li,Ontario,Returning,2023-12-13
+1176,Mia Brown,Quebec,New,2024-04-17
+1177,Arjun Chen,Ontario,New,2023-01-05
+1178,Neha Tremblay,Ontario,New,2024-07-09
+1179,Meera Nguyen,Alberta,Returning,2023-07-16
+1180,Pooja Smith,Ontario,New,2023-02-19
+1181,Karan Chen,British Columbia,Returning,2023-05-18
+1182,Ethan Singh,Ontario,New,2024-01-28
+1183,Ananya Kim,Quebec,Returning,2023-08-17
+1184,Olivia Nair,Ontario,Returning,2024-04-11
+1185,Vikram Nguyen,Ontario,Returning,2023-04-29
+1186,Liam Iyer,British Columbia,Returning,2023-02-11
+1187,Ava Singh,Quebec,Returning,2024-02-12
+1188,Aarav Smith,Alberta,VIP,2023-11-25
+1189,Nikhil Gagnon,Ontario,New,2023-06-05
+1190,Noah Gupta,Ontario,New,2024-07-12
+1191,Vikram Reddy,British Columbia,Returning,2024-08-10
+1192,Sophia Kaur,Quebec,New,2024-01-03
+1193,Meera Tremblay,Ontario,New,2023-07-25
+1194,Ishita Gupta,Ontario,Returning,2023-04-02
+1195,Ishita Gupta,Ontario,New,2023-09-19
+1196,Riya Kim,Ontario,VIP,2024-01-19
+1197,Divya Tremblay,Ontario,New,2023-11-01
+1198,Ishita Nair,Manitoba,VIP,2023-10-12
+1199,Mia Gupta,Manitoba,New,2024-03-09
+1200,Sophia Gagnon,Ontario,New,2023-01-19
+1201,Mia Iyer,Ontario,Returning,2023-02-16
+1202,Ethan Brown,Ontario,VIP,2023-11-19
+1203,Mia Smith,Ontario,Returning,2023-03-19
+1204,Aditya Reddy,Ontario,Returning,2023-11-20
+1205,Priya Kim,Ontario,New,2023-12-28
+1206,Olivia Brown,British Columbia,New,2023-12-26
+1207,Rohan Sharma,Ontario,New,2023-02-26
+1208,Aditya Smith,Ontario,New,2023-03-30
+1209,Ananya Gupta,Quebec,VIP,2024-05-27
+1210,Pooja Sharma,British Columbia,Returning,2024-02-19
+1211,Priya Brown,Ontario,New,2024-07-20
+1212,Meera Kim,Ontario,VIP,2023-02-13
+1213,Nikhil Nguyen,Ontario,Returning,2023-10-11
+1214,Kabir Nguyen,Ontario,New,2023-02-06
+1215,Ethan Reddy,Quebec,VIP,2023-05-12
+1216,Rahul Kim,British Columbia,Returning,2024-05-04
+1217,Kabir Kaur,Ontario,New,2024-02-28
+1218,Vikram Nguyen,British Columbia,New,2024-03-21
+1219,Pooja Nair,Manitoba,New,2023-03-18
+1220,Emma Tremblay,British Columbia,New,2023-12-31
+1221,Olivia Li,Quebec,Returning,2024-04-19
+1222,Pooja Li,Alberta,New,2024-04-11
+1223,Sanya Li,Alberta,Returning,2024-01-22
+1224,Karan Kaur,Quebec,Returning,2024-02-12
+1225,Rohan Nair,Alberta,New,2024-05-16
+1226,Lucas Nair,Quebec,New,2023-03-26
+1227,Ishita Sharma,Quebec,New,2023-08-14
+1228,Ava Smith,Ontario,New,2024-07-16
+1229,Vikram Tremblay,British Columbia,Returning,2023-07-16
+1230,Sanya Khan,Quebec,New,2024-02-16
+1231,Ethan Mehta,Ontario,Returning,2024-02-13
+1232,Neha Nguyen,Quebec,New,2023-07-12
+1233,Pooja Chen,Ontario,New,2023-09-29
+1234,Liam Li,Alberta,Returning,2024-02-03
+1235,Karan Reddy,Ontario,Returning,2023-03-31
+1236,Priya Smith,Ontario,VIP,2024-04-06
+1237,Kabir Khan,Quebec,New,2024-02-03
+1238,Priya Gagnon,Ontario,New,2023-03-12
+1239,Lucas Sharma,Ontario,VIP,2023-11-06
+1240,Ananya Iyer,Manitoba,New,2024-01-10
+1241,Mia Iyer,Ontario,New,2023-01-30
+1242,Kabir Nguyen,Alberta,New,2024-01-07
+1243,Riya Kim,Quebec,Returning,2023-10-30
+1244,Pooja Tremblay,Ontario,New,2024-02-19
+1245,Priya Khan,Quebec,New,2024-01-16
+1246,Sanya Chen,Quebec,Returning,2024-02-20
+1247,Meera Singh,Ontario,New,2023-08-13
+1248,Meera Tremblay,British Columbia,Returning,2023-03-25
+1249,Liam Brown,Ontario,New,2023-10-13
+1250,Vikram Smith,British Columbia,New,2024-07-10
+1251,Lucas Patel,Alberta,New,2024-07-06
+1252,Karan Kaur,Ontario,New,2023-01-20
+1253,Ava Khan,Quebec,VIP,2024-07-07
+1254,Liam Chen,Ontario,Returning,2024-02-19
+1255,Liam Kim,Alberta,New,2024-06-24
+1256,Noah Li,Manitoba,New,2024-03-19
+1257,Emma Nair,Ontario,Returning,2023-03-12
+1258,Kabir Gagnon,Quebec,VIP,2024-03-25
+1259,Mia Iyer,Ontario,Returning,2023-10-23
+1260,Vikram Chen,Manitoba,New,2023-08-10
+1261,Arjun Gagnon,Quebec,New,2024-02-04
+1262,Olivia Gagnon,Manitoba,New,2023-04-28
+1263,Divya Mehta,Ontario,Returning,2024-05-04
+1264,Kabir Sharma,British Columbia,New,2023-02-14
+1265,Emma Reddy,Ontario,New,2024-08-08
+1266,Noah Kaur,British Columbia,New,2024-02-13
+1267,Ava Khan,Ontario,Returning,2024-01-05
+1268,Mia Chen,Ontario,New,2023-07-23
+1269,Arjun Kaur,Ontario,Returning,2024-06-14
+1270,Kabir Iyer,Quebec,VIP,2024-05-09
+1271,Pooja Brown,Quebec,VIP,2024-02-28
+1272,Divya Reddy,Alberta,New,2024-01-17
+1273,Arjun Brown,Ontario,VIP,2024-07-12
+1274,Karan Tremblay,Quebec,Returning,2024-04-26
+1275,Aarav Sharma,Ontario,New,2023-03-20
+1276,Karan Nair,Quebec,VIP,2024-08-08
+1277,Neha Kaur,Quebec,New,2023-11-01
+1278,Aarav Patel,British Columbia,New,2024-01-26
+1279,Rahul Kim,Ontario,New,2023-05-03
+1280,Emma Singh,Quebec,Returning,2023-02-02
+1281,Emma Li,Manitoba,New,2024-06-05
+1282,Karan Khan,British Columbia,New,2024-05-28
+1283,Liam Singh,Quebec,Returning,2023-05-02
+1284,Emma Chen,Ontario,Returning,2023-11-03
+1285,Riya Tremblay,British Columbia,VIP,2023-10-31
+1286,Priya Brown,Ontario,VIP,2023-08-21
+1287,Ava Gagnon,Quebec,Returning,2024-07-07
+1288,Rahul Singh,Quebec,Returning,2024-07-02
+1289,Divya Iyer,Alberta,New,2024-08-11
+1290,Meera Kaur,British Columbia,Returning,2024-04-16
+1291,Mia Patel,Alberta,VIP,2024-05-17
+1292,Divya Patel,Ontario,Returning,2024-04-07
+1293,Riya Smith,Ontario,VIP,2024-04-29
+1294,Sanya Singh,British Columbia,New,2024-04-25
+1295,Noah Gagnon,Alberta,New,2023-11-21
+1296,Arjun Nair,Manitoba,New,2023-03-05
+1297,Nikhil Sharma,British Columbia,New,2024-04-20
+1298,Ethan Tremblay,Quebec,VIP,2023-07-21
+1299,Rahul Sharma,Quebec,New,2023-03-14

@@ -1,0 +1,54 @@
+{
+  "campaigns": 84,
+  "period": "2024-01 to 2025-09",
+  "total_spend": 201376.17,
+  "total_revenue": 1384440.0,
+  "blended_roas": 6.87,
+  "by_channel": {
+    "Email": {
+      "total_spend": 27911.43,
+      "total_revenue": 285360.0,
+      "roas": 10.22,
+      "cpa": 11.74,
+      "ctr_pct": 2.79
+    },
+    "Social": {
+      "total_spend": 57296.13,
+      "total_revenue": 204720.0,
+      "roas": 3.57,
+      "cpa": 33.59,
+      "ctr_pct": 1.16
+    },
+    "Search": {
+      "total_spend": 75851.73,
+      "total_revenue": 703440.0,
+      "roas": 9.27,
+      "cpa": 12.94,
+      "ctr_pct": 3.6
+    },
+    "Display": {
+      "total_spend": 40316.88,
+      "total_revenue": 190920.0,
+      "roas": 4.74,
+      "cpa": 25.34,
+      "ctr_pct": 0.73
+    }
+  },
+  "best_channel_roas": {
+    "channel": "Email",
+    "total_spend": 27911.43,
+    "total_revenue": 285360.0,
+    "roas": 10.22,
+    "cpa": 11.74,
+    "ctr_pct": 2.79
+  },
+  "worst_channel_roas": {
+    "channel": "Social",
+    "total_spend": 57296.13,
+    "total_revenue": 204720.0,
+    "roas": 3.57,
+    "cpa": 33.59,
+    "ctr_pct": 1.16
+  },
+  "assumed_aov": 120.0
+}

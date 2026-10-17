@@ -1,0 +1,24 @@
+{
+  "raw_rows": 540,
+  "clean_rows": 500,
+  "exact_duplicates_found": 40,
+  "null_values_by_column": {
+    "product_id": 0,
+    "product_name": 0,
+    "category": 0,
+    "brand": 0,
+    "sku": 0,
+    "unit_price": 14,
+    "status": 0
+  },
+  "prices_zero_or_negative": 33,
+  "invalid_sku_format": 45,
+  "distinct_raw_category_values": 32,
+  "cleaning": {
+    "categories_standardized": 101,
+    "skus_invalid": 24,
+    "prices_imputed": 47,
+    "skus_repaired": 20,
+    "duplicates_removed": 40
+  }
+}

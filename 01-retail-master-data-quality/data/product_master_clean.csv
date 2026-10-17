@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,sku,unit_price,status,sku_flag,price_flag
+P-1184,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100184,2.93,Inactive,ok,ok
+P-1428,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100428,3.38,Active,ok,ok
+P-1158,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100158,3.3,Active,ok,ok
+P-1105,Eggo Homestyle Waffles 10ct,Frozen,Eggo,INVALID,3.68,Active,invalid,ok
+P-1212,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100212,7.11,Inactive,ok,ok
+P-1206,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100206,8.25,Inactive,ok,ok
+P-1462,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100462,3.47,Active,ok,ok
+P-1479,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100479,7.13,Active,ok,ok
+P-1490,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100490,3.78,Active,ok,ok
+P-1076,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100076,5.62,Discontinued,ok,ok
+P-1356,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100356,12.15,Active,ok,ok
+P-1476,Doritos Nacho Cheese 280g,Snacks,DORITOS,SKU-100476,3.88,Active,ok,ok
+P-1061,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100061,2.49,Active,ok,ok
+P-1141,Pringles Original 156g,Snacks,Pringles,SKU-100141,2.97,Active,ok,ok
+P-1030,Pringles Original 156g,Snacks,Pringles,SKU-100030,3.06,Active,ok,ok
+P-1364,McCain Superfries 2kg,Frozen,McCain,SKU-100364,6.58,Active,ok,ok
+P-1038,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100038,3.31,Active,ok,ok
+P-1380,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100380,3.57,Active,ok,ok
+P-1258,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100258,12.19,Discontinued,ok,ok
+P-1098,Becel Original Margarine 907g,Dairy,BECEL,SKU-100098,5.18,Discontinued,ok,ok
+P-1174,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100174,3.99,Active,ok,ok
+P-1012,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100012,4.47,Active,ok,ok
+P-1015,Tim Hortons Fine Grind Coffee 300g,Beverages,TIM HORTONS,SKU-100015,9.87,Active,ok,ok
+P-1228,Pringles Original 156g,Snacks,pringles,SKU-100228,3.04,Active,ok,ok
+P-1399,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100399,4.5,Inactive,ok,ok
+P-1019,Lay's Classic Potato Chips 220g,Snacks,lay's,SKU-100019,3.41,Active,ok,ok
+P-1047,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100047,11.81,Discontinued,ok,imputed
+P-1225,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100225,9.04,Inactive,ok,ok
+P-1358,Eggo Homestyle Waffles 10ct,Frozen,eggo,SKU-100358,3.71,Discontinued,ok,ok
+P-1044,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100044,3.28,Active,ok,ok
+P-1089,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100089,15.06,Discontinued,ok,ok
+P-1080,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100080,3.28,Inactive,ok,ok
+P-1310,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100310,7.85,Inactive,ok,imputed
+P-1016,Becel Original Margarine 907g,Dairy,Becel,SKU-100016,5.15,Inactive,ok,ok
+P-1387,Colgate Total Toothpaste 120ml,Personal Care,colgate,SKU-100387,4.03,Active,ok,ok
+P-1444,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100444,3.75,Active,ok,ok
+P-1496,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100496,7.56,Active,ok,ok
+P-1369,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100369,3.59,Inactive,ok,ok
+P-1140,Chapman's Vanilla Ice Cream 1.5L,Frozen,CHAPMAN'S,SKU-100140,6.04,Inactive,ok,ok
+P-1292,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100292,3.03,Inactive,ok,ok
+P-1491,Lysol Disinfecting Wipes 80ct,Household,LYSOL,SKU-100491,9.04,Discontinued,ok,imputed
+P-1440,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100440,5.95,Active,ok,ok
+P-1282,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100282,7.85,Active,ok,ok
+P-1233,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100233,3.74,Active,ok,ok
+P-1359,Tropicana Orange Juice 1.54L,Beverages,TROPICANA,SKU-100359,6.04,Active,ok,ok
+P-1378,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100378,15.44,Active,ok,ok
+P-1406,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100406,6.02,Active,ok,ok
+P-1327,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100327,5.84,Active,ok,ok
+P-1232,Pringles Original 156g,Snacks,Pringles,SKU-100232,3.07,Inactive,ok,ok
+P-1297,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100297,8.8,Discontinued,ok,ok
+P-1026,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100026,2.93,Inactive,ok,ok
+P-1137,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100137,9.2,Active,ok,ok
+P-1138,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100138,8.03,Discontinued,repaired,ok
+P-1300,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100300,7.85,Discontinued,ok,imputed
+P-1122,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100122,2.52,Active,ok,ok
+P-1040,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,INVALID,5.33,Active,invalid,ok
+P-1456,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100456,6.99,Active,repaired,ok
+P-1326,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100326,7.94,Inactive,ok,ok
+P-1449,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100449,7.41,Discontinued,ok,ok
+P-1417,McCain Superfries 2kg,Frozen,McCain,SKU-100417,6.55,Active,ok,ok
+P-1237,Green Giant Mixed Vegetables 750g,Frozen,green giant,SKU-100237,4.02,Active,ok,ok
+P-1018,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100018,7.17,Active,ok,ok
+P-1029,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100029,4.05,Discontinued,ok,ok
+P-1256,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100256,3.05,Active,ok,ok
+P-1248,Chapman's Vanilla Ice Cream 1.5L,Frozen,chapman's,SKU-100248,6.16,Active,ok,ok
+P-1314,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100314,4.87,Active,ok,ok
+P-1439,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,nature valley,SKU-100439,4.48,Active,ok,ok
+P-1217,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100217,2.55,Inactive,ok,ok
+P-1475,McCain Superfries 2kg,Frozen,McCain,INVALID,6.68,Active,invalid,ok
+P-1335,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100335,2.42,Inactive,ok,ok
+P-1025,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100025,3.05,Discontinued,ok,imputed
+P-1275,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100275,4.36,Active,ok,ok
+P-1373,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100373,6.05,Active,ok,ok
+P-1267,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100267,5.92,Inactive,ok,ok
+P-1128,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100128,3.98,Active,ok,ok
+P-1367,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,INVALID,9.0,Inactive,invalid,ok
+P-1243,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100243,4.36,Active,ok,ok
+P-1386,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100386,9.93,Active,ok,ok
+P-1092,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100092,3.37,Discontinued,ok,ok
+P-1053,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100053,3.31,Discontinued,ok,ok
+P-1255,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100255,2.43,Active,ok,ok
+P-1083,Oreo Chocolate Sandwich Cookies 303g,Snacks,OREO,SKU-100083,3.2,Discontinued,ok,ok
+P-1470,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100470,2.91,Inactive,ok,ok
+P-1227,McCain Superfries 2kg,Frozen,MCCAIN,SKU-100227,6.68,Active,ok,ok
+P-1095,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100095,11.81,Active,ok,imputed
+P-1154,Kraft Singles 24pk,Dairy,Kraft,SKU-100154,5.87,Active,ok,ok
+P-1495,Tropicana Orange Juice 1.54L,Beverages,Tropicana,INVALID,3.05,Active,invalid,imputed
+P-1216,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,NATURE VALLEY,SKU-100216,4.48,Active,ok,ok
+P-1437,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100437,8.57,Inactive,ok,ok
+P-1050,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100050,14.64,Discontinued,ok,ok
+P-1162,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100162,5.92,Active,ok,ok
+P-1410,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100410,10.16,Active,ok,ok
+P-1087,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100087,2.56,Active,ok,ok
+P-1109,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100109,3.04,Active,ok,ok
+P-1411,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100411,2.47,Active,ok,ok
+P-1481,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100481,4.08,Inactive,ok,ok
+P-1262,Lysol Disinfecting Wipes 80ct,Household,Lysol,INVALID,7.27,Inactive,invalid,ok
+P-1172,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100172,4.56,Active,ok,ok
+P-1130,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100130,5.55,Active,ok,imputed
+P-1210,Colgate Total Toothpaste 120ml,Personal Care,colgate,SKU-100210,7.85,Active,ok,imputed
+P-1307,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100307,2.44,Discontinued,repaired,ok
+P-1424,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100424,5.55,Active,ok,imputed
+P-1397,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100397,7.47,Discontinued,ok,ok
+P-1302,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100302,9.21,Inactive,ok,ok
+P-1014,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100014,2.98,Active,ok,ok
+P-1339,Oikos Plain Greek Yogurt 750g,Dairy,oikos,SKU-100339,5.55,Active,ok,ok
+P-1166,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100166,6.81,Active,ok,ok
+P-1223,Kraft Singles 24pk,Dairy,Kraft,SKU-100223,5.89,Active,ok,ok
+P-1240,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100240,7.18,Active,ok,ok
+P-1321,Bounty Select-a-Size Paper Towels 6pk,Household,bounty,SKU-100321,8.84,Active,ok,ok
+P-1298,Becel Original Margarine 907g,Dairy,Becel,INVALID,5.26,Active,invalid,ok
+P-1102,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100102,6.11,Active,ok,ok
+P-1473,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100473,4.59,Active,ok,ok
+P-1355,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100355,2.97,Active,ok,ok
+P-1263,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100263,8.02,Active,ok,ok
+P-1241,McCain Superfries 2kg,Frozen,McCain,SKU-100241,6.57,Active,ok,ok
+P-1218,Kraft Singles 24pk,Dairy,Kraft,SKU-100218,6.09,Inactive,ok,ok
+P-1455,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100455,7.94,Active,ok,ok
+P-1224,Gatorade Cool Blue 710ml,Beverages,GATORADE,SKU-100224,3.04,Active,ok,ok
+P-1055,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100055,3.92,Inactive,ok,ok
+P-1036,Tim Hortons Fine Grind Coffee 300g,Beverages,tim hortons,SKU-100036,10.03,Active,ok,ok
+P-1226,McCain Superfries 2kg,Frozen,mccain,SKU-100226,6.31,Active,ok,ok
+P-1349,Dove Deep Moisture Body Wash 400ml,Personal Care,dove,SKU-100349,6.82,Active,ok,ok
+P-1273,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100273,12.33,Active,ok,ok
+P-1028,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100028,5.97,Active,ok,ok
+P-1070,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100070,5.62,Active,ok,ok
+P-1329,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100329,10.08,Inactive,ok,ok
+P-1072,Dove Deep Moisture Body Wash 400ml,Personal Care,DOVE,SKU-100072,7.08,Active,ok,ok
+P-1100,Gatorade Cool Blue 710ml,Beverages,Gatorade,INVALID,3.05,Active,invalid,ok
+P-1144,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100144,3.05,Discontinued,ok,imputed
+P-1010,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100010,7.4,Active,ok,ok
+P-1350,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100350,6.89,Active,ok,ok
+P-1452,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100452,4.43,Active,ok,ok
+P-1037,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100037,9.8,Discontinued,ok,ok
+P-1127,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100127,3.43,Discontinued,ok,ok
+P-1090,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100090,6.08,Active,ok,ok
+P-1322,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100322,7.9,Inactive,ok,ok
+P-1458,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100458,11.84,Discontinued,ok,ok
+P-1407,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100407,8.88,Active,ok,ok
+P-1042,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100042,3.29,Active,ok,ok
+P-1190,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100190,7.14,Active,ok,ok
+P-1280,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100280,3.5,Discontinued,ok,ok
+P-1290,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100290,8.35,Active,ok,ok
+P-1320,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100320,7.78,Inactive,ok,ok
+P-1409,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100409,12.23,Active,ok,ok
+P-1252,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100252,3.25,Active,ok,ok
+P-1348,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100348,3.74,Discontinued,ok,ok
+P-1477,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100477,5.85,Inactive,ok,ok
+P-1169,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100169,3.22,Active,ok,ok
+P-1398,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100398,12.19,Discontinued,ok,ok
+P-1182,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100182,15.28,Active,ok,ok
+P-1336,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100336,5.55,Active,ok,imputed
+P-1446,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100446,2.52,Discontinued,ok,ok
+P-1236,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100236,6.87,Discontinued,ok,ok
+P-1107,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100107,3.49,Inactive,ok,ok
+P-1017,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100017,4.78,Inactive,ok,ok
+P-1390,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100390,7.13,Active,ok,ok
+P-1004,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100004,7.07,Active,ok,ok
+P-1303,Lay's Classic Potato Chips 220g,Snacks,LAY'S,SKU-100303,3.55,Discontinued,ok,ok
+P-1468,Becel Original Margarine 907g,Dairy,Becel,SKU-100468,5.24,Inactive,ok,ok
+P-1353,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100353,2.99,Active,ok,ok
+P-1430,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100430,12.29,Active,ok,ok
+P-1084,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100084,4.08,Active,ok,ok
+P-1372,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100372,8.31,Inactive,ok,ok
+P-1011,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100011,6.84,Discontinued,ok,ok
+P-1185,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100185,3.98,Discontinued,ok,ok
+P-1103,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100103,2.46,Active,ok,ok
+P-1066,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100066,10.0,Active,ok,ok
+P-1116,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100116,7.59,Active,ok,ok
+P-1447,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100447,5.83,Active,ok,ok
+P-1413,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100413,11.78,Active,ok,ok
+P-1229,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100229,7.42,Active,ok,ok
+P-1299,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100299,11.81,Active,ok,imputed
+P-1296,Bounty Select-a-Size Paper Towels 6pk,Household,bounty,SKU-100296,9.15,Active,ok,imputed
+P-1450,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100450,5.56,Active,ok,ok
+P-1078,Eggo Homestyle Waffles 10ct,Frozen,eggo,SKU-100078,3.88,Active,ok,ok
+P-1120,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100120,4.74,Active,ok,ok
+P-1202,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,INVALID,11.67,Discontinued,invalid,ok
+P-1427,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100427,5.55,Active,ok,imputed
+P-1245,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100245,6.04,Inactive,ok,ok
+P-1165,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100165,4.67,Discontinued,ok,ok
+P-1235,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100235,11.71,Discontinued,ok,ok
+P-1077,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100077,9.99,Active,ok,ok
+P-1284,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100284,5.33,Active,ok,ok
+P-1416,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100416,3.19,Discontinued,ok,ok
+P-1239,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100239,3.28,Active,ok,ok
+P-1337,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100337,5.84,Active,ok,ok
+P-1118,McCain Superfries 2kg,Frozen,McCain,SKU-100118,6.58,Discontinued,ok,ok
+P-1180,Colgate Total Toothpaste 120ml,Personal Care,Colgate,INVALID,3.88,Active,invalid,ok
+P-1183,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100183,9.04,Discontinued,ok,imputed
+P-1175,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100175,3.32,Discontinued,ok,ok
+P-1065,Pringles Original 156g,Snacks,Pringles,SKU-100065,2.95,Active,ok,ok
+P-1480,McCain Superfries 2kg,Frozen,McCain,SKU-100480,6.63,Active,ok,ok
+P-1242,Armstrong Old Cheddar 400g,Dairy,armstrong,SKU-100242,7.02,Discontinued,ok,ok
+P-1101,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100101,6.01,Active,ok,ok
+P-1149,Pringles Original 156g,Snacks,PRINGLES,SKU-100149,3.04,Active,ok,ok
+P-1288,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100288,3.69,Inactive,ok,ok
+P-1361,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100361,4.07,Inactive,ok,ok
+P-1418,Pringles Original 156g,Snacks,Pringles,SKU-100418,3.04,Inactive,ok,ok
+P-1208,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100208,8.55,Active,ok,ok
+P-1023,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100023,15.15,Discontinued,ok,ok
+P-1346,Kraft Singles 24pk,Dairy,Kraft,SKU-100346,6.02,Active,ok,ok
+P-1246,Lysol Disinfecting Wipes 80ct,Household,lysol,SKU-100246,7.58,Active,ok,ok
+P-1499,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100499,4.09,Active,ok,ok
+P-1489,Becel Original Margarine 907g,Dairy,Becel,SKU-100489,5.17,Discontinued,ok,ok
+P-1453,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100453,5.93,Active,ok,ok
+P-1150,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100150,3.82,Active,ok,ok
+P-1178,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100178,3.87,Active,ok,ok
+P-1344,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100344,3.97,Active,ok,ok
+P-1420,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100420,3.04,Active,ok,ok
+P-1221,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100221,4.08,Active,ok,imputed
+P-1234,Kraft Singles 24pk,Dairy,KRAFT,SKU-100234,6.06,Active,ok,ok
+P-1133,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100133,5.91,Active,ok,ok
+P-1285,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100285,9.7,Inactive,ok,ok
+P-1408,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100408,3.05,Inactive,ok,imputed
+P-1148,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100148,3.02,Inactive,ok,ok
+P-1269,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100269,3.87,Active,ok,ok
+P-1143,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100143,3.24,Active,ok,ok
+P-1312,Eggo Homestyle Waffles 10ct,Frozen,Eggo,INVALID,3.75,Active,invalid,ok
+P-1323,McCain Superfries 2kg,Frozen,McCain,SKU-100323,6.49,Active,ok,ok
+P-1281,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100281,3.05,Inactive,ok,imputed
+P-1400,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100400,4.9,Inactive,ok,ok
+P-1250,Becel Original Margarine 907g,Dairy,Becel,SKU-100250,5.45,Inactive,ok,ok
+P-1333,Pringles Original 156g,Snacks,Pringles,SKU-100333,2.97,Discontinued,ok,ok
+P-1295,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100295,7.34,Active,ok,ok
+P-1485,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100485,5.55,Active,ok,imputed
+P-1457,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100457,7.84,Discontinued,ok,ok
+P-1163,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100163,4.7,Active,ok,ok
+P-1366,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100366,8.15,Active,ok,ok
+P-1412,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100412,5.55,Active,ok,imputed
+P-1161,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100161,12.26,Active,ok,ok
+P-1022,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100022,4.1,Inactive,ok,ok
+P-1405,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100405,2.49,Active,ok,ok
+P-1031,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100031,5.86,Active,ok,ok
+P-1071,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100071,4.79,Active,ok,ok
+P-1117,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100117,8.47,Active,ok,ok
+P-1425,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100425,12.21,Discontinued,ok,ok
+P-1062,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100062,6.09,Active,ok,ok
+P-1483,Red Bull Energy Drink 250ml,Beverages,Red Bull,INVALID,5.89,Active,invalid,imputed
+P-1494,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100494,6.92,Active,ok,ok
+P-1342,Green Giant Mixed Vegetables 750g,Frozen,GREEN GIANT,SKU-100342,4.07,Inactive,ok,ok
+P-1104,Kraft Singles 24pk,Dairy,Kraft,SKU-100104,5.86,Inactive,ok,ok
+P-1272,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100272,4.43,Inactive,ok,ok
+P-1388,Armstrong Old Cheddar 400g,Dairy,ARMSTRONG,SKU-100388,6.91,Active,ok,ok
+P-1113,Colgate Total Toothpaste 120ml,Personal Care,colgate,SKU-100113,4.03,Active,ok,ok
+P-1469,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100469,8.47,Discontinued,ok,ok
+P-1274,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100274,2.97,Active,ok,ok
+P-1279,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100279,9.21,Active,ok,ok
+P-1461,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100461,5.39,Active,ok,ok
+P-1052,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100052,5.95,Discontinued,ok,ok
+P-1213,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100213,6.95,Discontinued,ok,ok
+P-1021,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100021,4.76,Inactive,ok,ok
+P-1001,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100001,6.88,Discontinued,ok,ok
+P-1289,McCain Superfries 2kg,Frozen,McCain,SKU-100289,6.41,Active,ok,ok
+P-1463,Becel Original Margarine 907g,Dairy,Becel,SKU-100463,5.2,Inactive,ok,ok
+P-1330,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100330,9.09,Discontinued,ok,ok
+P-1316,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100316,3.45,Inactive,ok,ok
+P-1445,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100445,4.08,Inactive,ok,ok
+P-1268,McCain Superfries 2kg,Frozen,McCain,SKU-100268,4.08,Active,ok,imputed
+P-1385,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100385,11.81,Active,ok,imputed
+P-1034,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100034,12.16,Discontinued,ok,ok
+P-1448,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100448,2.46,Active,ok,ok
+P-1384,Becel Original Margarine 907g,Dairy,becel,SKU-100384,5.15,Active,ok,ok
+P-1423,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100423,7.65,Active,ok,ok
+P-1151,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100151,3.05,Active,ok,imputed
+P-1146,Pringles Original 156g,Snacks,Pringles,SKU-100146,2.99,Inactive,ok,ok
+P-1432,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100432,3.49,Discontinued,ok,ok
+P-1421,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100421,2.52,Active,repaired,ok
+P-1305,Pringles Original 156g,Snacks,Pringles,SKU-100305,3.51,Active,ok,imputed
+P-1215,Kraft Singles 24pk,Dairy,Kraft,SKU-100215,6.1,Discontinued,ok,ok
+P-1315,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100315,11.81,Active,ok,imputed
+P-1187,Doritos Nacho Cheese 280g,Snacks,doritos,SKU-100187,4.07,Inactive,ok,ok
+P-1309,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100309,4.1,Discontinued,ok,ok
+P-1063,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100063,15.43,Active,ok,ok
+P-1181,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100181,4.04,Inactive,ok,ok
+P-1145,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100145,2.43,Active,ok,ok
+P-1454,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100454,7.64,Active,ok,ok
+P-1199,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100199,4.69,Discontinued,ok,ok
+P-1132,Becel Original Margarine 907g,Dairy,Becel,SKU-100132,5.19,Active,ok,ok
+P-1060,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100060,2.55,Active,ok,ok
+P-1338,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100338,2.46,Discontinued,ok,ok
+P-1443,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100443,4.38,Active,ok,ok
+P-1211,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100211,8.74,Inactive,ok,ok
+P-1383,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100383,3.51,Active,ok,imputed
+P-1097,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100097,6.84,Discontinued,repaired,ok
+P-1471,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100471,3.52,Active,ok,ok
+P-1436,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100436,4.09,Inactive,ok,ok
+P-1249,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100249,8.55,Active,ok,ok
+P-1131,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100131,5.97,Discontinued,ok,ok
+P-1375,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,INVALID,7.84,Discontinued,invalid,ok
+P-1313,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100313,4.03,Discontinued,ok,ok
+P-1039,Colgate Total Toothpaste 120ml,Personal Care,colgate,SKU-100039,3.9,Inactive,ok,ok
+P-1270,Kraft Singles 24pk,Dairy,Kraft,SKU-100270,5.83,Active,repaired,ok
+P-1254,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100254,3.49,Active,ok,ok
+P-1203,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100203,14.72,Active,ok,ok
+P-1193,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100193,7.04,Active,ok,ok
+P-1352,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100352,7.03,Inactive,ok,ok
+P-1354,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100354,3.98,Active,ok,ok
+P-1277,McCain Superfries 2kg,Frozen,McCain,SKU-100277,6.44,Active,ok,ok
+P-1002,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100002,14.78,Discontinued,ok,ok
+P-1115,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100115,7.68,Inactive,ok,ok
+P-1081,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100081,8.66,Active,ok,ok
+P-1377,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100377,12.25,Active,ok,ok
+P-1382,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100382,3.93,Discontinued,ok,ok
+P-1079,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100079,6.89,Discontinued,ok,ok
+P-1124,Armstrong Old Cheddar 400g,Dairy,ARMSTRONG,SKU-100124,7.13,Inactive,ok,ok
+P-1153,Becel Original Margarine 907g,Dairy,Becel,SKU-100153,5.39,Active,ok,ok
+P-1179,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100179,4.04,Discontinued,ok,ok
+P-1164,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100164,5.61,Active,ok,ok
+P-1110,Tim Hortons Fine Grind Coffee 300g,Beverages,TIM HORTONS,SKU-100110,9.78,Discontinued,ok,ok
+P-1009,McCain Superfries 2kg,Frozen,McCain,SKU-100009,6.48,Discontinued,ok,ok
+P-1007,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100007,8.43,Active,ok,ok
+P-1126,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100126,12.29,Active,ok,ok
+P-1415,McCain Superfries 2kg,Frozen,McCain,SKU-100415,4.08,Inactive,ok,imputed
+P-1343,Kleenex Ultra Soft Tissues 6pk,Personal Care,kleenex,SKU-100343,7.98,Inactive,ok,ok
+P-1304,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100304,4.75,Active,ok,ok
+P-1404,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100404,12.14,Inactive,ok,ok
+P-1059,Lay's Classic Potato Chips 220g,Snacks,lay's,INVALID,3.41,Active,invalid,ok
+P-1325,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100325,8.47,Inactive,repaired,ok
+P-1487,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100487,5.55,Active,ok,imputed
+P-1287,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100287,7.46,Inactive,ok,ok
+P-1486,Pringles Original 156g,Snacks,Pringles,SKU-100486,3.06,Active,ok,ok
+P-1134,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100134,5.54,Active,ok,ok
+P-1368,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100368,3.99,Active,ok,ok
+P-1393,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100393,8.19,Inactive,ok,ok
+P-1286,Becel Original Margarine 907g,Dairy,Becel,SKU-100286,5.25,Active,ok,ok
+P-1260,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100260,3.92,Inactive,ok,ok
+P-1096,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100096,3.7,Active,ok,ok
+P-1046,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100046,4.11,Inactive,ok,ok
+P-1301,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100301,5.98,Active,ok,ok
+P-1201,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100201,5.5,Active,ok,ok
+P-1136,Dove Deep Moisture Body Wash 400ml,Personal Care,dove,SKU-100136,6.92,Inactive,ok,ok
+P-1318,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100318,2.46,Discontinued,ok,ok
+P-1020,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100020,3.05,Inactive,ok,imputed
+P-1419,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100419,7.62,Active,ok,ok
+P-1251,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100251,5.85,Active,ok,ok
+P-1357,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100357,7.77,Discontinued,ok,ok
+P-1257,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100257,8.34,Inactive,ok,ok
+P-1478,Kraft Singles 24pk,Dairy,Kraft,SKU-100478,6.02,Active,ok,ok
+P-1013,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100013,10.25,Active,ok,ok
+P-1197,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100197,4.01,Discontinued,ok,ok
+P-1434,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100434,8.89,Active,ok,ok
+P-1264,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100264,8.29,Active,ok,ok
+P-1198,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100198,4.58,Discontinued,ok,ok
+P-1259,McCain Superfries 2kg,Frozen,McCain,SKU-100259,6.39,Active,ok,ok
+P-1460,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100460,9.07,Inactive,ok,ok
+P-1085,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100085,4.08,Inactive,ok,imputed
+P-1317,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100317,3.03,Active,repaired,ok
+P-1106,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100106,9.96,Active,ok,ok
+P-1177,Lay's Classic Potato Chips 220g,Snacks,lay's,SKU-100177,3.56,Active,ok,ok
+P-1498,Lysol Disinfecting Wipes 80ct,Household,Lysol,SKU-100498,7.65,Active,ok,ok
+P-1119,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100119,4.04,Active,ok,ok
+P-1024,Head & Shoulders Classic 400ml,Personal Care,Head & Shoulders,SKU-100024,8.7,Discontinued,ok,ok
+P-1464,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100464,3.03,Inactive,ok,ok
+P-1086,McCain Superfries 2kg,Frozen,McCain,SKU-100086,6.65,Inactive,ok,ok
+P-1088,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100088,7.97,Active,ok,ok
+P-1159,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100159,5.94,Inactive,ok,ok
+P-1204,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100204,3.77,Inactive,ok,ok
+P-1488,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100488,2.44,Active,ok,ok
+P-1129,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100129,9.73,Active,ok,ok
+P-1056,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100056,4.76,Active,ok,ok
+P-1381,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100381,5.15,Inactive,ok,imputed
+P-1278,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100278,3.26,Discontinued,ok,ok
+P-1091,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100091,4.42,Inactive,ok,ok
+P-1247,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100247,6.08,Active,ok,ok
+P-1152,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100152,4.74,Active,ok,ok
+P-1192,McCain Superfries 2kg,Frozen,McCain,SKU-100192,6.33,Discontinued,ok,ok
+P-1331,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,NATURE VALLEY,SKU-100331,4.46,Active,ok,ok
+P-1441,Armstrong Old Cheddar 400g,Dairy,armstrong,SKU-100441,7.02,Active,ok,ok
+P-1465,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100465,11.69,Discontinued,ok,ok
+P-1306,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100306,3.29,Active,ok,ok
+P-1442,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100442,4.09,Discontinued,ok,ok
+P-1414,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100414,3.38,Active,ok,ok
+P-1222,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100222,6.03,Inactive,ok,ok
+P-1195,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100195,3.05,Active,ok,imputed
+P-1492,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100492,3.87,Active,ok,ok
+P-1219,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100219,4.79,Active,ok,ok
+P-1389,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100389,4.77,Active,ok,ok
+P-1433,Pringles Original 156g,Snacks,Pringles,SKU-100433,3.06,Discontinued,ok,ok
+P-1347,Natrel 2% Milk 2L,Dairy,NATREL,SKU-100347,4.84,Active,ok,ok
+P-1139,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100139,14.9,Discontinued,ok,ok
+P-1027,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100027,3.27,Inactive,ok,ok
+P-1073,Gatorade Cool Blue 710ml,Beverages,Gatorade,INVALID,2.98,Inactive,invalid,ok
+P-1230,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100230,5.41,Discontinued,ok,ok
+P-1294,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100294,5.89,Discontinued,ok,imputed
+P-1114,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100114,4.78,Active,ok,ok
+P-1200,Pringles Original 156g,Snacks,Pringles,SKU-100200,3.04,Active,ok,ok
+P-1068,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100068,3.08,Discontinued,ok,ok
+P-1328,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,SKU-100328,11.98,Active,ok,ok
+P-1000,Cascade Platinum Dishwasher Pods 62ct,Household,CASCADE,SKU-100000,12.09,Active,ok,ok
+P-1074,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100074,9.88,Inactive,ok,ok
+P-1067,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100067,3.98,Active,ok,ok
+P-1057,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100057,3.97,Active,ok,ok
+P-1075,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100075,3.27,Active,ok,ok
+P-1370,Lysol Disinfecting Wipes 80ct,Household,LYSOL,SKU-100370,7.41,Active,ok,ok
+P-1186,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100186,8.04,Discontinued,ok,ok
+P-1191,Armstrong Old Cheddar 400g,Dairy,armstrong,SKU-100191,6.95,Inactive,ok,ok
+P-1334,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100334,3.89,Active,ok,ok
+P-1426,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100426,6.95,Active,ok,ok
+P-1238,Kraft Singles 24pk,Dairy,Kraft,SKU-100238,5.89,Discontinued,ok,ok
+P-1054,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100054,3.05,Active,ok,imputed
+P-1395,Cascade Platinum Dishwasher Pods 62ct,Household,cascade,SKU-100395,12.23,Active,ok,ok
+P-1003,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100003,3.27,Active,ok,imputed
+P-1147,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100147,7.07,Active,ok,ok
+P-1244,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100244,6.79,Active,ok,ok
+P-1391,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100391,3.51,Inactive,ok,ok
+P-1265,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100265,3.24,Active,ok,ok
+P-1435,Lysol Disinfecting Wipes 80ct,Household,LYSOL,SKU-100435,7.46,Inactive,ok,ok
+P-1094,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100094,4.38,Active,ok,ok
+P-1319,Cascade Platinum Dishwasher Pods 62ct,Household,Cascade,INVALID,12.07,Discontinued,invalid,ok
+P-1376,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100376,14.81,Active,ok,ok
+P-1422,Tide Original Liquid Detergent 4.08L,Household,tide,SKU-100422,14.85,Active,ok,ok
+P-1340,Tide Original Liquid Detergent 4.08L,Household,Tide,SKU-100340,15.14,Discontinued,ok,ok
+P-1429,McCain Superfries 2kg,Frozen,McCain,SKU-100429,4.08,Active,ok,imputed
+P-1160,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100160,7.14,Active,ok,ok
+P-1205,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100205,3.55,Discontinued,ok,ok
+P-1188,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100188,2.93,Active,ok,ok
+P-1170,McCain Superfries 2kg,Frozen,McCain,INVALID,6.35,Active,invalid,ok
+P-1048,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100048,3.36,Active,repaired,ok
+P-1271,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100271,6.92,Active,ok,ok
+P-1341,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100341,4.0,Inactive,ok,ok
+P-1176,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100176,2.92,Discontinued,ok,ok
+P-1045,McCain Superfries 2kg,Frozen,MCCAIN,SKU-100045,6.67,Active,ok,ok
+P-1396,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100396,3.03,Active,ok,ok
+P-1112,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100112,6.82,Active,ok,ok
+P-1351,Pringles Original 156g,Snacks,PRINGLES,INVALID,2.91,Inactive,invalid,ok
+P-1394,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100394,4.08,Active,ok,ok
+P-1156,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100156,6.97,Active,ok,ok
+P-1043,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100043,2.43,Active,ok,ok
+P-1493,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100493,3.96,Discontinued,ok,ok
+P-1401,Kraft Singles 24pk,Dairy,Kraft,SKU-100401,5.97,Active,ok,ok
+P-1005,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100005,2.43,Inactive,ok,ok
+P-1058,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,INVALID,8.77,Active,invalid,ok
+P-1332,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100332,3.94,Inactive,ok,ok
+P-1155,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100155,3.89,Active,ok,ok
+P-1482,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100482,8.91,Active,ok,ok
+P-1474,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100474,3.27,Active,ok,ok
+P-1064,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100064,2.94,Active,ok,ok
+P-1360,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100360,5.94,Active,ok,ok
+P-1051,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100051,3.46,Active,ok,ok
+P-1231,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100231,6.05,Active,ok,ok
+P-1363,Colgate Total Toothpaste 120ml,Personal Care,Colgate,SKU-100363,3.91,Active,ok,ok
+P-1362,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100362,4.05,Active,ok,ok
+P-1291,Red Bull Energy Drink 250ml,Beverages,Red Bull,SKU-100291,3.05,Discontinued,ok,imputed
+P-1135,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100135,9.19,Active,ok,ok
+P-1497,Becel Original Margarine 907g,Dairy,Becel,SKU-100497,5.41,Active,ok,ok
+P-1008,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100008,9.82,Inactive,ok,ok
+P-1403,Lay's Classic Potato Chips 220g,Snacks,Lay's,SKU-100403,3.58,Active,ok,ok
+P-1283,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100283,5.4,Discontinued,ok,ok
+P-1207,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100207,5.84,Active,ok,ok
+P-1171,Pepsi Cola 500ml,Beverages,Pepsi,INVALID,3.05,Active,invalid,imputed
+P-1142,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100142,5.95,Discontinued,ok,ok
+P-1214,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100214,7.03,Active,ok,ok
+P-1082,Tropicana Orange Juice 1.54L,Beverages,Tropicana,SKU-100082,5.94,Active,ok,ok
+P-1276,Bounty Select-a-Size Paper Towels 6pk,Household,Bounty,SKU-100276,8.81,Inactive,ok,ok
+P-1402,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100402,5.4,Inactive,ok,ok
+P-1459,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100459,3.93,Active,ok,ok
+P-1093,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100093,7.8,Active,ok,ok
+P-1451,Kleenex Ultra Soft Tissues 6pk,Personal Care,kleenex,SKU-100451,7.92,Inactive,ok,ok
+P-1125,Doritos Nacho Cheese 280g,Snacks,Doritos,SKU-100125,3.95,Active,ok,ok
+P-1035,Chapman's Vanilla Ice Cream 1.5L,Frozen,Chapman's,SKU-100035,4.08,Active,ok,imputed
+P-1209,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100209,7.0,Discontinued,ok,ok
+P-1108,Pringles Original 156g,Snacks,Pringles,SKU-100108,2.99,Inactive,ok,ok
+P-1189,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100189,4.51,Discontinued,ok,ok
+P-1167,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100167,5.5,Inactive,ok,imputed
+P-1484,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100484,5.47,Active,ok,ok
+P-1466,Becel Original Margarine 907g,Dairy,Becel,SKU-100466,5.24,Discontinued,ok,ok
+P-1168,Pepsi Cola 500ml,Beverages,PEPSI,INVALID,2.54,Inactive,invalid,ok
+P-1371,Natrel 2% Milk 2L,Dairy,Natrel,SKU-100371,4.91,Active,ok,ok
+P-1266,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100266,3.51,Active,ok,imputed
+P-1032,Coca-Cola Classic 500ml,Beverages,Coca-Cola,SKU-100032,2.55,Discontinued,ok,ok
+P-1431,Pringles Original 156g,Snacks,Pringles,SKU-100431,3.07,Active,ok,ok
+P-1220,Dove Deep Moisture Body Wash 400ml,Personal Care,Dove,SKU-100220,6.97,Active,ok,ok
+P-1438,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Nature Valley,SKU-100438,4.37,Active,ok,ok
+P-1311,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100311,5.46,Discontinued,ok,ok
+P-1121,Head & Shoulders Classic 400ml,Personal Care,head & shoulders,SKU-100121,8.56,Active,ok,ok
+P-1006,Cascade Platinum Dishwasher Pods 62ct,Household,cascade,SKU-100006,11.98,Active,ok,ok
+P-1033,McCain Superfries 2kg,Frozen,mccain,SKU-100033,6.37,Discontinued,ok,ok
+P-1041,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100041,8.0,Active,ok,ok
+P-1123,Tim Hortons Fine Grind Coffee 300g,Beverages,Tim Hortons,SKU-100123,10.29,Discontinued,ok,ok
+P-1069,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100069,5.37,Discontinued,ok,ok
+P-1196,Pepsi Cola 500ml,Beverages,Pepsi,SKU-100196,2.45,Active,ok,ok
+P-1099,Kraft Singles 24pk,Dairy,Kraft,SKU-100099,6.16,Active,ok,ok
+P-1392,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,INVALID,8.14,Active,invalid,ok
+P-1194,Bounty Select-a-Size Paper Towels 6pk,Household,bounty,SKU-100194,11.81,Active,ok,imputed
+P-1365,Armstrong Old Cheddar 400g,Dairy,Armstrong,SKU-100365,6.89,Active,ok,ok
+P-1293,Kraft Singles 24pk,Dairy,Kraft,SKU-100293,5.5,Inactive,ok,imputed
+P-1261,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,SKU-100261,5.62,Discontinued,ok,ok
+P-1308,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,INVALID,5.54,Active,invalid,ok
+P-1111,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100111,8.06,Active,ok,ok
+P-1173,Oreo Chocolate Sandwich Cookies 303g,Snacks,Oreo,SKU-100173,3.35,Discontinued,ok,ok
+P-1472,Pringles Original 156g,Snacks,pringles,SKU-100472,2.92,Active,ok,ok
+P-1049,Kleenex Ultra Soft Tissues 6pk,Personal Care,Kleenex,SKU-100049,7.8,Active,ok,ok
+P-1379,Gatorade Cool Blue 710ml,Beverages,Gatorade,SKU-100379,2.98,Discontinued,ok,ok
+P-1374,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100374,4.06,Active,ok,ok
+P-1345,Green Giant Mixed Vegetables 750g,Frozen,Green Giant,SKU-100345,4.08,Active,ok,imputed
+P-1467,Eggo Homestyle Waffles 10ct,Frozen,Eggo,SKU-100467,3.78,Discontinued,ok,ok
+P-1253,McCain Superfries 2kg,Frozen,McCain,SKU-100253,6.43,Inactive,ok,ok
+P-1157,Oikos Plain Greek Yogurt 750g,Dairy,Oikos,INVALID,5.55,Active,invalid,imputed
+P-1324,McCain Superfries 2kg,Frozen,McCain,SKU-100324,6.42,Discontinued,ok,ok

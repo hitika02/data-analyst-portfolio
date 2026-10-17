@@ -1,0 +1,44 @@
+{
+  "total_revenue": 566320.52,
+  "total_orders": 2000,
+  "avg_order_value": 283.16,
+  "unique_customers": 871,
+  "revenue_by_category": {
+    "Electronics": 329999.65,
+    "Home & Kitchen": 80526.64,
+    "Sports": 74384.63,
+    "Apparel": 63308.72,
+    "Beauty": 18100.88
+  },
+  "revenue_by_region": {
+    "Ontario": 259661.26,
+    "Quebec": 110512.39,
+    "British Columbia": 83659.63,
+    "Alberta": 71364.31,
+    "Manitoba": 41122.93
+  },
+  "revenue_by_channel": {
+    "Website": 259654.49,
+    "Mobile App": 207665.43,
+    "In-Store Pickup": 99000.6
+  },
+  "best_month": {
+    "month": "2024-11",
+    "revenue": 34915.43
+  },
+  "last_3_mom_growth_pct": [
+    [
+      "2025-07",
+      49.1
+    ],
+    [
+      "2025-08",
+      -20.5
+    ],
+    [
+      "2025-09",
+      14.2
+    ]
+  ],
+  "period": "2024-01 to 2025-09"
+}

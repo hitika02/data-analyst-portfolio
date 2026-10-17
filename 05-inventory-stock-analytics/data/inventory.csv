@@ -1,0 +1,298 @@
+sku,product_name,category,warehouse,stock_on_hand,reorder_point,lead_time_days,avg_daily_demand,unit_cost
+SKU-100000,Kraft Singles 24pk,Dairy,Toronto DC,1894,42,4,9.5,3.59
+SKU-100000,Kraft Singles 24pk,Dairy,Montreal DC,717,151,4,37.7,3.59
+SKU-100007,Kleenex Ultra Soft Tissues 6pk,Personal Care,Montreal DC,6896,868,12,59.6,4.79
+SKU-100014,Chapman's Vanilla Ice Cream 1.5L,Frozen,Vancouver DC,1892,500,9,54.2,3.59
+SKU-100014,Chapman's Vanilla Ice Cream 1.5L,Frozen,Montreal DC,818,525,13,35.7,3.59
+SKU-100014,Chapman's Vanilla Ice Cream 1.5L,Frozen,Toronto DC,1185,379,14,26.8,3.59
+SKU-100021,Tide Original Liquid Detergent 4.08L,Household,Montreal DC,580,156,8,17.0,8.99
+SKU-100021,Tide Original Liquid Detergent 4.08L,Household,Vancouver DC,4072,242,10,20.6,8.99
+SKU-100028,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,1801,349,6,55.9,2.69
+SKU-100028,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,7694,310,6,44.3,2.69
+SKU-100028,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Toronto DC,625,201,5,31.3,2.69
+SKU-100035,Kleenex Ultra Soft Tissues 6pk,Personal Care,Montreal DC,3284,455,13,29.5,4.79
+SKU-100035,Kleenex Ultra Soft Tissues 6pk,Personal Care,Toronto DC,6367,417,8,42.4,4.79
+SKU-100042,Armstrong Old Cheddar 400g,Dairy,Toronto DC,744,56,10,5.0,4.19
+SKU-100042,Armstrong Old Cheddar 400g,Dairy,Vancouver DC,13,42,8,4.4,4.19
+SKU-100042,Armstrong Old Cheddar 400g,Dairy,Montreal DC,125,91,7,10.2,4.19
+SKU-100049,Natrel 2% Milk 2L,Dairy,Vancouver DC,1233,509,14,28.7,2.87
+SKU-100049,Natrel 2% Milk 2L,Dairy,Toronto DC,381,514,13,38.4,2.87
+SKU-100049,Natrel 2% Milk 2L,Dairy,Montreal DC,283,769,12,55.0,2.87
+SKU-100056,Red Bull Energy Drink 250ml,Beverages,Montreal DC,933,257,8,29.8,1.97
+SKU-100056,Red Bull Energy Drink 250ml,Beverages,Vancouver DC,519,126,5,19.5,1.97
+SKU-100056,Red Bull Energy Drink 250ml,Beverages,Toronto DC,1038,510,13,38.2,1.97
+SKU-100063,Kleenex Ultra Soft Tissues 6pk,Personal Care,Vancouver DC,389,242,7,31.9,4.79
+SKU-100063,Kleenex Ultra Soft Tissues 6pk,Personal Care,Montreal DC,1277,930,13,56.0,4.79
+SKU-100070,Kraft Singles 24pk,Dairy,Vancouver DC,683,245,5,38.2,3.59
+SKU-100070,Kraft Singles 24pk,Dairy,Montreal DC,923,170,5,27.4,3.59
+SKU-100077,Coca-Cola Classic 500ml,Beverages,Toronto DC,2004,314,6,45.4,1.49
+SKU-100077,Coca-Cola Classic 500ml,Beverages,Montreal DC,399,141,13,10.3,1.49
+SKU-100084,Pringles Original 156g,Snacks,Toronto DC,355,632,9,55.0,1.79
+SKU-100084,Pringles Original 156g,Snacks,Vancouver DC,448,491,11,36.5,1.79
+SKU-100091,Kleenex Ultra Soft Tissues 6pk,Personal Care,Toronto DC,1372,326,7,37.1,4.79
+SKU-100098,Lysol Disinfecting Wipes 80ct,Household,Vancouver DC,989,324,11,23.3,4.49
+SKU-100098,Lysol Disinfecting Wipes 80ct,Household,Toronto DC,2124,307,5,50.6,4.49
+SKU-100105,Becel Original Margarine 907g,Dairy,Vancouver DC,220,320,11,22.8,3.17
+SKU-100112,Green Giant Mixed Vegetables 750g,Frozen,Toronto DC,284,190,8,19.9,2.39
+SKU-100112,Green Giant Mixed Vegetables 750g,Frozen,Vancouver DC,662,516,8,51.3,2.39
+SKU-100119,Colgate Total Toothpaste 120ml,Personal Care,Toronto DC,124,56,5,9.3,2.39
+SKU-100119,Colgate Total Toothpaste 120ml,Personal Care,Vancouver DC,122,340,9,31.3,2.39
+SKU-100119,Colgate Total Toothpaste 120ml,Personal Care,Montreal DC,129,196,13,12.5,2.39
+SKU-100126,Oreo Chocolate Sandwich Cookies 303g,Snacks,Vancouver DC,1208,173,4,36.4,1.97
+SKU-100126,Oreo Chocolate Sandwich Cookies 303g,Snacks,Toronto DC,373,241,10,21.7,1.97
+SKU-100126,Oreo Chocolate Sandwich Cookies 303g,Snacks,Montreal DC,1519,304,5,51.8,1.97
+SKU-100133,Becel Original Margarine 907g,Dairy,Montreal DC,1548,787,14,52.3,3.17
+SKU-100133,Becel Original Margarine 907g,Dairy,Vancouver DC,175,45,7,6.2,3.17
+SKU-100133,Becel Original Margarine 907g,Dairy,Toronto DC,959,174,3,53.5,3.17
+SKU-100140,Tide Original Liquid Detergent 4.08L,Household,Toronto DC,652,845,14,58.0,8.99
+SKU-100140,Tide Original Liquid Detergent 4.08L,Household,Vancouver DC,213,187,11,15.3,8.99
+SKU-100140,Tide Original Liquid Detergent 4.08L,Household,Montreal DC,102,12,3,3.5,8.99
+SKU-100147,Coca-Cola Classic 500ml,Beverages,Toronto DC,517,464,12,33.9,1.49
+SKU-100147,Coca-Cola Classic 500ml,Beverages,Montreal DC,1428,740,10,59.6,1.49
+SKU-100154,Tim Hortons Fine Grind Coffee 300g,Beverages,Toronto DC,749,245,11,19.2,5.99
+SKU-100154,Tim Hortons Fine Grind Coffee 300g,Beverages,Vancouver DC,500,244,14,15.8,5.99
+SKU-100161,Colgate Total Toothpaste 120ml,Personal Care,Montreal DC,1557,282,5,43.5,2.39
+SKU-100161,Colgate Total Toothpaste 120ml,Personal Care,Toronto DC,1332,190,4,44.9,2.39
+SKU-100161,Colgate Total Toothpaste 120ml,Personal Care,Vancouver DC,88,126,4,27.8,2.39
+SKU-100168,Oikos Plain Greek Yogurt 750g,Dairy,Vancouver DC,468,387,10,34.5,3.29
+SKU-100168,Oikos Plain Greek Yogurt 750g,Dairy,Toronto DC,418,451,12,30.2,3.29
+SKU-100168,Oikos Plain Greek Yogurt 750g,Dairy,Montreal DC,441,185,7,24.4,3.29
+SKU-100175,Chapman's Vanilla Ice Cream 1.5L,Frozen,Montreal DC,380,243,14,14.8,3.59
+SKU-100182,Oikos Plain Greek Yogurt 750g,Dairy,Montreal DC,8611,792,13,53.2,3.29
+SKU-100189,Kraft Singles 24pk,Dairy,Vancouver DC,362,538,11,38.5,3.59
+SKU-100189,Kraft Singles 24pk,Dairy,Montreal DC,518,74,4,15.7,3.59
+SKU-100196,Pringles Original 156g,Snacks,Vancouver DC,1988,554,10,48.5,1.79
+SKU-100196,Pringles Original 156g,Snacks,Toronto DC,116,184,8,23.1,1.79
+SKU-100203,Doritos Nacho Cheese 280g,Snacks,Vancouver DC,598,206,12,16.2,2.39
+SKU-100203,Doritos Nacho Cheese 280g,Snacks,Toronto DC,106,163,11,12.0,2.39
+SKU-100210,Kraft Singles 24pk,Dairy,Vancouver DC,24,98,11,7.9,3.59
+SKU-100217,Oreo Chocolate Sandwich Cookies 303g,Snacks,Toronto DC,117,387,8,38.0,1.97
+SKU-100217,Oreo Chocolate Sandwich Cookies 303g,Snacks,Vancouver DC,1828,75,5,13.0,1.97
+SKU-100224,Coca-Cola Classic 500ml,Beverages,Toronto DC,863,355,10,27.7,1.49
+SKU-100224,Coca-Cola Classic 500ml,Beverages,Montreal DC,487,81,7,11.6,1.49
+SKU-100224,Coca-Cola Classic 500ml,Beverages,Vancouver DC,1372,551,14,30.8,1.49
+SKU-100231,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,672,73,4,16.5,2.69
+SKU-100231,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,973,553,9,52.2,2.69
+SKU-100231,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Toronto DC,1339,800,14,47.2,2.69
+SKU-100238,Oikos Plain Greek Yogurt 750g,Dairy,Vancouver DC,122,15,4,3.0,3.29
+SKU-100238,Oikos Plain Greek Yogurt 750g,Dairy,Montreal DC,1199,262,5,51.1,3.29
+SKU-100245,Pringles Original 156g,Snacks,Toronto DC,445,571,11,48.5,1.79
+SKU-100245,Pringles Original 156g,Snacks,Montreal DC,1861,700,10,57.2,1.79
+SKU-100245,Pringles Original 156g,Snacks,Vancouver DC,349,123,6,18.6,1.79
+SKU-100252,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Toronto DC,133,638,11,55.6,2.69
+SKU-100252,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,4860,118,3,32.6,2.69
+SKU-100259,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,1697,768,14,53.9,2.69
+SKU-100259,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,1167,371,10,36.2,2.69
+SKU-100266,Tropicana Orange Juice 1.54L,Beverages,Vancouver DC,596,674,10,52.5,3.59
+SKU-100266,Tropicana Orange Juice 1.54L,Beverages,Toronto DC,39,145,5,23.7,3.59
+SKU-100266,Tropicana Orange Juice 1.54L,Beverages,Montreal DC,632,118,3,32.1,3.59
+SKU-100273,Tropicana Orange Juice 1.54L,Beverages,Montreal DC,351,347,9,37.7,3.59
+SKU-100273,Tropicana Orange Juice 1.54L,Beverages,Toronto DC,836,250,7,28.5,3.59
+SKU-100280,Oikos Plain Greek Yogurt 750g,Dairy,Vancouver DC,400,237,5,46.8,3.29
+SKU-100280,Oikos Plain Greek Yogurt 750g,Dairy,Montreal DC,156,224,13,14.6,3.29
+SKU-100287,Cascade Platinum Dishwasher Pods 62ct,Household,Montreal DC,448,129,9,12.1,7.19
+SKU-100287,Cascade Platinum Dishwasher Pods 62ct,Household,Vancouver DC,707,446,6,57.9,7.19
+SKU-100294,McCain Superfries 2kg,Frozen,Montreal DC,499,193,7,22.7,3.89
+SKU-100294,McCain Superfries 2kg,Frozen,Vancouver DC,644,164,8,18.9,3.89
+SKU-100301,Becel Original Margarine 907g,Dairy,Vancouver DC,8407,369,8,44.2,3.17
+SKU-100301,Becel Original Margarine 907g,Dairy,Toronto DC,45,44,8,4.9,3.17
+SKU-100308,Pepsi Cola 500ml,Beverages,Toronto DC,358,210,9,20.2,1.49
+SKU-100308,Pepsi Cola 500ml,Beverages,Montreal DC,923,513,13,34.5,1.49
+SKU-100315,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,6808,1067,14,59.3,2.69
+SKU-100315,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,1768,525,12,39.8,2.69
+SKU-100322,Coca-Cola Classic 500ml,Beverages,Toronto DC,5980,190,4,38.4,1.49
+SKU-100322,Coca-Cola Classic 500ml,Beverages,Montreal DC,81,46,7,5.2,1.49
+SKU-100322,Coca-Cola Classic 500ml,Beverages,Vancouver DC,171,128,7,16.9,1.49
+SKU-100329,Oreo Chocolate Sandwich Cookies 303g,Snacks,Vancouver DC,1212,288,6,45.1,1.97
+SKU-100329,Oreo Chocolate Sandwich Cookies 303g,Snacks,Montreal DC,803,92,4,18.7,1.97
+SKU-100336,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Toronto DC,73,24,5,4.0,2.69
+SKU-100336,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,1183,826,14,53.5,2.69
+SKU-100343,Pringles Original 156g,Snacks,Montreal DC,13,18,6,2.8,1.79
+SKU-100343,Pringles Original 156g,Snacks,Toronto DC,737,586,9,57.9,1.79
+SKU-100350,Doritos Nacho Cheese 280g,Snacks,Vancouver DC,36,148,3,42.0,2.39
+SKU-100350,Doritos Nacho Cheese 280g,Snacks,Toronto DC,1091,426,7,53.1,2.39
+SKU-100357,Red Bull Energy Drink 250ml,Beverages,Montreal DC,7001,390,9,41.8,1.97
+SKU-100364,Red Bull Energy Drink 250ml,Beverages,Toronto DC,1572,758,13,58.0,1.97
+SKU-100364,Red Bull Energy Drink 250ml,Beverages,Vancouver DC,90,222,13,15.1,1.97
+SKU-100364,Red Bull Energy Drink 250ml,Beverages,Montreal DC,802,370,7,44.5,1.97
+SKU-100371,Kraft Singles 24pk,Dairy,Vancouver DC,463,127,8,15.6,3.59
+SKU-100371,Kraft Singles 24pk,Dairy,Toronto DC,634,187,5,30.8,3.59
+SKU-100378,Pepsi Cola 500ml,Beverages,Vancouver DC,746,350,9,32.1,1.49
+SKU-100378,Pepsi Cola 500ml,Beverages,Montreal DC,485,379,14,25.2,1.49
+SKU-100385,Tide Original Liquid Detergent 4.08L,Household,Vancouver DC,288,394,13,24.9,8.99
+SKU-100385,Tide Original Liquid Detergent 4.08L,Household,Toronto DC,43,25,5,4.7,8.99
+SKU-100392,Lysol Disinfecting Wipes 80ct,Household,Vancouver DC,5921,750,14,46.3,4.49
+SKU-100399,Tim Hortons Fine Grind Coffee 300g,Beverages,Toronto DC,1395,131,4,32.0,5.99
+SKU-100399,Tim Hortons Fine Grind Coffee 300g,Beverages,Montreal DC,84,16,3,5.3,5.99
+SKU-100406,Pepsi Cola 500ml,Beverages,Toronto DC,359,144,12,9.9,1.49
+SKU-100413,Tim Hortons Fine Grind Coffee 300g,Beverages,Vancouver DC,331,251,8,27.9,5.99
+SKU-100420,Dove Deep Moisture Body Wash 400ml,Personal Care,Montreal DC,2,15,4,3.1,4.19
+SKU-100427,Dove Deep Moisture Body Wash 400ml,Personal Care,Montreal DC,1133,392,12,28.4,4.19
+SKU-100427,Dove Deep Moisture Body Wash 400ml,Personal Care,Vancouver DC,1982,667,13,45.4,4.19
+SKU-100427,Dove Deep Moisture Body Wash 400ml,Personal Care,Toronto DC,715,541,11,42.1,4.19
+SKU-100434,Coca-Cola Classic 500ml,Beverages,Montreal DC,777,444,14,27.1,1.49
+SKU-100434,Coca-Cola Classic 500ml,Beverages,Toronto DC,120,210,9,22.9,1.49
+SKU-100441,Eggo Homestyle Waffles 10ct,Frozen,Toronto DC,759,235,11,17.8,2.27
+SKU-100448,Tropicana Orange Juice 1.54L,Beverages,Vancouver DC,2379,64,4,13.7,3.59
+SKU-100448,Tropicana Orange Juice 1.54L,Beverages,Toronto DC,1277,496,9,44.2,3.59
+SKU-100455,Kleenex Ultra Soft Tissues 6pk,Personal Care,Vancouver DC,313,482,12,32.5,4.79
+SKU-100462,Kraft Singles 24pk,Dairy,Montreal DC,17,21,8,2.6,3.59
+SKU-100462,Kraft Singles 24pk,Dairy,Vancouver DC,865,602,8,60.0,3.59
+SKU-100462,Kraft Singles 24pk,Dairy,Toronto DC,300,429,10,34.7,3.59
+SKU-100469,Bounty Select-a-Size Paper Towels 6pk,Household,Montreal DC,816,484,9,49.8,5.39
+SKU-100469,Bounty Select-a-Size Paper Towels 6pk,Household,Toronto DC,257,223,8,22.4,5.39
+SKU-100476,Doritos Nacho Cheese 280g,Snacks,Montreal DC,8041,726,12,53.5,2.39
+SKU-100476,Doritos Nacho Cheese 280g,Snacks,Vancouver DC,17,55,3,17.5,2.39
+SKU-100483,Armstrong Old Cheddar 400g,Dairy,Montreal DC,332,124,12,8.8,4.19
+SKU-100490,Gatorade Cool Blue 710ml,Beverages,Vancouver DC,152,107,10,9.8,1.79
+SKU-100490,Gatorade Cool Blue 710ml,Beverages,Toronto DC,782,405,14,22.7,1.79
+SKU-100490,Gatorade Cool Blue 710ml,Beverages,Montreal DC,451,51,4,11.7,1.79
+SKU-100497,Bounty Select-a-Size Paper Towels 6pk,Household,Vancouver DC,120,449,9,39.6,5.39
+SKU-100504,Lay's Classic Potato Chips 220g,Snacks,Vancouver DC,2033,212,9,18.9,2.09
+SKU-100504,Lay's Classic Potato Chips 220g,Snacks,Toronto DC,971,921,13,54.8,2.09
+SKU-100511,Colgate Total Toothpaste 120ml,Personal Care,Toronto DC,746,184,4,40.3,2.39
+SKU-100518,Pepsi Cola 500ml,Beverages,Toronto DC,212,240,12,19.7,1.49
+SKU-100518,Pepsi Cola 500ml,Beverages,Vancouver DC,4027,280,12,21.9,1.49
+SKU-100518,Pepsi Cola 500ml,Beverages,Montreal DC,23,13,4,2.7,1.49
+SKU-100525,McCain Superfries 2kg,Frozen,Montreal DC,1561,892,13,59.2,3.89
+SKU-100525,McCain Superfries 2kg,Frozen,Vancouver DC,616,264,6,42.0,3.89
+SKU-100532,Pringles Original 156g,Snacks,Toronto DC,1760,479,11,41.7,1.79
+SKU-100532,Pringles Original 156g,Snacks,Montreal DC,579,93,5,15.0,1.79
+SKU-100539,Pepsi Cola 500ml,Beverages,Montreal DC,749,480,8,48.9,1.49
+SKU-100539,Pepsi Cola 500ml,Beverages,Vancouver DC,375,356,11,28.5,1.49
+SKU-100539,Pepsi Cola 500ml,Beverages,Toronto DC,662,389,9,43.0,1.49
+SKU-100546,Red Bull Energy Drink 250ml,Beverages,Vancouver DC,8737,270,5,51.0,1.97
+SKU-100546,Red Bull Energy Drink 250ml,Beverages,Toronto DC,539,258,12,19.1,1.97
+SKU-100553,Chapman's Vanilla Ice Cream 1.5L,Frozen,Toronto DC,1932,357,7,45.9,3.59
+SKU-100560,McCain Superfries 2kg,Frozen,Montreal DC,541,172,8,20.6,3.89
+SKU-100560,McCain Superfries 2kg,Frozen,Toronto DC,5649,144,3,43.1,3.89
+SKU-100560,McCain Superfries 2kg,Frozen,Vancouver DC,369,115,8,11.1,3.89
+SKU-100567,Bounty Select-a-Size Paper Towels 6pk,Household,Toronto DC,976,401,11,31.5,5.39
+SKU-100567,Bounty Select-a-Size Paper Towels 6pk,Household,Vancouver DC,460,461,8,48.4,5.39
+SKU-100574,Eggo Homestyle Waffles 10ct,Frozen,Toronto DC,84,285,14,20.2,2.27
+SKU-100574,Eggo Homestyle Waffles 10ct,Frozen,Montreal DC,17,26,6,3.7,2.27
+SKU-100574,Eggo Homestyle Waffles 10ct,Frozen,Vancouver DC,7867,655,10,53.9,2.27
+SKU-100581,Eggo Homestyle Waffles 10ct,Frozen,Montreal DC,733,182,8,21.3,2.27
+SKU-100581,Eggo Homestyle Waffles 10ct,Frozen,Toronto DC,1134,706,10,56.5,2.27
+SKU-100581,Eggo Homestyle Waffles 10ct,Frozen,Vancouver DC,1332,661,14,43.9,2.27
+SKU-100588,Cascade Platinum Dishwasher Pods 62ct,Household,Montreal DC,211,51,4,10.0,7.19
+SKU-100588,Cascade Platinum Dishwasher Pods 62ct,Household,Vancouver DC,7533,971,14,53.7,7.19
+SKU-100595,Red Bull Energy Drink 250ml,Beverages,Toronto DC,514,311,10,24.6,1.97
+SKU-100595,Red Bull Energy Drink 250ml,Beverages,Vancouver DC,68,24,7,2.9,1.97
+SKU-100602,Cascade Platinum Dishwasher Pods 62ct,Household,Montreal DC,577,284,7,34.0,7.19
+SKU-100602,Cascade Platinum Dishwasher Pods 62ct,Household,Vancouver DC,555,946,14,56.7,7.19
+SKU-100609,Green Giant Mixed Vegetables 750g,Frozen,Vancouver DC,111,232,13,15.5,2.39
+SKU-100609,Green Giant Mixed Vegetables 750g,Frozen,Toronto DC,69,139,13,9.2,2.39
+SKU-100616,Tim Hortons Fine Grind Coffee 300g,Beverages,Montreal DC,301,98,5,16.4,5.99
+SKU-100616,Tim Hortons Fine Grind Coffee 300g,Beverages,Toronto DC,136,127,6,16.5,5.99
+SKU-100616,Tim Hortons Fine Grind Coffee 300g,Beverages,Vancouver DC,4768,148,4,33.3,5.99
+SKU-100623,Kleenex Ultra Soft Tissues 6pk,Personal Care,Vancouver DC,331,85,4,17.8,4.79
+SKU-100623,Kleenex Ultra Soft Tissues 6pk,Personal Care,Montreal DC,1027,396,13,25.3,4.79
+SKU-100630,Lay's Classic Potato Chips 220g,Snacks,Montreal DC,1503,347,8,41.4,2.09
+SKU-100630,Lay's Classic Potato Chips 220g,Snacks,Vancouver DC,3584,363,12,25.0,2.09
+SKU-100637,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Toronto DC,910,353,10,29.8,2.69
+SKU-100637,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,82,353,7,49.0,2.69
+SKU-100644,Pringles Original 156g,Snacks,Vancouver DC,156,477,10,43.6,1.79
+SKU-100651,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,456,116,8,12.7,2.69
+SKU-100658,Eggo Homestyle Waffles 10ct,Frozen,Toronto DC,518,211,13,12.7,2.27
+SKU-100658,Eggo Homestyle Waffles 10ct,Frozen,Vancouver DC,434,197,12,13.0,2.27
+SKU-100665,Tropicana Orange Juice 1.54L,Beverages,Vancouver DC,23,44,5,8.1,3.59
+SKU-100672,Pringles Original 156g,Snacks,Vancouver DC,675,298,12,20.7,1.79
+SKU-100672,Pringles Original 156g,Snacks,Montreal DC,526,665,11,59.8,1.79
+SKU-100679,Lysol Disinfecting Wipes 80ct,Household,Vancouver DC,2823,315,12,26.2,4.49
+SKU-100686,Oreo Chocolate Sandwich Cookies 303g,Snacks,Montreal DC,1151,83,3,26.7,1.97
+SKU-100686,Oreo Chocolate Sandwich Cookies 303g,Snacks,Vancouver DC,2763,120,7,15.8,1.97
+SKU-100693,Bounty Select-a-Size Paper Towels 6pk,Household,Montreal DC,97,150,4,31.3,5.39
+SKU-100700,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,1055,428,10,35.2,2.69
+SKU-100700,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Toronto DC,211,374,6,56.4,2.69
+SKU-100707,Lysol Disinfecting Wipes 80ct,Household,Vancouver DC,305,208,12,13.7,4.49
+SKU-100707,Lysol Disinfecting Wipes 80ct,Household,Toronto DC,209,202,7,25.9,4.49
+SKU-100714,Chapman's Vanilla Ice Cream 1.5L,Frozen,Toronto DC,461,73,3,22.2,3.59
+SKU-100714,Chapman's Vanilla Ice Cream 1.5L,Frozen,Vancouver DC,7054,920,14,53.8,3.59
+SKU-100721,Colgate Total Toothpaste 120ml,Personal Care,Montreal DC,124,213,12,13.7,2.39
+SKU-100721,Colgate Total Toothpaste 120ml,Personal Care,Toronto DC,91,150,4,32.3,2.39
+SKU-100728,McCain Superfries 2kg,Frozen,Montreal DC,230,778,14,43.3,3.89
+SKU-100728,McCain Superfries 2kg,Frozen,Vancouver DC,1235,449,6,59.6,3.89
+SKU-100735,McCain Superfries 2kg,Frozen,Vancouver DC,102,27,6,4.5,3.89
+SKU-100735,McCain Superfries 2kg,Frozen,Toronto DC,1009,635,12,48.5,3.89
+SKU-100742,Tide Original Liquid Detergent 4.08L,Household,Toronto DC,1211,653,14,43.8,8.99
+SKU-100742,Tide Original Liquid Detergent 4.08L,Household,Montreal DC,783,108,3,30.2,8.99
+SKU-100749,Lysol Disinfecting Wipes 80ct,Household,Montreal DC,365,216,12,16.2,4.49
+SKU-100749,Lysol Disinfecting Wipes 80ct,Household,Vancouver DC,488,66,3,22.0,4.49
+SKU-100749,Lysol Disinfecting Wipes 80ct,Household,Toronto DC,454,296,8,36.8,4.49
+SKU-100756,Oreo Chocolate Sandwich Cookies 303g,Snacks,Toronto DC,417,98,5,16.9,1.97
+SKU-100756,Oreo Chocolate Sandwich Cookies 303g,Snacks,Vancouver DC,247,776,14,49.4,1.97
+SKU-100756,Oreo Chocolate Sandwich Cookies 303g,Snacks,Montreal DC,402,320,8,38.1,1.97
+SKU-100763,Doritos Nacho Cheese 280g,Snacks,Montreal DC,471,229,14,13.8,2.39
+SKU-100763,Doritos Nacho Cheese 280g,Snacks,Toronto DC,1968,528,9,49.9,2.39
+SKU-100770,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,652,232,14,16.2,2.69
+SKU-100777,Kleenex Ultra Soft Tissues 6pk,Personal Care,Vancouver DC,1170,443,11,34.0,4.79
+SKU-100784,Becel Original Margarine 907g,Dairy,Toronto DC,1223,275,8,29.2,3.17
+SKU-100791,Red Bull Energy Drink 250ml,Beverages,Toronto DC,946,526,13,32.7,1.97
+SKU-100791,Red Bull Energy Drink 250ml,Beverages,Vancouver DC,450,422,13,31.5,1.97
+SKU-100798,Tropicana Orange Juice 1.54L,Beverages,Toronto DC,360,630,9,55.7,3.59
+SKU-100798,Tropicana Orange Juice 1.54L,Beverages,Montreal DC,425,16,4,3.2,3.59
+SKU-100805,Tropicana Orange Juice 1.54L,Beverages,Toronto DC,551,59,14,3.8,3.59
+SKU-100812,Tim Hortons Fine Grind Coffee 300g,Beverages,Toronto DC,43,105,12,6.9,5.99
+SKU-100812,Tim Hortons Fine Grind Coffee 300g,Beverages,Montreal DC,7098,320,8,39.4,5.99
+SKU-100819,Armstrong Old Cheddar 400g,Dairy,Toronto DC,1192,356,8,37.6,4.19
+SKU-100819,Armstrong Old Cheddar 400g,Dairy,Montreal DC,1211,663,11,57.1,4.19
+SKU-100819,Armstrong Old Cheddar 400g,Dairy,Vancouver DC,2391,219,3,58.6,4.19
+SKU-100826,Becel Original Margarine 907g,Dairy,Toronto DC,995,308,8,30.2,3.17
+SKU-100826,Becel Original Margarine 907g,Dairy,Vancouver DC,483,29,5,4.6,3.17
+SKU-100833,McCain Superfries 2kg,Frozen,Vancouver DC,1312,260,6,41.2,3.89
+SKU-100833,McCain Superfries 2kg,Frozen,Montreal DC,1095,555,11,43.6,3.89
+SKU-100840,Eggo Homestyle Waffles 10ct,Frozen,Montreal DC,115,86,13,6.3,2.27
+SKU-100847,Green Giant Mixed Vegetables 750g,Frozen,Montreal DC,1619,206,4,45.8,2.39
+SKU-100854,Dove Deep Moisture Body Wash 400ml,Personal Care,Montreal DC,263,75,6,10.5,4.19
+SKU-100854,Dove Deep Moisture Body Wash 400ml,Personal Care,Toronto DC,271,398,11,31.4,4.19
+SKU-100861,Tim Hortons Fine Grind Coffee 300g,Beverages,Montreal DC,93,148,7,18.4,5.99
+SKU-100861,Tim Hortons Fine Grind Coffee 300g,Beverages,Toronto DC,300,141,9,13.6,5.99
+SKU-100868,Tropicana Orange Juice 1.54L,Beverages,Vancouver DC,185,399,13,28.3,3.59
+SKU-100868,Tropicana Orange Juice 1.54L,Beverages,Toronto DC,39,70,4,15.9,3.59
+SKU-100875,Green Giant Mixed Vegetables 750g,Frozen,Montreal DC,334,48,3,13.2,2.39
+SKU-100875,Green Giant Mixed Vegetables 750g,Frozen,Toronto DC,615,805,12,58.2,2.39
+SKU-100882,Kraft Singles 24pk,Dairy,Vancouver DC,1283,910,13,57.5,3.59
+SKU-100889,Lay's Classic Potato Chips 220g,Snacks,Vancouver DC,1512,473,9,40.6,2.09
+SKU-100889,Lay's Classic Potato Chips 220g,Snacks,Toronto DC,9560,522,10,47.9,2.09
+SKU-100896,Colgate Total Toothpaste 120ml,Personal Care,Montreal DC,164,309,5,54.6,2.39
+SKU-100896,Colgate Total Toothpaste 120ml,Personal Care,Toronto DC,790,308,10,28.9,2.39
+SKU-100903,Oikos Plain Greek Yogurt 750g,Dairy,Vancouver DC,62,152,9,13.4,3.29
+SKU-100910,Pringles Original 156g,Snacks,Vancouver DC,6724,550,9,51.6,1.79
+SKU-100910,Pringles Original 156g,Snacks,Toronto DC,832,314,9,28.6,1.79
+SKU-100917,Dove Deep Moisture Body Wash 400ml,Personal Care,Vancouver DC,195,427,12,31.9,4.19
+SKU-100924,Armstrong Old Cheddar 400g,Dairy,Montreal DC,33,158,3,43.3,4.19
+SKU-100931,Coca-Cola Classic 500ml,Beverages,Toronto DC,1136,268,8,30.0,1.49
+SKU-100931,Coca-Cola Classic 500ml,Beverages,Vancouver DC,4672,290,8,32.1,1.49
+SKU-100931,Coca-Cola Classic 500ml,Beverages,Montreal DC,247,139,13,8.3,1.49
+SKU-100938,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,495,331,7,46.8,2.69
+SKU-100938,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,79,177,13,12.9,2.69
+SKU-100945,Colgate Total Toothpaste 120ml,Personal Care,Vancouver DC,81,439,10,34.3,2.39
+SKU-100945,Colgate Total Toothpaste 120ml,Personal Care,Montreal DC,3758,175,5,31.6,2.39
+SKU-100952,Pringles Original 156g,Snacks,Toronto DC,295,536,14,35.4,1.79
+SKU-100959,Tropicana Orange Juice 1.54L,Beverages,Montreal DC,1129,476,13,29.2,3.59
+SKU-100959,Tropicana Orange Juice 1.54L,Beverages,Vancouver DC,3185,312,14,21.2,3.59
+SKU-100966,Becel Original Margarine 907g,Dairy,Montreal DC,7156,238,4,48.6,3.17
+SKU-100966,Becel Original Margarine 907g,Dairy,Toronto DC,1027,292,6,40.0,3.17
+SKU-100973,Bounty Select-a-Size Paper Towels 6pk,Household,Vancouver DC,1884,505,8,54.5,5.39
+SKU-100973,Bounty Select-a-Size Paper Towels 6pk,Household,Montreal DC,621,339,14,20.6,5.39
+SKU-100980,Oreo Chocolate Sandwich Cookies 303g,Snacks,Montreal DC,755,187,5,35.3,1.97
+SKU-100987,Kleenex Ultra Soft Tissues 6pk,Personal Care,Vancouver DC,55,139,5,25.3,4.79
+SKU-100987,Kleenex Ultra Soft Tissues 6pk,Personal Care,Toronto DC,775,250,13,18.4,4.79
+SKU-100994,Tropicana Orange Juice 1.54L,Beverages,Toronto DC,494,199,5,38.6,3.59
+SKU-100994,Tropicana Orange Juice 1.54L,Beverages,Vancouver DC,1748,579,10,56.8,3.59
+SKU-101001,Doritos Nacho Cheese 280g,Snacks,Montreal DC,262,516,11,37.3,2.39
+SKU-101001,Doritos Nacho Cheese 280g,Snacks,Toronto DC,111,495,14,34.0,2.39
+SKU-101008,Lysol Disinfecting Wipes 80ct,Household,Vancouver DC,1380,355,7,47.1,4.49
+SKU-101008,Lysol Disinfecting Wipes 80ct,Household,Toronto DC,776,372,10,35.9,4.49
+SKU-101015,Eggo Homestyle Waffles 10ct,Frozen,Vancouver DC,325,232,5,39.6,2.27
+SKU-101015,Eggo Homestyle Waffles 10ct,Frozen,Toronto DC,52,144,8,17.8,2.27
+SKU-101015,Eggo Homestyle Waffles 10ct,Frozen,Montreal DC,1167,531,8,59.4,2.27
+SKU-101022,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Toronto DC,299,530,10,49.3,2.69
+SKU-101022,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Montreal DC,615,372,7,52.2,2.69
+SKU-101022,Nature Valley Oats & Honey Granola Bars 6pk,Snacks,Vancouver DC,309,438,14,25.7,2.69
+SKU-101029,Eggo Homestyle Waffles 10ct,Frozen,Toronto DC,131,12,3,3.5,2.27
+SKU-101036,Head & Shoulders Classic 400ml,Personal Care,Montreal DC,307,111,5,20.4,5.09
+SKU-101036,Head & Shoulders Classic 400ml,Personal Care,Vancouver DC,346,725,14,48.7,5.09
+SKU-101043,Pepsi Cola 500ml,Beverages,Montreal DC,2787,282,14,19.0,1.49
+SKU-101043,Pepsi Cola 500ml,Beverages,Vancouver DC,771,244,5,37.7,1.49

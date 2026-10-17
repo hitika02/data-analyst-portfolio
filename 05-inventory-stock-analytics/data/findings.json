@@ -1,0 +1,87 @@
+{
+  "sku_warehouse_rows": 297,
+  "warehouses": [
+    "Toronto DC",
+    "Montreal DC",
+    "Vancouver DC"
+  ],
+  "status_counts": {
+    "OVERSTOCK": 39,
+    "OK": 188,
+    "REORDER": 70
+  },
+  "overstock_capital_tied_up": 648227.32,
+  "reorder_investment_needed": 121816.13,
+  "top_10_urgent": [
+    {
+      "sku": "SKU-100420",
+      "product": "Dove Deep Moisture Body Wash 400ml",
+      "warehouse": "Montreal DC",
+      "days_of_cover": 0.6,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100924",
+      "product": "Armstrong Old Cheddar 400g",
+      "warehouse": "Montreal DC",
+      "days_of_cover": 0.8,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100350",
+      "product": "Doritos Nacho Cheese 280g",
+      "warehouse": "Vancouver DC",
+      "days_of_cover": 0.9,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100476",
+      "product": "Doritos Nacho Cheese 280g",
+      "warehouse": "Vancouver DC",
+      "days_of_cover": 1.0,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100266",
+      "product": "Tropicana Orange Juice 1.54L",
+      "warehouse": "Toronto DC",
+      "days_of_cover": 1.6,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100637",
+      "product": "Nature Valley Oats & Honey Granola Bars 6pk",
+      "warehouse": "Vancouver DC",
+      "days_of_cover": 1.7,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100987",
+      "product": "Kleenex Ultra Soft Tissues 6pk",
+      "warehouse": "Vancouver DC",
+      "days_of_cover": 2.2,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100252",
+      "product": "Nature Valley Oats & Honey Granola Bars 6pk",
+      "warehouse": "Toronto DC",
+      "days_of_cover": 2.4,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100945",
+      "product": "Colgate Total Toothpaste 120ml",
+      "warehouse": "Vancouver DC",
+      "days_of_cover": 2.4,
+      "status": "REORDER"
+    },
+    {
+      "sku": "SKU-100868",
+      "product": "Tropicana Orange Juice 1.54L",
+      "warehouse": "Toronto DC",
+      "days_of_cover": 2.5,
+      "status": "REORDER"
+    }
+  ]
+}

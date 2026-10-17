@@ -1,0 +1,2001 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,line_total,region,channel
+ORD-5441,2024-01-01,C-1450,Wireless Headphones,Electronics,1,224.76,224.76,Ontario,Mobile App
+ORD-6076,2024-01-01,C-1686,Denim Jacket,Apparel,1,40.39,40.39,Ontario,Website
+ORD-6286,2024-01-02,C-1652,Bluetooth Speaker,Electronics,4,551.71,2206.84,Alberta,Website
+ORD-6038,2024-01-03,C-1004,Table Lamp,Home & Kitchen,2,185.44,370.88,Quebec,Website
+ORD-6379,2024-01-03,C-1398,Bicycle Helmet,Sports,1,130.18,130.18,Ontario,Website
+ORD-6665,2024-01-03,C-1820,Moisturizer,Beauty,1,47.99,47.99,Ontario,Website
+ORD-6925,2024-01-03,C-1173,Cotton T-Shirt,Apparel,2,106.64,213.28,Ontario,Website
+ORD-5130,2024-01-04,C-1376,Robot Vacuum,Home & Kitchen,5,199.73,998.65,Ontario,Website
+ORD-6142,2024-01-04,C-1712,Cotton T-Shirt,Apparel,1,56.49,56.49,Ontario,Mobile App
+ORD-6754,2024-01-04,C-1721,Resistance Bands,Sports,1,127.1,127.1,Ontario,In-Store Pickup
+ORD-5221,2024-01-05,C-1130,Hair Dryer,Beauty,1,58.1,58.1,Ontario,Website
+ORD-6455,2024-01-05,C-1035,Face Mask Set,Beauty,1,52.91,52.91,Ontario,In-Store Pickup
+ORD-6489,2024-01-05,C-1422,Denim Jacket,Apparel,5,106.72,533.6,Quebec,In-Store Pickup
+ORD-6247,2024-01-06,C-1412,Bicycle Helmet,Sports,3,66.49,199.47,British Columbia,Mobile App
+ORD-5369,2024-01-08,C-1291,Laptop Stand,Electronics,4,100.36,401.44,Manitoba,Mobile App
+ORD-5666,2024-01-08,C-1789,Perfume,Beauty,1,40.75,40.75,Quebec,Mobile App
+ORD-5856,2024-01-08,C-1432,Cookware Set,Home & Kitchen,1,138.97,138.97,Alberta,Mobile App
+ORD-6198,2024-01-08,C-1142,Yoga Leggings,Apparel,2,107.81,215.62,Manitoba,Mobile App
+ORD-5154,2024-01-09,C-1496,USB-C Charger,Electronics,1,311.13,311.13,Manitoba,Website
+ORD-6156,2024-01-09,C-1373,Moisturizer,Beauty,1,22.98,22.98,Ontario,Mobile App
+ORD-5164,2024-01-10,C-1447,Wireless Headphones,Electronics,1,271.54,271.54,Alberta,Website
+ORD-6686,2024-01-10,C-1047,USB-C Charger,Electronics,1,286.31,286.31,Ontario,Website
+ORD-5184,2024-01-11,C-1383,Perfume,Beauty,5,32.62,163.1,British Columbia,Website
+ORD-5211,2024-01-11,C-1127,Winter Parka,Apparel,1,73.35,73.35,British Columbia,Website
+ORD-6607,2024-01-11,C-1887,Moisturizer,Beauty,1,57.41,57.41,Ontario,Mobile App
+ORD-6675,2024-01-12,C-1252,Smart Watch,Electronics,1,549.19,549.19,Ontario,Mobile App
+ORD-5041,2024-01-13,C-1361,USB-C Charger,Electronics,1,378.1,378.1,Ontario,Mobile App
+ORD-5043,2024-01-13,C-1000,Wireless Headphones,Electronics,1,514.98,514.98,Manitoba,Mobile App
+ORD-5147,2024-01-13,C-1784,Bicycle Helmet,Sports,1,138.76,138.76,Ontario,Website
+ORD-5556,2024-01-13,C-1733,USB-C Charger,Electronics,3,116.86,350.58,Ontario,Website
+ORD-5659,2024-01-13,C-1448,Smart Watch,Electronics,2,221.3,442.6,Quebec,Mobile App
+ORD-6100,2024-01-13,C-1848,USB-C Charger,Electronics,1,185.74,185.74,Quebec,In-Store Pickup
+ORD-6517,2024-01-13,C-1660,Perfume,Beauty,1,42.66,42.66,Quebec,Mobile App
+ORD-6528,2024-01-13,C-1462,Running Shoes,Apparel,1,104.5,104.5,Quebec,Website
+ORD-6553,2024-01-13,C-1867,Robot Vacuum,Home & Kitchen,1,62.35,62.35,Manitoba,In-Store Pickup
+ORD-5316,2024-01-14,C-1611,Bluetooth Speaker,Electronics,3,577.06,1731.18,Ontario,Website
+ORD-6429,2024-01-14,C-1393,Bluetooth Speaker,Electronics,1,472.78,472.78,Alberta,Mobile App
+ORD-6631,2024-01-14,C-1411,Laptop Stand,Electronics,1,289.88,289.88,Ontario,Website
+ORD-5717,2024-01-15,C-1482,Moisturizer,Beauty,2,25.92,51.84,British Columbia,Mobile App
+ORD-5781,2024-01-15,C-1882,Table Lamp,Home & Kitchen,1,188.21,188.21,Ontario,Mobile App
+ORD-5883,2024-01-15,C-1164,Robot Vacuum,Home & Kitchen,1,109.4,109.4,Ontario,Website
+ORD-5394,2024-01-16,C-1578,Bicycle Helmet,Sports,1,113.98,113.98,Alberta,Website
+ORD-5965,2024-01-16,C-1145,Dining Set,Home & Kitchen,1,189.26,189.26,Quebec,Website
+ORD-6403,2024-01-16,C-1882,Resistance Bands,Sports,1,156.29,156.29,British Columbia,Website
+ORD-5109,2024-01-17,C-1162,Face Mask Set,Beauty,1,48.65,48.65,Ontario,Website
+ORD-6783,2024-01-17,C-1470,Bluetooth Speaker,Electronics,2,448.89,897.78,Ontario,Mobile App
+ORD-5509,2024-01-18,C-1426,Cotton T-Shirt,Apparel,1,96.04,96.04,Ontario,In-Store Pickup
+ORD-6114,2024-01-18,C-1751,Bluetooth Speaker,Electronics,1,479.84,479.84,Quebec,Mobile App
+ORD-6101,2024-01-19,C-1800,Winter Parka,Apparel,1,54.35,54.35,Ontario,Website
+ORD-6837,2024-01-19,C-1150,Running Shoes,Apparel,1,114.3,114.3,Alberta,Mobile App
+ORD-5765,2024-01-20,C-1147,Perfume,Beauty,1,17.46,17.46,Quebec,Website
+ORD-5129,2024-01-21,C-1436,Robot Vacuum,Home & Kitchen,1,44.53,44.53,Ontario,Mobile App
+ORD-5593,2024-01-21,C-1641,Yoga Leggings,Apparel,1,78.87,78.87,Quebec,Website
+ORD-5733,2024-01-21,C-1634,Cotton T-Shirt,Apparel,1,90.6,90.6,Manitoba,Mobile App
+ORD-6454,2024-01-21,C-1264,Bicycle Helmet,Sports,3,84.31,252.93,Alberta,Website
+ORD-6989,2024-01-21,C-1694,Dumbbell Set,Sports,1,106.46,106.46,British Columbia,In-Store Pickup
+ORD-5196,2024-01-22,C-1718,Yoga Leggings,Apparel,1,58.81,58.81,Ontario,Mobile App
+ORD-6552,2024-01-22,C-1509,Vitamin C Serum,Beauty,1,57.68,57.68,Ontario,Website
+ORD-6684,2024-01-22,C-1238,Winter Parka,Apparel,2,99.0,198.0,Manitoba,Mobile App
+ORD-6916,2024-01-22,C-1033,USB-C Charger,Electronics,4,440.07,1760.28,Manitoba,Website
+ORD-5176,2024-01-23,C-1657,Table Lamp,Home & Kitchen,2,138.88,277.76,Ontario,In-Store Pickup
+ORD-6205,2024-01-23,C-1176,Cotton T-Shirt,Apparel,5,100.77,503.85,British Columbia,Mobile App
+ORD-6539,2024-01-23,C-1827,Bluetooth Speaker,Electronics,1,568.86,568.86,British Columbia,Mobile App
+ORD-5557,2024-01-24,C-1065,Laptop Stand,Electronics,2,391.52,783.04,Alberta,In-Store Pickup
+ORD-6110,2024-01-24,C-1430,Yoga Mat,Sports,2,145.71,291.42,Manitoba,Website
+ORD-6865,2024-01-25,C-1332,Smart Watch,Electronics,1,311.73,311.73,Ontario,Website
+ORD-6930,2024-01-25,C-1107,Wireless Headphones,Electronics,1,465.91,465.91,Ontario,Mobile App
+ORD-5173,2024-01-26,C-1597,Resistance Bands,Sports,2,247.51,495.02,British Columbia,Website
+ORD-5242,2024-01-26,C-1160,Smart Watch,Electronics,1,511.38,511.38,Quebec,Mobile App
+ORD-5414,2024-01-26,C-1715,Air Fryer,Home & Kitchen,2,26.88,53.76,Alberta,In-Store Pickup
+ORD-5263,2024-01-27,C-1459,Smart Watch,Electronics,1,379.94,379.94,British Columbia,Website
+ORD-5427,2024-01-27,C-1681,Yoga Leggings,Apparel,2,118.38,236.76,Ontario,Mobile App
+ORD-5581,2024-01-27,C-1627,Laptop Stand,Electronics,1,111.55,111.55,Ontario,Mobile App
+ORD-5091,2024-01-28,C-1056,Winter Parka,Apparel,1,61.57,61.57,Ontario,Mobile App
+ORD-5193,2024-01-28,C-1870,Moisturizer,Beauty,5,41.83,209.15,Ontario,Website
+ORD-5229,2024-01-28,C-1725,Vitamin C Serum,Beauty,1,48.21,48.21,Manitoba,Website
+ORD-6406,2024-01-28,C-1022,Air Fryer,Home & Kitchen,1,100.53,100.53,Ontario,Mobile App
+ORD-5381,2024-01-29,C-1201,Yoga Leggings,Apparel,1,118.89,118.89,British Columbia,Website
+ORD-5537,2024-01-29,C-1656,Laptop Stand,Electronics,2,166.55,333.1,Ontario,Mobile App
+ORD-6321,2024-01-29,C-1525,Robot Vacuum,Home & Kitchen,2,182.61,365.22,British Columbia,Mobile App
+ORD-6470,2024-01-29,C-1156,Cookware Set,Home & Kitchen,1,110.24,110.24,Ontario,Mobile App
+ORD-5297,2024-01-30,C-1128,Denim Jacket,Apparel,2,46.63,93.26,Manitoba,Website
+ORD-6177,2024-01-30,C-1085,Smart Watch,Electronics,1,337.59,337.59,Ontario,Mobile App
+ORD-6827,2024-01-30,C-1322,Tennis Racket,Sports,1,209.65,209.65,Ontario,In-Store Pickup
+ORD-6842,2024-01-30,C-1098,Bicycle Helmet,Sports,1,102.44,102.44,Ontario,Mobile App
+ORD-6853,2024-01-30,C-1739,Denim Jacket,Apparel,5,66.35,331.75,Quebec,In-Store Pickup
+ORD-5358,2024-01-31,C-1223,Perfume,Beauty,1,13.41,13.41,Alberta,In-Store Pickup
+ORD-5637,2024-01-31,C-1800,Smart Watch,Electronics,1,214.87,214.87,Alberta,Website
+ORD-5806,2024-01-31,C-1558,Yoga Mat,Sports,1,204.45,204.45,Ontario,Mobile App
+ORD-5473,2024-02-01,C-1200,Face Mask Set,Beauty,1,18.99,18.99,Alberta,Website
+ORD-6263,2024-02-01,C-1033,Perfume,Beauty,5,15.04,75.2,British Columbia,Website
+ORD-6530,2024-02-01,C-1775,Cotton T-Shirt,Apparel,3,28.97,86.91,British Columbia,In-Store Pickup
+ORD-6570,2024-02-01,C-1585,Dumbbell Set,Sports,1,172.11,172.11,Ontario,In-Store Pickup
+ORD-6256,2024-02-02,C-1525,Cotton T-Shirt,Apparel,2,95.34,190.68,Ontario,In-Store Pickup
+ORD-6594,2024-02-02,C-1766,Cookware Set,Home & Kitchen,1,45.42,45.42,Manitoba,Website
+ORD-6985,2024-02-02,C-1590,Face Mask Set,Beauty,1,58.71,58.71,Quebec,Mobile App
+ORD-5361,2024-02-04,C-1002,USB-C Charger,Electronics,1,187.1,187.1,Ontario,Mobile App
+ORD-5567,2024-02-04,C-1949,Table Lamp,Home & Kitchen,1,51.69,51.69,Ontario,In-Store Pickup
+ORD-5601,2024-02-04,C-1990,Smart Watch,Electronics,1,231.93,231.93,British Columbia,In-Store Pickup
+ORD-6265,2024-02-04,C-1443,Running Shoes,Apparel,1,38.87,38.87,Alberta,Website
+ORD-5015,2024-02-05,C-1571,Table Lamp,Home & Kitchen,2,183.75,367.5,British Columbia,Website
+ORD-5309,2024-02-05,C-1233,Cotton T-Shirt,Apparel,1,57.34,57.34,Quebec,Website
+ORD-5810,2024-02-05,C-1502,Wireless Headphones,Electronics,2,538.13,1076.26,Alberta,Website
+ORD-5847,2024-02-05,C-1489,Wireless Headphones,Electronics,1,542.26,542.26,Quebec,Website
+ORD-6383,2024-02-05,C-1284,Hair Dryer,Beauty,2,19.43,38.86,Ontario,Website
+ORD-6392,2024-02-05,C-1748,Cotton T-Shirt,Apparel,2,93.52,187.04,Ontario,Website
+ORD-5280,2024-02-06,C-1125,Smart Watch,Electronics,1,564.04,564.04,Ontario,Website
+ORD-6453,2024-02-06,C-1732,Running Shoes,Apparel,1,49.67,49.67,Ontario,Website
+ORD-5735,2024-02-07,C-1693,Robot Vacuum,Home & Kitchen,1,181.35,181.35,Ontario,Website
+ORD-6420,2024-02-08,C-1419,Dining Set,Home & Kitchen,2,117.48,234.96,British Columbia,Website
+ORD-6954,2024-02-08,C-1757,Robot Vacuum,Home & Kitchen,2,57.0,114.0,Quebec,Website
+ORD-6150,2024-02-09,C-1199,Yoga Mat,Sports,1,240.23,240.23,British Columbia,Website
+ORD-6493,2024-02-09,C-1569,USB-C Charger,Electronics,2,537.53,1075.06,Alberta,Website
+ORD-6874,2024-02-09,C-1989,Robot Vacuum,Home & Kitchen,1,67.19,67.19,Alberta,Website
+ORD-5305,2024-02-10,C-1562,Tennis Racket,Sports,2,45.71,91.42,Alberta,Website
+ORD-6036,2024-02-10,C-1474,Wireless Headphones,Electronics,1,530.44,530.44,Ontario,In-Store Pickup
+ORD-6663,2024-02-10,C-1753,Air Fryer,Home & Kitchen,1,85.59,85.59,Ontario,Website
+ORD-6860,2024-02-10,C-1622,Yoga Mat,Sports,4,31.48,125.92,Ontario,Website
+ORD-6877,2024-02-10,C-1277,Smart Watch,Electronics,5,337.59,1687.95,Alberta,Website
+ORD-5142,2024-02-11,C-1660,Running Shoes,Apparel,1,53.12,53.12,Ontario,Website
+ORD-5293,2024-02-11,C-1160,Smart Watch,Electronics,1,105.3,105.3,Ontario,Website
+ORD-5310,2024-02-11,C-1652,Wireless Headphones,Electronics,1,214.79,214.79,Ontario,Mobile App
+ORD-5728,2024-02-11,C-1059,Bluetooth Speaker,Electronics,1,466.36,466.36,Quebec,Website
+ORD-6206,2024-02-11,C-1296,Yoga Leggings,Apparel,2,98.3,196.6,Quebec,In-Store Pickup
+ORD-5270,2024-02-12,C-1686,Smart Watch,Electronics,1,596.39,596.39,Alberta,Mobile App
+ORD-6002,2024-02-12,C-1481,Dining Set,Home & Kitchen,1,69.26,69.26,Alberta,Mobile App
+ORD-6373,2024-02-12,C-1966,Dumbbell Set,Sports,1,175.35,175.35,Ontario,In-Store Pickup
+ORD-5126,2024-02-13,C-1372,Cotton T-Shirt,Apparel,1,80.1,80.1,Quebec,Mobile App
+ORD-5235,2024-02-13,C-1448,Yoga Mat,Sports,3,163.12,489.36,Ontario,Mobile App
+ORD-5547,2024-02-13,C-1274,Hair Dryer,Beauty,1,35.09,35.09,Ontario,Mobile App
+ORD-5561,2024-02-13,C-1043,Tennis Racket,Sports,3,66.35,199.05,Alberta,Mobile App
+ORD-5685,2024-02-13,C-1325,Tennis Racket,Sports,1,138.15,138.15,Ontario,Website
+ORD-5929,2024-02-13,C-1036,Bicycle Helmet,Sports,1,128.7,128.7,Ontario,Mobile App
+ORD-6711,2024-02-13,C-1410,Face Mask Set,Beauty,4,22.9,91.6,Manitoba,Website
+ORD-5622,2024-02-14,C-1435,Bicycle Helmet,Sports,1,156.92,156.92,Ontario,Mobile App
+ORD-6866,2024-02-15,C-1994,Dining Set,Home & Kitchen,1,168.65,168.65,Quebec,Website
+ORD-6945,2024-02-15,C-1390,Laptop Stand,Electronics,1,296.56,296.56,Quebec,Website
+ORD-5290,2024-02-16,C-1877,Cotton T-Shirt,Apparel,1,22.12,22.12,Ontario,Mobile App
+ORD-6199,2024-02-16,C-1613,Table Lamp,Home & Kitchen,4,180.0,720.0,Manitoba,Mobile App
+ORD-6268,2024-02-16,C-1215,Bluetooth Speaker,Electronics,1,508.21,508.21,Quebec,Mobile App
+ORD-5151,2024-02-17,C-1949,Wireless Headphones,Electronics,1,345.72,345.72,Ontario,Mobile App
+ORD-5158,2024-02-17,C-1802,USB-C Charger,Electronics,4,234.31,937.24,Ontario,Mobile App
+ORD-6120,2024-02-17,C-1876,Cotton T-Shirt,Apparel,2,88.67,177.34,British Columbia,In-Store Pickup
+ORD-6750,2024-02-17,C-1287,Laptop Stand,Electronics,2,315.92,631.84,Ontario,In-Store Pickup
+ORD-5213,2024-02-19,C-1334,Winter Parka,Apparel,3,24.94,74.82,Quebec,Website
+ORD-5319,2024-02-19,C-1951,Tennis Racket,Sports,2,228.69,457.38,Ontario,Website
+ORD-5787,2024-02-19,C-1711,Smart Watch,Electronics,4,321.61,1286.44,Ontario,Mobile App
+ORD-6348,2024-02-19,C-1209,Vitamin C Serum,Beauty,1,24.82,24.82,British Columbia,In-Store Pickup
+ORD-6472,2024-02-19,C-1254,Cookware Set,Home & Kitchen,2,58.35,116.7,Manitoba,Mobile App
+ORD-6305,2024-02-20,C-1518,Wireless Headphones,Electronics,3,255.75,767.25,Ontario,Mobile App
+ORD-5520,2024-02-21,C-1702,Wireless Headphones,Electronics,2,573.64,1147.28,British Columbia,Website
+ORD-6445,2024-02-21,C-1590,Bluetooth Speaker,Electronics,2,448.11,896.22,Ontario,Mobile App
+ORD-6898,2024-02-21,C-1271,Robot Vacuum,Home & Kitchen,1,55.3,55.3,Quebec,Mobile App
+ORD-5976,2024-02-22,C-1077,Air Fryer,Home & Kitchen,1,73.05,73.05,Ontario,Website
+ORD-6191,2024-02-22,C-1960,Running Shoes,Apparel,3,115.46,346.38,Ontario,In-Store Pickup
+ORD-6644,2024-02-22,C-1692,Dining Set,Home & Kitchen,1,154.64,154.64,Quebec,Mobile App
+ORD-6748,2024-02-22,C-1713,Bluetooth Speaker,Electronics,1,253.98,253.98,Quebec,Mobile App
+ORD-5579,2024-02-23,C-1345,Hair Dryer,Beauty,1,23.98,23.98,Quebec,Mobile App
+ORD-5683,2024-02-23,C-1186,Robot Vacuum,Home & Kitchen,1,164.23,164.23,Ontario,Website
+ORD-5606,2024-02-24,C-1856,Bicycle Helmet,Sports,1,86.13,86.13,Ontario,Mobile App
+ORD-6430,2024-02-24,C-1119,Running Shoes,Apparel,1,97.32,97.32,British Columbia,Website
+ORD-6566,2024-02-26,C-1718,Winter Parka,Apparel,2,26.76,53.52,Quebec,In-Store Pickup
+ORD-6592,2024-02-26,C-1379,Air Fryer,Home & Kitchen,1,180.66,180.66,Ontario,Mobile App
+ORD-5999,2024-02-27,C-1781,Air Fryer,Home & Kitchen,1,70.56,70.56,Ontario,In-Store Pickup
+ORD-5092,2024-02-28,C-1558,Cotton T-Shirt,Apparel,1,62.75,62.75,Ontario,Mobile App
+ORD-5128,2024-02-28,C-1659,Moisturizer,Beauty,1,40.54,40.54,Quebec,Website
+ORD-5610,2024-02-28,C-1467,Yoga Mat,Sports,4,208.32,833.28,Manitoba,Mobile App
+ORD-5820,2024-02-28,C-1876,Dining Set,Home & Kitchen,4,87.43,349.72,Ontario,Mobile App
+ORD-5889,2024-02-28,C-1149,Moisturizer,Beauty,1,38.54,38.54,British Columbia,Mobile App
+ORD-6440,2024-02-28,C-1541,USB-C Charger,Electronics,1,107.76,107.76,Manitoba,Mobile App
+ORD-6891,2024-02-28,C-1859,Air Fryer,Home & Kitchen,1,191.87,191.87,Manitoba,Website
+ORD-5135,2024-03-01,C-1115,Robot Vacuum,Home & Kitchen,1,120.56,120.56,Ontario,Website
+ORD-5390,2024-03-01,C-1179,Resistance Bands,Sports,2,83.11,166.22,Ontario,Mobile App
+ORD-5655,2024-03-01,C-1746,Denim Jacket,Apparel,5,38.65,193.25,Ontario,In-Store Pickup
+ORD-6694,2024-03-01,C-1816,Smart Watch,Electronics,2,252.49,504.98,Ontario,Mobile App
+ORD-6870,2024-03-01,C-1533,Hair Dryer,Beauty,4,11.94,47.76,British Columbia,Website
+ORD-6879,2024-03-01,C-1285,Bicycle Helmet,Sports,1,46.29,46.29,Quebec,Website
+ORD-6942,2024-03-01,C-1594,Yoga Leggings,Apparel,1,43.89,43.89,Ontario,Website
+ORD-6118,2024-03-02,C-1966,Wireless Headphones,Electronics,2,236.19,472.38,Quebec,Website
+ORD-6124,2024-03-03,C-1867,Laptop Stand,Electronics,5,268.15,1340.75,Quebec,Website
+ORD-6526,2024-03-04,C-1397,USB-C Charger,Electronics,1,405.18,405.18,Ontario,Mobile App
+ORD-6824,2024-03-04,C-1977,Dining Set,Home & Kitchen,1,63.34,63.34,Quebec,Website
+ORD-5588,2024-03-05,C-1250,Cotton T-Shirt,Apparel,2,106.05,212.1,Quebec,Mobile App
+ORD-5642,2024-03-05,C-1033,USB-C Charger,Electronics,1,211.34,211.34,Ontario,Website
+ORD-5915,2024-03-05,C-1358,Yoga Mat,Sports,2,166.2,332.4,Alberta,In-Store Pickup
+ORD-6587,2024-03-06,C-1909,Resistance Bands,Sports,4,59.74,238.96,Manitoba,Website
+ORD-6079,2024-03-08,C-1627,Laptop Stand,Electronics,1,369.05,369.05,Ontario,Mobile App
+ORD-6497,2024-03-08,C-1253,Perfume,Beauty,2,56.24,112.48,Ontario,Mobile App
+ORD-6065,2024-03-09,C-1740,Tennis Racket,Sports,1,73.79,73.79,Ontario,Mobile App
+ORD-5838,2024-03-10,C-1976,Cotton T-Shirt,Apparel,1,32.36,32.36,Ontario,Mobile App
+ORD-6262,2024-03-10,C-1691,Bicycle Helmet,Sports,1,240.11,240.11,Ontario,Mobile App
+ORD-6554,2024-03-10,C-1969,Cotton T-Shirt,Apparel,1,118.3,118.3,Ontario,Website
+ORD-6657,2024-03-10,C-1530,Wireless Headphones,Electronics,1,142.45,142.45,Ontario,Website
+ORD-6710,2024-03-10,C-1499,Robot Vacuum,Home & Kitchen,2,36.07,72.14,Manitoba,Website
+ORD-5939,2024-03-11,C-1706,Cookware Set,Home & Kitchen,1,175.57,175.57,Ontario,Mobile App
+ORD-6439,2024-03-11,C-1270,Cotton T-Shirt,Apparel,3,45.57,136.71,Ontario,Website
+ORD-6285,2024-03-12,C-1236,Resistance Bands,Sports,1,75.88,75.88,British Columbia,Mobile App
+ORD-6478,2024-03-12,C-1704,Table Lamp,Home & Kitchen,2,118.7,237.4,Ontario,Mobile App
+ORD-6506,2024-03-12,C-1874,USB-C Charger,Electronics,1,281.75,281.75,Quebec,Website
+ORD-5761,2024-03-13,C-1510,Winter Parka,Apparel,1,48.34,48.34,Alberta,Mobile App
+ORD-5837,2024-03-13,C-1169,Yoga Leggings,Apparel,1,65.0,65.0,Alberta,In-Store Pickup
+ORD-5866,2024-03-13,C-1112,Air Fryer,Home & Kitchen,4,80.43,321.72,British Columbia,Website
+ORD-6847,2024-03-13,C-1149,Air Fryer,Home & Kitchen,1,188.26,188.26,Ontario,Website
+ORD-5153,2024-03-14,C-1439,Yoga Mat,Sports,1,249.19,249.19,Alberta,Mobile App
+ORD-6932,2024-03-14,C-1825,Hair Dryer,Beauty,1,37.17,37.17,Alberta,Website
+ORD-5624,2024-03-15,C-1980,Denim Jacket,Apparel,3,58.35,175.05,Ontario,In-Store Pickup
+ORD-6480,2024-03-15,C-1976,Denim Jacket,Apparel,2,97.86,195.72,Quebec,Website
+ORD-5824,2024-03-16,C-1115,Wireless Headphones,Electronics,1,429.7,429.7,Quebec,Mobile App
+ORD-6555,2024-03-16,C-1314,Dumbbell Set,Sports,1,168.06,168.06,Quebec,Website
+ORD-6747,2024-03-16,C-1491,Table Lamp,Home & Kitchen,1,110.33,110.33,Quebec,Mobile App
+ORD-5026,2024-03-17,C-1776,Bluetooth Speaker,Electronics,1,399.75,399.75,Quebec,In-Store Pickup
+ORD-5496,2024-03-17,C-1670,Laptop Stand,Electronics,1,218.02,218.02,Ontario,Website
+ORD-5564,2024-03-17,C-1536,Laptop Stand,Electronics,1,586.7,586.7,Ontario,Mobile App
+ORD-5969,2024-03-17,C-1643,Laptop Stand,Electronics,1,189.44,189.44,Ontario,Website
+ORD-6413,2024-03-17,C-1159,Bicycle Helmet,Sports,3,120.58,361.74,Alberta,Website
+ORD-6601,2024-03-18,C-1422,Bluetooth Speaker,Electronics,1,329.0,329.0,Ontario,Mobile App
+ORD-5476,2024-03-19,C-1579,Smart Watch,Electronics,5,243.45,1217.25,Alberta,Mobile App
+ORD-6848,2024-03-19,C-1937,Winter Parka,Apparel,3,96.26,288.78,Ontario,In-Store Pickup
+ORD-5185,2024-03-20,C-1540,Hair Dryer,Beauty,1,47.27,47.27,Ontario,Website
+ORD-5443,2024-03-20,C-1705,Yoga Leggings,Apparel,1,22.55,22.55,Quebec,In-Store Pickup
+ORD-5510,2024-03-20,C-1783,USB-C Charger,Electronics,2,410.77,821.54,Ontario,In-Store Pickup
+ORD-6325,2024-03-20,C-1878,Running Shoes,Apparel,1,117.35,117.35,Manitoba,Mobile App
+ORD-6769,2024-03-20,C-1535,Robot Vacuum,Home & Kitchen,1,114.3,114.3,Ontario,Mobile App
+ORD-5268,2024-03-21,C-1703,Tennis Racket,Sports,1,195.3,195.3,Ontario,In-Store Pickup
+ORD-5228,2024-03-22,C-1460,Denim Jacket,Apparel,4,26.13,104.52,Alberta,Mobile App
+ORD-5562,2024-03-22,C-1095,Tennis Racket,Sports,4,207.12,828.48,Ontario,In-Store Pickup
+ORD-6617,2024-03-22,C-1832,Cotton T-Shirt,Apparel,3,37.93,113.79,Manitoba,Mobile App
+ORD-6745,2024-03-22,C-1539,Dining Set,Home & Kitchen,1,87.78,87.78,British Columbia,Mobile App
+ORD-5583,2024-03-23,C-1939,Resistance Bands,Sports,2,191.83,383.66,Quebec,Mobile App
+ORD-5680,2024-03-23,C-1302,Winter Parka,Apparel,1,113.85,113.85,British Columbia,Website
+ORD-5701,2024-03-23,C-1338,Winter Parka,Apparel,1,119.75,119.75,Quebec,Mobile App
+ORD-5948,2024-03-23,C-1147,USB-C Charger,Electronics,2,103.69,207.38,Ontario,Website
+ORD-6029,2024-03-23,C-1937,Table Lamp,Home & Kitchen,1,53.66,53.66,Quebec,In-Store Pickup
+ORD-6229,2024-03-23,C-1407,Yoga Leggings,Apparel,2,90.93,181.86,Quebec,Mobile App
+ORD-6255,2024-03-23,C-1471,Air Fryer,Home & Kitchen,3,122.38,367.14,Quebec,Website
+ORD-6626,2024-03-23,C-1451,Running Shoes,Apparel,1,22.25,22.25,Alberta,Mobile App
+ORD-6838,2024-03-23,C-1289,Winter Parka,Apparel,1,31.68,31.68,Ontario,Mobile App
+ORD-5279,2024-03-24,C-1417,Bluetooth Speaker,Electronics,1,517.94,517.94,Quebec,Website
+ORD-5329,2024-03-24,C-1646,Moisturizer,Beauty,1,27.25,27.25,Ontario,Mobile App
+ORD-5367,2024-03-24,C-1070,Cotton T-Shirt,Apparel,4,39.85,159.4,Ontario,Website
+ORD-6801,2024-03-24,C-1888,Resistance Bands,Sports,3,247.46,742.38,Ontario,Website
+ORD-5232,2024-03-25,C-1207,Wireless Headphones,Electronics,4,477.44,1909.76,Quebec,Mobile App
+ORD-5767,2024-03-25,C-1947,Bluetooth Speaker,Electronics,1,119.24,119.24,Ontario,Mobile App
+ORD-6071,2024-03-25,C-1972,Cookware Set,Home & Kitchen,2,84.68,169.36,Manitoba,Mobile App
+ORD-6588,2024-03-25,C-1577,Denim Jacket,Apparel,3,77.57,232.71,Alberta,Mobile App
+ORD-6723,2024-03-25,C-1661,Denim Jacket,Apparel,4,65.37,261.48,Alberta,Website
+ORD-5528,2024-03-26,C-1951,Cotton T-Shirt,Apparel,1,33.37,33.37,Quebec,Website
+ORD-5127,2024-03-27,C-1788,Bluetooth Speaker,Electronics,3,205.23,615.69,Alberta,Website
+ORD-5662,2024-03-27,C-1426,Smart Watch,Electronics,3,597.73,1793.19,Quebec,Mobile App
+ORD-5063,2024-03-28,C-1578,Bluetooth Speaker,Electronics,1,378.03,378.03,Ontario,Website
+ORD-5674,2024-03-28,C-1209,Air Fryer,Home & Kitchen,1,43.17,43.17,Quebec,Website
+ORD-6052,2024-03-28,C-1668,Yoga Leggings,Apparel,1,112.51,112.51,British Columbia,Website
+ORD-6531,2024-03-28,C-1078,Smart Watch,Electronics,1,591.68,591.68,Quebec,In-Store Pickup
+ORD-6614,2024-03-28,C-1629,Laptop Stand,Electronics,1,417.4,417.4,Ontario,In-Store Pickup
+ORD-6465,2024-03-29,C-1058,Running Shoes,Apparel,5,88.42,442.1,Ontario,Website
+ORD-6751,2024-03-29,C-1340,Bluetooth Speaker,Electronics,1,406.02,406.02,Quebec,Website
+ORD-6914,2024-03-29,C-1214,Running Shoes,Apparel,1,51.44,51.44,Ontario,Mobile App
+ORD-5105,2024-03-30,C-1804,Air Fryer,Home & Kitchen,2,46.77,93.54,Alberta,In-Store Pickup
+ORD-5059,2024-03-31,C-1846,Running Shoes,Apparel,1,100.17,100.17,Ontario,Website
+ORD-5378,2024-03-31,C-1273,Cookware Set,Home & Kitchen,1,150.76,150.76,Ontario,Website
+ORD-6171,2024-03-31,C-1620,Resistance Bands,Sports,4,223.81,895.24,Ontario,Website
+ORD-5401,2024-04-02,C-1225,Yoga Leggings,Apparel,1,63.39,63.39,Ontario,Website
+ORD-6254,2024-04-02,C-1548,Cookware Set,Home & Kitchen,2,133.26,266.52,Ontario,Mobile App
+ORD-6486,2024-04-02,C-1046,Tennis Racket,Sports,1,243.22,243.22,Quebec,Website
+ORD-5078,2024-04-03,C-1669,USB-C Charger,Electronics,1,363.92,363.92,Quebec,Mobile App
+ORD-6917,2024-04-03,C-1286,Laptop Stand,Electronics,2,229.27,458.54,Ontario,Mobile App
+ORD-5023,2024-04-04,C-1443,Vitamin C Serum,Beauty,1,33.95,33.95,Alberta,Website
+ORD-5420,2024-04-04,C-1475,Smart Watch,Electronics,1,528.3,528.3,Alberta,Website
+ORD-5739,2024-04-04,C-1254,Resistance Bands,Sports,1,206.47,206.47,British Columbia,Mobile App
+ORD-6011,2024-04-04,C-1694,Dining Set,Home & Kitchen,1,158.59,158.59,Ontario,Mobile App
+ORD-6146,2024-04-04,C-1703,Smart Watch,Electronics,4,300.87,1203.48,Quebec,Mobile App
+ORD-6516,2024-04-04,C-1195,Bluetooth Speaker,Electronics,1,303.17,303.17,Quebec,Mobile App
+ORD-5480,2024-04-05,C-1226,Bicycle Helmet,Sports,3,221.73,665.19,Ontario,Mobile App
+ORD-5615,2024-04-05,C-1140,Hair Dryer,Beauty,1,54.53,54.53,Quebec,Mobile App
+ORD-6016,2024-04-05,C-1072,Bluetooth Speaker,Electronics,1,562.55,562.55,Ontario,Mobile App
+ORD-6241,2024-04-05,C-1733,Yoga Mat,Sports,3,158.89,476.67,Quebec,Mobile App
+ORD-6382,2024-04-05,C-1732,Yoga Mat,Sports,1,72.21,72.21,Ontario,Website
+ORD-5275,2024-04-06,C-1302,Vitamin C Serum,Beauty,1,14.0,14.0,Alberta,Website
+ORD-5997,2024-04-06,C-1925,Smart Watch,Electronics,2,426.5,853.0,Ontario,Mobile App
+ORD-6099,2024-04-06,C-1238,Bluetooth Speaker,Electronics,2,548.0,1096.0,Quebec,Website
+ORD-6624,2024-04-06,C-1109,Wireless Headphones,Electronics,4,226.5,906.0,Ontario,In-Store Pickup
+ORD-5288,2024-04-07,C-1031,Laptop Stand,Electronics,2,233.9,467.8,Ontario,Website
+ORD-6412,2024-04-07,C-1454,USB-C Charger,Electronics,1,354.01,354.01,Ontario,In-Store Pickup
+ORD-6688,2024-04-07,C-1412,Cotton T-Shirt,Apparel,2,31.88,63.76,Ontario,Mobile App
+ORD-6141,2024-04-08,C-1400,Table Lamp,Home & Kitchen,2,145.44,290.88,Ontario,In-Store Pickup
+ORD-6780,2024-04-08,C-1755,USB-C Charger,Electronics,1,400.21,400.21,Manitoba,Mobile App
+ORD-5692,2024-04-09,C-1714,Dining Set,Home & Kitchen,1,105.3,105.3,Ontario,Website
+ORD-6068,2024-04-09,C-1520,Laptop Stand,Electronics,1,337.8,337.8,Quebec,Mobile App
+ORD-6295,2024-04-09,C-1521,Running Shoes,Apparel,1,117.44,117.44,Manitoba,In-Store Pickup
+ORD-5522,2024-04-10,C-1352,Denim Jacket,Apparel,1,107.16,107.16,British Columbia,Website
+ORD-5572,2024-04-10,C-1856,Table Lamp,Home & Kitchen,1,28.78,28.78,British Columbia,Mobile App
+ORD-5956,2024-04-10,C-1775,Air Fryer,Home & Kitchen,1,140.24,140.24,Quebec,Website
+ORD-6093,2024-04-10,C-1688,Robot Vacuum,Home & Kitchen,2,173.32,346.64,Quebec,Mobile App
+ORD-6461,2024-04-10,C-1297,Yoga Mat,Sports,4,64.62,258.48,Ontario,Mobile App
+ORD-6712,2024-04-10,C-1863,Dumbbell Set,Sports,1,70.39,70.39,Ontario,Mobile App
+ORD-5822,2024-04-11,C-1791,Perfume,Beauty,2,25.86,51.72,Ontario,Website
+ORD-5860,2024-04-11,C-1375,Bluetooth Speaker,Electronics,1,300.94,300.94,Quebec,Mobile App
+ORD-6700,2024-04-11,C-1646,Smart Watch,Electronics,1,518.28,518.28,Ontario,Website
+ORD-5743,2024-04-12,C-1547,Dining Set,Home & Kitchen,2,91.01,182.02,Quebec,Mobile App
+ORD-6788,2024-04-12,C-1076,Winter Parka,Apparel,4,61.09,244.36,Manitoba,Mobile App
+ORD-5057,2024-04-13,C-1742,Laptop Stand,Electronics,5,128.33,641.65,Manitoba,Website
+ORD-5782,2024-04-13,C-1211,Vitamin C Serum,Beauty,1,19.91,19.91,Quebec,Website
+ORD-5867,2024-04-13,C-1462,Cookware Set,Home & Kitchen,1,107.82,107.82,Ontario,Mobile App
+ORD-6251,2024-04-13,C-1680,Dining Set,Home & Kitchen,1,180.29,180.29,British Columbia,Website
+ORD-6503,2024-04-13,C-1947,Yoga Mat,Sports,2,90.73,181.46,Ontario,Mobile App
+ORD-6681,2024-04-13,C-1127,Moisturizer,Beauty,1,24.81,24.81,Ontario,In-Store Pickup
+ORD-5678,2024-04-14,C-1218,Moisturizer,Beauty,2,53.94,107.88,British Columbia,Website
+ORD-5825,2024-04-14,C-1846,Laptop Stand,Electronics,2,566.8,1133.6,British Columbia,Mobile App
+ORD-6349,2024-04-14,C-1092,Running Shoes,Apparel,2,114.76,229.52,Quebec,In-Store Pickup
+ORD-5488,2024-04-15,C-1244,Wireless Headphones,Electronics,2,385.31,770.62,Ontario,In-Store Pickup
+ORD-5738,2024-04-15,C-1973,Vitamin C Serum,Beauty,1,41.39,41.39,Ontario,Website
+ORD-6981,2024-04-15,C-1643,Yoga Leggings,Apparel,1,21.33,21.33,Ontario,Mobile App
+ORD-5619,2024-04-16,C-1796,Laptop Stand,Electronics,1,245.54,245.54,Ontario,In-Store Pickup
+ORD-5635,2024-04-16,C-1890,Dining Set,Home & Kitchen,1,136.13,136.13,Ontario,Website
+ORD-5721,2024-04-16,C-1668,Face Mask Set,Beauty,2,54.83,109.66,Manitoba,Mobile App
+ORD-6976,2024-04-16,C-1647,Yoga Leggings,Apparel,5,33.92,169.6,Ontario,Mobile App
+ORD-5551,2024-04-17,C-1049,USB-C Charger,Electronics,5,492.37,2461.85,Ontario,Website
+ORD-6048,2024-04-17,C-1672,Yoga Mat,Sports,2,93.24,186.48,Quebec,Website
+ORD-6097,2024-04-17,C-1256,Robot Vacuum,Home & Kitchen,4,178.08,712.32,Manitoba,In-Store Pickup
+ORD-6589,2024-04-17,C-1694,Running Shoes,Apparel,1,92.2,92.2,Alberta,Mobile App
+ORD-5494,2024-04-18,C-1792,Yoga Mat,Sports,1,242.73,242.73,Quebec,Website
+ORD-5605,2024-04-18,C-1699,Yoga Leggings,Apparel,1,90.06,90.06,Quebec,Website
+ORD-6904,2024-04-18,C-1788,Cookware Set,Home & Kitchen,1,122.04,122.04,Ontario,Mobile App
+ORD-5247,2024-04-19,C-1681,Winter Parka,Apparel,4,104.05,416.2,Ontario,In-Store Pickup
+ORD-5745,2024-04-19,C-1548,Yoga Mat,Sports,1,135.32,135.32,British Columbia,Mobile App
+ORD-5812,2024-04-19,C-1578,Vitamin C Serum,Beauty,5,41.54,207.7,British Columbia,Mobile App
+ORD-5864,2024-04-19,C-1156,Tennis Racket,Sports,1,114.42,114.42,Quebec,Mobile App
+ORD-6414,2024-04-19,C-1668,Cotton T-Shirt,Apparel,4,106.22,424.88,Alberta,Website
+ORD-6907,2024-04-19,C-1134,Robot Vacuum,Home & Kitchen,1,161.6,161.6,Ontario,Website
+ORD-5459,2024-04-20,C-1379,Dining Set,Home & Kitchen,1,74.13,74.13,Ontario,Website
+ORD-5835,2024-04-20,C-1915,Denim Jacket,Apparel,1,76.73,76.73,Ontario,In-Store Pickup
+ORD-5959,2024-04-20,C-1580,Running Shoes,Apparel,1,104.71,104.71,Quebec,Mobile App
+ORD-6039,2024-04-20,C-1931,Winter Parka,Apparel,1,85.79,85.79,Ontario,Website
+ORD-5503,2024-04-22,C-1531,Vitamin C Serum,Beauty,2,48.98,97.96,Quebec,Mobile App
+ORD-5582,2024-04-22,C-1587,Smart Watch,Electronics,1,185.38,185.38,Quebec,Website
+ORD-5653,2024-04-22,C-1556,Hair Dryer,Beauty,2,18.0,36.0,Alberta,Website
+ORD-5916,2024-04-22,C-1905,Vitamin C Serum,Beauty,1,26.98,26.98,Manitoba,Website
+ORD-6353,2024-04-22,C-1740,Cotton T-Shirt,Apparel,3,79.84,239.52,Quebec,Mobile App
+ORD-6426,2024-04-22,C-1948,Yoga Leggings,Apparel,1,48.53,48.53,Ontario,Website
+ORD-5330,2024-04-23,C-1656,Bluetooth Speaker,Electronics,1,318.45,318.45,Quebec,In-Store Pickup
+ORD-5573,2024-04-23,C-1838,Hair Dryer,Beauty,2,10.39,20.78,Quebec,Mobile App
+ORD-6609,2024-04-23,C-1123,Bluetooth Speaker,Electronics,1,358.5,358.5,Manitoba,In-Store Pickup
+ORD-6828,2024-04-23,C-1905,Running Shoes,Apparel,1,80.73,80.73,Quebec,Website
+ORD-6987,2024-04-23,C-1136,Dumbbell Set,Sports,2,102.57,205.14,Alberta,Website
+ORD-5722,2024-04-24,C-1030,Yoga Leggings,Apparel,1,82.84,82.84,British Columbia,Mobile App
+ORD-6418,2024-04-24,C-1627,Air Fryer,Home & Kitchen,1,133.08,133.08,Ontario,Mobile App
+ORD-6053,2024-04-25,C-1875,Moisturizer,Beauty,1,14.5,14.5,Ontario,Website
+ORD-6389,2024-04-25,C-1243,Denim Jacket,Apparel,4,44.79,179.16,Manitoba,Mobile App
+ORD-6634,2024-04-25,C-1775,Dining Set,Home & Kitchen,1,200.0,200.0,British Columbia,Mobile App
+ORD-5020,2024-04-26,C-1525,Bicycle Helmet,Sports,1,160.47,160.47,Quebec,In-Store Pickup
+ORD-5198,2024-04-26,C-1307,Denim Jacket,Apparel,2,101.47,202.94,Ontario,Mobile App
+ORD-5269,2024-04-26,C-1879,Wireless Headphones,Electronics,1,135.72,135.72,Quebec,Mobile App
+ORD-5012,2024-04-27,C-1772,Smart Watch,Electronics,1,433.41,433.41,Alberta,Website
+ORD-5363,2024-04-27,C-1276,Air Fryer,Home & Kitchen,3,86.51,259.53,Quebec,Mobile App
+ORD-6585,2024-04-27,C-1718,Bicycle Helmet,Sports,1,103.22,103.22,Ontario,Website
+ORD-5337,2024-04-28,C-1869,Bluetooth Speaker,Electronics,2,546.97,1093.94,Ontario,Website
+ORD-5937,2024-04-28,C-1751,Table Lamp,Home & Kitchen,1,31.04,31.04,Alberta,Website
+ORD-6449,2024-04-28,C-1774,Yoga Leggings,Apparel,4,60.88,243.52,Quebec,Website
+ORD-6674,2024-04-28,C-1574,Dining Set,Home & Kitchen,2,149.8,299.6,Quebec,Website
+ORD-6719,2024-04-28,C-1314,Winter Parka,Apparel,1,96.33,96.33,Quebec,Website
+ORD-5039,2024-04-29,C-1180,Wireless Headphones,Electronics,1,470.84,470.84,Quebec,Website
+ORD-5941,2024-04-29,C-1819,Yoga Mat,Sports,1,108.54,108.54,Ontario,Mobile App
+ORD-5553,2024-04-30,C-1384,USB-C Charger,Electronics,4,308.32,1233.28,British Columbia,In-Store Pickup
+ORD-5950,2024-04-30,C-1198,Face Mask Set,Beauty,1,15.27,15.27,Manitoba,Mobile App
+ORD-6724,2024-04-30,C-1201,Air Fryer,Home & Kitchen,4,188.83,755.32,British Columbia,Mobile App
+ORD-6873,2024-04-30,C-1220,Perfume,Beauty,3,51.72,155.16,Quebec,Mobile App
+ORD-5000,2024-05-01,C-1794,Yoga Leggings,Apparel,5,42.88,214.4,British Columbia,Mobile App
+ORD-5764,2024-05-01,C-1181,Face Mask Set,Beauty,4,43.95,175.8,British Columbia,Website
+ORD-6436,2024-05-01,C-1355,Laptop Stand,Electronics,2,138.57,277.14,Quebec,Website
+ORD-6839,2024-05-01,C-1904,Resistance Bands,Sports,2,138.83,277.66,Quebec,Website
+ORD-5458,2024-05-02,C-1298,Cookware Set,Home & Kitchen,1,93.9,93.9,Manitoba,Mobile App
+ORD-5729,2024-05-03,C-1966,Running Shoes,Apparel,2,88.72,177.44,Ontario,Website
+ORD-6135,2024-05-03,C-1398,Winter Parka,Apparel,1,29.21,29.21,Ontario,Website
+ORD-6292,2024-05-03,C-1064,USB-C Charger,Electronics,4,386.79,1547.16,Ontario,Website
+ORD-6854,2024-05-03,C-1920,Denim Jacket,Apparel,2,69.12,138.24,Ontario,Mobile App
+ORD-5276,2024-05-04,C-1341,Hair Dryer,Beauty,2,59.78,119.56,Alberta,Website
+ORD-5348,2024-05-05,C-1813,Laptop Stand,Electronics,1,129.09,129.09,Quebec,Mobile App
+ORD-6160,2024-05-05,C-1393,Resistance Bands,Sports,1,187.38,187.38,Ontario,Website
+ORD-6401,2024-05-05,C-1803,Vitamin C Serum,Beauty,1,42.39,42.39,Manitoba,Website
+ORD-6652,2024-05-05,C-1212,Smart Watch,Electronics,2,422.55,845.1,Ontario,Website
+ORD-5403,2024-05-06,C-1742,Dining Set,Home & Kitchen,1,110.79,110.79,Quebec,Mobile App
+ORD-5442,2024-05-06,C-1147,Running Shoes,Apparel,2,27.53,55.06,British Columbia,In-Store Pickup
+ORD-5945,2024-05-06,C-1872,Face Mask Set,Beauty,3,50.19,150.57,Ontario,In-Store Pickup
+ORD-6442,2024-05-06,C-1651,Air Fryer,Home & Kitchen,1,157.62,157.62,Manitoba,In-Store Pickup
+ORD-6817,2024-05-07,C-1814,Vitamin C Serum,Beauty,1,46.77,46.77,Ontario,Mobile App
+ORD-6998,2024-05-07,C-1947,Hair Dryer,Beauty,1,35.08,35.08,Ontario,Website
+ORD-5022,2024-05-08,C-1166,Cookware Set,Home & Kitchen,3,149.32,447.96,Quebec,In-Store Pickup
+ORD-5335,2024-05-08,C-1528,Smart Watch,Electronics,1,121.22,121.22,Quebec,Website
+ORD-5053,2024-05-09,C-1818,USB-C Charger,Electronics,3,260.18,780.54,Ontario,Website
+ORD-5146,2024-05-09,C-1629,Bluetooth Speaker,Electronics,2,477.99,955.98,Ontario,Mobile App
+ORD-5166,2024-05-09,C-1936,Wireless Headphones,Electronics,2,460.53,921.06,British Columbia,Mobile App
+ORD-5192,2024-05-09,C-1082,Dining Set,Home & Kitchen,1,185.66,185.66,Ontario,Website
+ORD-6944,2024-05-09,C-1394,Bluetooth Speaker,Electronics,1,170.58,170.58,Ontario,In-Store Pickup
+ORD-5122,2024-05-10,C-1117,Yoga Leggings,Apparel,1,47.59,47.59,Ontario,Mobile App
+ORD-5375,2024-05-10,C-1462,Vitamin C Serum,Beauty,1,43.46,43.46,Quebec,In-Store Pickup
+ORD-5602,2024-05-10,C-1721,Vitamin C Serum,Beauty,2,25.46,50.92,Ontario,Mobile App
+ORD-6964,2024-05-10,C-1584,Cookware Set,Home & Kitchen,2,149.33,298.66,Quebec,Website
+ORD-5222,2024-05-11,C-1251,Winter Parka,Apparel,1,62.15,62.15,Ontario,In-Store Pickup
+ORD-5389,2024-05-12,C-1572,Hair Dryer,Beauty,2,33.62,67.24,Quebec,Website
+ORD-6369,2024-05-12,C-1223,Vitamin C Serum,Beauty,1,19.96,19.96,Ontario,Mobile App
+ORD-5548,2024-05-13,C-1698,Hair Dryer,Beauty,4,12.55,50.2,Ontario,Mobile App
+ORD-6354,2024-05-13,C-1028,Yoga Mat,Sports,1,144.62,144.62,Ontario,Mobile App
+ORD-6595,2024-05-13,C-1018,USB-C Charger,Electronics,1,325.68,325.68,Ontario,Website
+ORD-5641,2024-05-14,C-1638,Running Shoes,Apparel,1,23.9,23.9,Quebec,Website
+ORD-6049,2024-05-14,C-1446,Cookware Set,Home & Kitchen,1,65.11,65.11,Ontario,Website
+ORD-6704,2024-05-14,C-1655,Hair Dryer,Beauty,1,54.33,54.33,Ontario,Website
+ORD-5100,2024-05-15,C-1990,Yoga Mat,Sports,3,240.11,720.33,Alberta,Mobile App
+ORD-6557,2024-05-15,C-1952,Denim Jacket,Apparel,1,83.38,83.38,Ontario,Website
+ORD-5504,2024-05-16,C-1593,Face Mask Set,Beauty,1,50.2,50.2,Quebec,Mobile App
+ORD-5740,2024-05-16,C-1356,Wireless Headphones,Electronics,1,362.44,362.44,Alberta,In-Store Pickup
+ORD-6884,2024-05-16,C-1561,Wireless Headphones,Electronics,3,374.49,1123.47,British Columbia,Mobile App
+ORD-5236,2024-05-17,C-1101,Winter Parka,Apparel,2,88.58,177.16,Quebec,Website
+ORD-5546,2024-05-17,C-1533,Perfume,Beauty,1,59.46,59.46,Ontario,Website
+ORD-6282,2024-05-17,C-1233,USB-C Charger,Electronics,3,277.12,831.36,Quebec,In-Store Pickup
+ORD-6202,2024-05-18,C-1423,Dumbbell Set,Sports,1,74.15,74.15,Alberta,Website
+ORD-6438,2024-05-18,C-1090,Resistance Bands,Sports,1,30.9,30.9,Ontario,Mobile App
+ORD-6473,2024-05-18,C-1948,Running Shoes,Apparel,2,113.86,227.72,Manitoba,Mobile App
+ORD-6876,2024-05-18,C-1146,Resistance Bands,Sports,1,42.45,42.45,Ontario,Website
+ORD-5072,2024-05-19,C-1308,Cotton T-Shirt,Apparel,1,103.67,103.67,Ontario,Website
+ORD-5298,2024-05-19,C-1808,Wireless Headphones,Electronics,2,183.01,366.02,Ontario,Mobile App
+ORD-6090,2024-05-19,C-1570,Hair Dryer,Beauty,4,22.65,90.6,Quebec,In-Store Pickup
+ORD-6468,2024-05-19,C-1106,Wireless Headphones,Electronics,1,400.58,400.58,Quebec,Mobile App
+ORD-6947,2024-05-19,C-1355,Running Shoes,Apparel,3,107.03,321.09,Alberta,Website
+ORD-5219,2024-05-20,C-1102,Cotton T-Shirt,Apparel,1,33.1,33.1,Quebec,In-Store Pickup
+ORD-5595,2024-05-20,C-1098,Bluetooth Speaker,Electronics,1,107.26,107.26,Quebec,Website
+ORD-5785,2024-05-20,C-1937,Tennis Racket,Sports,5,52.35,261.75,Manitoba,In-Store Pickup
+ORD-5836,2024-05-21,C-1225,Wireless Headphones,Electronics,2,209.03,418.06,Ontario,In-Store Pickup
+ORD-6350,2024-05-21,C-1594,Tennis Racket,Sports,1,65.19,65.19,Manitoba,Mobile App
+ORD-6410,2024-05-21,C-1780,Vitamin C Serum,Beauty,1,18.28,18.28,Quebec,Mobile App
+ORD-6451,2024-05-21,C-1964,Dining Set,Home & Kitchen,2,138.2,276.4,Quebec,Website
+ORD-5075,2024-05-22,C-1858,Winter Parka,Apparel,2,23.63,47.26,British Columbia,In-Store Pickup
+ORD-5317,2024-05-22,C-1792,Wireless Headphones,Electronics,3,498.75,1496.25,Alberta,Website
+ORD-5682,2024-05-22,C-1487,Hair Dryer,Beauty,1,50.55,50.55,Quebec,Website
+ORD-6130,2024-05-22,C-1738,Cotton T-Shirt,Apparel,2,83.27,166.54,Quebec,Website
+ORD-5758,2024-05-23,C-1693,Table Lamp,Home & Kitchen,2,122.93,245.86,Ontario,In-Store Pickup
+ORD-5986,2024-05-23,C-1787,Cookware Set,Home & Kitchen,3,88.53,265.59,Ontario,In-Store Pickup
+ORD-6266,2024-05-23,C-1311,Wireless Headphones,Electronics,2,115.31,230.62,Alberta,In-Store Pickup
+ORD-6568,2024-05-23,C-1358,Yoga Leggings,Apparel,1,37.03,37.03,Alberta,Website
+ORD-5017,2024-05-24,C-1030,Moisturizer,Beauty,1,53.93,53.93,Quebec,Website
+ORD-5524,2024-05-24,C-1239,Running Shoes,Apparel,2,83.62,167.24,Ontario,Mobile App
+ORD-5890,2024-05-24,C-1593,Vitamin C Serum,Beauty,1,27.9,27.9,Ontario,Website
+ORD-5954,2024-05-24,C-1930,Winter Parka,Apparel,1,98.56,98.56,Quebec,Mobile App
+ORD-6216,2024-05-24,C-1981,Yoga Leggings,Apparel,1,52.73,52.73,British Columbia,Mobile App
+ORD-5088,2024-05-25,C-1159,Robot Vacuum,Home & Kitchen,2,69.05,138.1,Quebec,Website
+ORD-5048,2024-05-26,C-1546,Dumbbell Set,Sports,4,107.92,431.68,Ontario,In-Store Pickup
+ORD-5992,2024-05-26,C-1027,USB-C Charger,Electronics,1,405.07,405.07,Ontario,Website
+ORD-6778,2024-05-26,C-1577,Cookware Set,Home & Kitchen,2,121.23,242.46,British Columbia,Mobile App
+ORD-6921,2024-05-26,C-1555,Robot Vacuum,Home & Kitchen,1,76.25,76.25,Quebec,In-Store Pickup
+ORD-5134,2024-05-27,C-1787,Tennis Racket,Sports,2,117.0,234.0,Ontario,Website
+ORD-5620,2024-05-27,C-1724,Tennis Racket,Sports,1,84.09,84.09,British Columbia,In-Store Pickup
+ORD-5955,2024-05-27,C-1783,Dumbbell Set,Sports,1,153.58,153.58,Quebec,Mobile App
+ORD-6013,2024-05-27,C-1222,Resistance Bands,Sports,4,218.29,873.16,British Columbia,Website
+ORD-5424,2024-05-28,C-1306,Smart Watch,Electronics,4,187.7,750.8,Ontario,Mobile App
+ORD-5689,2024-05-28,C-1258,Vitamin C Serum,Beauty,1,17.58,17.58,British Columbia,Mobile App
+ORD-5827,2024-05-28,C-1523,Laptop Stand,Electronics,3,596.14,1788.42,Ontario,Website
+ORD-6220,2024-05-28,C-1038,USB-C Charger,Electronics,1,139.44,139.44,Manitoba,In-Store Pickup
+ORD-5647,2024-05-29,C-1175,Hair Dryer,Beauty,2,54.79,109.58,Ontario,Mobile App
+ORD-6423,2024-05-29,C-1408,Resistance Bands,Sports,1,187.04,187.04,Quebec,Mobile App
+ORD-6591,2024-05-29,C-1143,Winter Parka,Apparel,4,40.39,161.56,British Columbia,Website
+ORD-6882,2024-05-29,C-1082,Dumbbell Set,Sports,3,145.02,435.06,Quebec,In-Store Pickup
+ORD-5141,2024-05-30,C-1688,Denim Jacket,Apparel,1,63.19,63.19,Quebec,In-Store Pickup
+ORD-5283,2024-05-30,C-1810,Perfume,Beauty,1,19.01,19.01,Ontario,Mobile App
+ORD-5347,2024-05-30,C-1815,Dining Set,Home & Kitchen,1,65.32,65.32,Ontario,Website
+ORD-5468,2024-05-30,C-1412,Table Lamp,Home & Kitchen,2,63.31,126.62,Quebec,Website
+ORD-5974,2024-05-30,C-1145,Bluetooth Speaker,Electronics,3,369.4,1108.2,Ontario,Website
+ORD-5895,2024-05-31,C-1111,Resistance Bands,Sports,1,139.38,139.38,Ontario,Website
+ORD-6961,2024-05-31,C-1421,Smart Watch,Electronics,2,190.93,381.86,Ontario,Website
+ORD-6006,2024-06-01,C-1117,Vitamin C Serum,Beauty,1,13.97,13.97,British Columbia,Website
+ORD-6613,2024-06-01,C-1142,Dumbbell Set,Sports,1,141.04,141.04,British Columbia,Website
+ORD-6615,2024-06-01,C-1896,Winter Parka,Apparel,5,38.08,190.4,Ontario,Website
+ORD-5162,2024-06-02,C-1032,Yoga Leggings,Apparel,2,29.37,58.74,Ontario,Mobile App
+ORD-5554,2024-06-02,C-1912,Tennis Racket,Sports,1,198.16,198.16,Alberta,Mobile App
+ORD-5617,2024-06-02,C-1019,Bicycle Helmet,Sports,1,117.24,117.24,Ontario,Mobile App
+ORD-5826,2024-06-02,C-1259,Robot Vacuum,Home & Kitchen,4,186.76,747.04,Manitoba,In-Store Pickup
+ORD-6603,2024-06-02,C-1585,Yoga Leggings,Apparel,2,77.1,154.2,Ontario,Mobile App
+ORD-5416,2024-06-03,C-1600,Bluetooth Speaker,Electronics,4,173.81,695.24,Ontario,Website
+ORD-6435,2024-06-03,C-1833,Tennis Racket,Sports,1,46.59,46.59,Quebec,Mobile App
+ORD-6841,2024-06-03,C-1291,Dumbbell Set,Sports,2,178.71,357.42,Ontario,Mobile App
+ORD-5907,2024-06-05,C-1767,Running Shoes,Apparel,5,35.18,175.9,Ontario,Website
+ORD-6284,2024-06-05,C-1116,Tennis Racket,Sports,4,223.41,893.64,Quebec,Mobile App
+ORD-6668,2024-06-05,C-1642,Perfume,Beauty,1,30.71,30.71,Ontario,Website
+ORD-5930,2024-06-06,C-1773,Winter Parka,Apparel,1,89.97,89.97,Quebec,Website
+ORD-6760,2024-06-06,C-1603,Face Mask Set,Beauty,4,55.62,222.48,Ontario,Website
+ORD-5115,2024-06-07,C-1724,Dumbbell Set,Sports,1,149.54,149.54,Ontario,In-Store Pickup
+ORD-5136,2024-06-07,C-1560,Cotton T-Shirt,Apparel,1,77.24,77.24,Ontario,Mobile App
+ORD-5024,2024-06-08,C-1214,Cotton T-Shirt,Apparel,1,111.3,111.3,British Columbia,In-Store Pickup
+ORD-5833,2024-06-08,C-1755,Laptop Stand,Electronics,1,486.25,486.25,Manitoba,Website
+ORD-5911,2024-06-08,C-1794,Laptop Stand,Electronics,2,260.49,520.98,Ontario,Website
+ORD-6004,2024-06-08,C-1706,Hair Dryer,Beauty,1,21.18,21.18,British Columbia,Website
+ORD-6186,2024-06-08,C-1545,Dumbbell Set,Sports,1,172.14,172.14,British Columbia,Mobile App
+ORD-6687,2024-06-08,C-1294,Tennis Racket,Sports,1,70.83,70.83,Ontario,Website
+ORD-6962,2024-06-08,C-1271,Table Lamp,Home & Kitchen,1,56.33,56.33,Alberta,Website
+ORD-6402,2024-06-09,C-1583,Hair Dryer,Beauty,1,52.75,52.75,Ontario,In-Store Pickup
+ORD-5186,2024-06-10,C-1253,Winter Parka,Apparel,4,21.29,85.16,British Columbia,In-Store Pickup
+ORD-5667,2024-06-10,C-1639,Bluetooth Speaker,Electronics,4,386.12,1544.48,Manitoba,Website
+ORD-6087,2024-06-10,C-1966,Robot Vacuum,Home & Kitchen,2,59.79,119.58,Ontario,Mobile App
+ORD-6301,2024-06-10,C-1236,USB-C Charger,Electronics,3,85.7,257.1,Ontario,Website
+ORD-6447,2024-06-10,C-1531,Face Mask Set,Beauty,4,23.77,95.08,Ontario,Mobile App
+ORD-6677,2024-06-10,C-1838,Robot Vacuum,Home & Kitchen,4,60.66,242.64,British Columbia,Website
+ORD-5918,2024-06-11,C-1344,Tennis Racket,Sports,4,40.91,163.64,Ontario,Mobile App
+ORD-5933,2024-06-11,C-1462,Cotton T-Shirt,Apparel,1,51.31,51.31,Alberta,Website
+ORD-6636,2024-06-11,C-1075,Running Shoes,Apparel,2,110.34,220.68,Ontario,Mobile App
+ORD-5677,2024-06-13,C-1675,Table Lamp,Home & Kitchen,1,95.34,95.34,Ontario,Website
+ORD-6669,2024-06-13,C-1392,Resistance Bands,Sports,2,133.16,266.32,British Columbia,Mobile App
+ORD-5714,2024-06-14,C-1312,Resistance Bands,Sports,1,174.18,174.18,Quebec,Mobile App
+ORD-5811,2024-06-14,C-1737,USB-C Charger,Electronics,2,307.95,615.9,Ontario,In-Store Pickup
+ORD-5972,2024-06-14,C-1952,Cookware Set,Home & Kitchen,2,167.94,335.88,Quebec,Website
+ORD-6014,2024-06-14,C-1436,Face Mask Set,Beauty,1,34.96,34.96,Ontario,In-Store Pickup
+ORD-6355,2024-06-14,C-1052,Wireless Headphones,Electronics,1,337.85,337.85,Ontario,Mobile App
+ORD-6490,2024-06-14,C-1750,Bicycle Helmet,Sports,1,120.12,120.12,Ontario,In-Store Pickup
+ORD-5425,2024-06-15,C-1751,Laptop Stand,Electronics,2,189.82,379.64,Ontario,Mobile App
+ORD-6273,2024-06-15,C-1264,Wireless Headphones,Electronics,3,363.28,1089.84,Ontario,Mobile App
+ORD-6641,2024-06-15,C-1645,Bicycle Helmet,Sports,1,108.41,108.41,Ontario,Website
+ORD-6773,2024-06-15,C-1684,Smart Watch,Electronics,1,444.61,444.61,Ontario,Mobile App
+ORD-6786,2024-06-15,C-1854,Smart Watch,Electronics,1,140.04,140.04,Ontario,Website
+ORD-5149,2024-06-16,C-1794,Wireless Headphones,Electronics,1,461.36,461.36,Ontario,In-Store Pickup
+ORD-5208,2024-06-16,C-1591,Tennis Racket,Sports,1,162.25,162.25,Ontario,Website
+ORD-5314,2024-06-16,C-1554,Winter Parka,Apparel,1,52.62,52.62,British Columbia,Website
+ORD-5788,2024-06-16,C-1893,Yoga Mat,Sports,2,101.22,202.44,Alberta,In-Store Pickup
+ORD-5906,2024-06-16,C-1347,Running Shoes,Apparel,3,34.81,104.43,Alberta,Mobile App
+ORD-6173,2024-06-16,C-1789,Denim Jacket,Apparel,1,117.76,117.76,Alberta,Mobile App
+ORD-6422,2024-06-16,C-1421,Cotton T-Shirt,Apparel,5,23.62,118.1,Manitoba,Mobile App
+ORD-5834,2024-06-17,C-1382,Bluetooth Speaker,Electronics,1,462.85,462.85,Manitoba,Website
+ORD-6648,2024-06-17,C-1586,Laptop Stand,Electronics,5,472.58,2362.9,Alberta,Mobile App
+ORD-5799,2024-06-18,C-1042,Tennis Racket,Sports,1,95.77,95.77,Ontario,Website
+ORD-5971,2024-06-18,C-1915,Robot Vacuum,Home & Kitchen,1,115.16,115.16,British Columbia,Mobile App
+ORD-5987,2024-06-18,C-1227,Robot Vacuum,Home & Kitchen,1,136.73,136.73,British Columbia,In-Store Pickup
+ORD-6239,2024-06-18,C-1056,Bluetooth Speaker,Electronics,1,313.55,313.55,Alberta,Mobile App
+ORD-6419,2024-06-18,C-1404,Cookware Set,Home & Kitchen,2,115.4,230.8,Ontario,Website
+ORD-5125,2024-06-19,C-1067,Vitamin C Serum,Beauty,2,23.64,47.28,Ontario,Mobile App
+ORD-6215,2024-06-19,C-1195,Perfume,Beauty,5,26.08,130.4,British Columbia,Mobile App
+ORD-5097,2024-06-20,C-1269,Smart Watch,Electronics,3,96.69,290.07,Ontario,Mobile App
+ORD-5084,2024-06-21,C-1351,Laptop Stand,Electronics,4,291.55,1166.2,British Columbia,Mobile App
+ORD-5272,2024-06-21,C-1301,USB-C Charger,Electronics,2,357.44,714.88,Alberta,Mobile App
+ORD-5388,2024-06-21,C-1614,Yoga Leggings,Apparel,2,56.33,112.66,Quebec,Mobile App
+ORD-5844,2024-06-21,C-1775,Dining Set,Home & Kitchen,1,153.13,153.13,Ontario,Mobile App
+ORD-6055,2024-06-21,C-1414,Smart Watch,Electronics,1,560.48,560.48,Quebec,Website
+ORD-6895,2024-06-21,C-1465,Cotton T-Shirt,Apparel,3,71.61,214.83,Quebec,Website
+ORD-6654,2024-06-22,C-1812,Denim Jacket,Apparel,1,111.01,111.01,Ontario,Website
+ORD-6762,2024-06-22,C-1827,Dining Set,Home & Kitchen,1,68.18,68.18,Alberta,Mobile App
+ORD-6164,2024-06-23,C-1431,Denim Jacket,Apparel,2,117.32,234.64,Quebec,Website
+ORD-6330,2024-06-23,C-1457,Perfume,Beauty,3,10.36,31.08,Quebec,In-Store Pickup
+ORD-6610,2024-06-23,C-1307,Vitamin C Serum,Beauty,2,15.39,30.78,Ontario,Mobile App
+ORD-6983,2024-06-23,C-1744,Running Shoes,Apparel,1,64.6,64.6,Ontario,Website
+ORD-5087,2024-06-25,C-1580,Vitamin C Serum,Beauty,2,39.4,78.8,Alberta,Website
+ORD-5274,2024-06-25,C-1931,Bluetooth Speaker,Electronics,1,223.41,223.41,British Columbia,Website
+ORD-5333,2024-06-25,C-1997,Smart Watch,Electronics,2,114.36,228.72,Ontario,In-Store Pickup
+ORD-5408,2024-06-25,C-1924,USB-C Charger,Electronics,5,269.96,1349.8,Ontario,Mobile App
+ORD-5589,2024-06-25,C-1881,Bluetooth Speaker,Electronics,1,549.02,549.02,Ontario,Website
+ORD-6033,2024-06-25,C-1345,Table Lamp,Home & Kitchen,1,179.01,179.01,Ontario,Mobile App
+ORD-6400,2024-06-26,C-1698,Wireless Headphones,Electronics,3,436.33,1308.99,Ontario,In-Store Pickup
+ORD-6446,2024-06-26,C-1226,Air Fryer,Home & Kitchen,4,99.16,396.64,British Columbia,Website
+ORD-5623,2024-06-27,C-1924,Resistance Bands,Sports,2,227.84,455.68,Alberta,Website
+ORD-6345,2024-06-27,C-1685,Smart Watch,Electronics,1,410.68,410.68,Ontario,In-Store Pickup
+ORD-5719,2024-06-28,C-1530,Denim Jacket,Apparel,1,28.61,28.61,Quebec,Website
+ORD-5894,2024-06-28,C-1415,Cotton T-Shirt,Apparel,3,34.51,103.53,Alberta,In-Store Pickup
+ORD-6137,2024-06-28,C-1570,Yoga Leggings,Apparel,1,45.41,45.41,Ontario,Mobile App
+ORD-6612,2024-06-28,C-1709,Laptop Stand,Electronics,2,520.91,1041.82,Ontario,Website
+ORD-6875,2024-06-28,C-1817,Air Fryer,Home & Kitchen,2,61.15,122.3,Ontario,Mobile App
+ORD-5374,2024-06-29,C-1551,Cotton T-Shirt,Apparel,1,31.07,31.07,Ontario,Website
+ORD-5892,2024-06-29,C-1524,Smart Watch,Electronics,3,168.3,504.9,Ontario,In-Store Pickup
+ORD-6889,2024-06-29,C-1877,Running Shoes,Apparel,2,46.29,92.58,Ontario,Mobile App
+ORD-5534,2024-06-30,C-1098,Dumbbell Set,Sports,3,236.6,709.8,Manitoba,Mobile App
+ORD-6639,2024-06-30,C-1937,Laptop Stand,Electronics,3,494.95,1484.85,Ontario,In-Store Pickup
+ORD-5204,2024-07-01,C-1759,Yoga Leggings,Apparel,1,106.41,106.41,Quebec,In-Store Pickup
+ORD-5386,2024-07-01,C-1597,Yoga Leggings,Apparel,2,98.4,196.8,Ontario,Mobile App
+ORD-5996,2024-07-01,C-1465,Robot Vacuum,Home & Kitchen,1,190.05,190.05,Ontario,In-Store Pickup
+ORD-5453,2024-07-02,C-1217,Winter Parka,Apparel,1,113.31,113.31,Alberta,Website
+ORD-6567,2024-07-02,C-1641,Laptop Stand,Electronics,5,281.96,1409.8,Ontario,Website
+ORD-5060,2024-07-03,C-1308,Vitamin C Serum,Beauty,2,20.13,40.26,Quebec,Mobile App
+ORD-5066,2024-07-03,C-1273,Cotton T-Shirt,Apparel,2,95.15,190.3,Ontario,Mobile App
+ORD-5138,2024-07-03,C-1315,Dining Set,Home & Kitchen,5,115.96,579.8,British Columbia,Website
+ORD-6335,2024-07-03,C-1576,Winter Parka,Apparel,1,109.57,109.57,Quebec,Website
+ORD-6542,2024-07-03,C-1731,Winter Parka,Apparel,5,28.41,142.05,British Columbia,Mobile App
+ORD-6739,2024-07-03,C-1011,Cotton T-Shirt,Apparel,1,59.71,59.71,Quebec,In-Store Pickup
+ORD-6752,2024-07-03,C-1172,Yoga Leggings,Apparel,1,44.56,44.56,Alberta,Website
+ORD-5112,2024-07-04,C-1649,Dining Set,Home & Kitchen,1,169.65,169.65,Manitoba,Mobile App
+ORD-5336,2024-07-04,C-1074,Denim Jacket,Apparel,1,57.86,57.86,Ontario,In-Store Pickup
+ORD-5695,2024-07-04,C-1406,Hair Dryer,Beauty,1,17.88,17.88,Alberta,Mobile App
+ORD-6074,2024-07-04,C-1196,Cookware Set,Home & Kitchen,2,104.94,209.88,Ontario,Mobile App
+ORD-6756,2024-07-04,C-1257,Wireless Headphones,Electronics,1,313.4,313.4,Quebec,Website
+ORD-6939,2024-07-04,C-1668,Bluetooth Speaker,Electronics,2,554.08,1108.16,Ontario,Mobile App
+ORD-6970,2024-07-04,C-1542,Running Shoes,Apparel,3,26.74,80.22,Ontario,Mobile App
+ORD-5991,2024-07-05,C-1105,Wireless Headphones,Electronics,3,307.1,921.3,Ontario,Mobile App
+ORD-6344,2024-07-05,C-1227,Vitamin C Serum,Beauty,2,22.03,44.06,Alberta,Mobile App
+ORD-6509,2024-07-05,C-1516,USB-C Charger,Electronics,1,175.22,175.22,Alberta,Website
+ORD-6781,2024-07-05,C-1750,USB-C Charger,Electronics,2,598.97,1197.94,British Columbia,Website
+ORD-5251,2024-07-07,C-1749,Moisturizer,Beauty,2,19.27,38.54,Quebec,Website
+ORD-5353,2024-07-07,C-1739,Resistance Bands,Sports,1,56.99,56.99,Manitoba,Mobile App
+ORD-6494,2024-07-07,C-1522,Bluetooth Speaker,Electronics,3,353.87,1061.61,British Columbia,Website
+ORD-6789,2024-07-07,C-1629,Cookware Set,Home & Kitchen,1,167.5,167.5,Ontario,Website
+ORD-5237,2024-07-08,C-1394,Air Fryer,Home & Kitchen,1,88.89,88.89,Ontario,Website
+ORD-5399,2024-07-08,C-1125,Cookware Set,Home & Kitchen,1,150.19,150.19,Manitoba,In-Store Pickup
+ORD-6276,2024-07-08,C-1740,Robot Vacuum,Home & Kitchen,1,154.31,154.31,British Columbia,Mobile App
+ORD-5240,2024-07-09,C-1866,Table Lamp,Home & Kitchen,1,169.07,169.07,Ontario,Website
+ORD-5470,2024-07-09,C-1601,Bluetooth Speaker,Electronics,3,558.75,1676.25,British Columbia,Mobile App
+ORD-6622,2024-07-09,C-1189,Winter Parka,Apparel,3,29.82,89.46,British Columbia,Website
+ORD-6960,2024-07-09,C-1216,Denim Jacket,Apparel,1,24.97,24.97,Ontario,Website
+ORD-5090,2024-07-10,C-1753,Robot Vacuum,Home & Kitchen,1,181.98,181.98,British Columbia,Website
+ORD-5326,2024-07-10,C-1585,Resistance Bands,Sports,4,83.48,333.92,Ontario,Mobile App
+ORD-6695,2024-07-10,C-1813,Wireless Headphones,Electronics,1,269.64,269.64,Ontario,Mobile App
+ORD-5014,2024-07-11,C-1765,Perfume,Beauty,2,53.09,106.18,Quebec,Website
+ORD-5630,2024-07-11,C-1922,Face Mask Set,Beauty,4,38.85,155.4,Quebec,Website
+ORD-5873,2024-07-11,C-1764,USB-C Charger,Electronics,1,467.33,467.33,Ontario,Mobile App
+ORD-6225,2024-07-11,C-1932,Cookware Set,Home & Kitchen,1,28.17,28.17,Quebec,Website
+ORD-6433,2024-07-11,C-1829,Wireless Headphones,Electronics,1,455.05,455.05,Quebec,Website
+ORD-6732,2024-07-11,C-1224,Bluetooth Speaker,Electronics,1,598.12,598.12,Alberta,In-Store Pickup
+ORD-5143,2024-07-12,C-1959,Yoga Leggings,Apparel,1,89.67,89.67,Ontario,Website
+ORD-5612,2024-07-12,C-1892,Hair Dryer,Beauty,1,10.61,10.61,Ontario,Website
+ORD-5709,2024-07-12,C-1676,Cookware Set,Home & Kitchen,1,104.59,104.59,British Columbia,In-Store Pickup
+ORD-5863,2024-07-12,C-1466,Hair Dryer,Beauty,3,17.61,52.83,British Columbia,Website
+ORD-5299,2024-07-13,C-1644,USB-C Charger,Electronics,2,199.62,399.24,Ontario,Website
+ORD-5475,2024-07-13,C-1039,Tennis Racket,Sports,2,118.11,236.22,Ontario,Mobile App
+ORD-5489,2024-07-13,C-1747,Bicycle Helmet,Sports,2,92.34,184.68,Alberta,In-Store Pickup
+ORD-5493,2024-07-13,C-1604,Yoga Mat,Sports,1,110.25,110.25,Ontario,Mobile App
+ORD-5808,2024-07-13,C-1778,Laptop Stand,Electronics,1,458.14,458.14,Ontario,Mobile App
+ORD-6140,2024-07-13,C-1805,Face Mask Set,Beauty,5,45.99,229.95,British Columbia,In-Store Pickup
+ORD-6666,2024-07-13,C-1995,Moisturizer,Beauty,1,27.12,27.12,Ontario,Mobile App
+ORD-5423,2024-07-14,C-1468,Face Mask Set,Beauty,3,44.64,133.92,Ontario,In-Store Pickup
+ORD-5568,2024-07-14,C-1301,Running Shoes,Apparel,1,77.41,77.41,Alberta,In-Store Pickup
+ORD-5609,2024-07-14,C-1232,Denim Jacket,Apparel,1,97.75,97.75,Ontario,Website
+ORD-6926,2024-07-14,C-1738,Smart Watch,Electronics,1,118.83,118.83,British Columbia,Website
+ORD-5102,2024-07-15,C-1697,Wireless Headphones,Electronics,1,215.33,215.33,Ontario,Website
+ORD-5169,2024-07-15,C-1298,Denim Jacket,Apparel,1,116.41,116.41,Quebec,Mobile App
+ORD-5829,2024-07-15,C-1940,Running Shoes,Apparel,1,27.04,27.04,Quebec,Mobile App
+ORD-5846,2024-07-15,C-1912,Dumbbell Set,Sports,1,148.21,148.21,Ontario,Mobile App
+ORD-5900,2024-07-15,C-1593,Winter Parka,Apparel,5,27.08,135.4,Manitoba,Website
+ORD-5923,2024-07-15,C-1161,Winter Parka,Apparel,1,64.16,64.16,Ontario,In-Store Pickup
+ORD-5446,2024-07-16,C-1615,Winter Parka,Apparel,1,68.19,68.19,Alberta,Website
+ORD-5902,2024-07-16,C-1272,Moisturizer,Beauty,1,33.57,33.57,Alberta,Mobile App
+ORD-6050,2024-07-16,C-1718,Running Shoes,Apparel,4,56.31,225.24,Quebec,Website
+ORD-6729,2024-07-16,C-1433,Perfume,Beauty,1,51.74,51.74,Ontario,Mobile App
+ORD-6924,2024-07-16,C-1728,Perfume,Beauty,1,48.48,48.48,Quebec,Mobile App
+ORD-5964,2024-07-18,C-1244,Running Shoes,Apparel,2,59.45,118.9,Ontario,Website
+ORD-5230,2024-07-19,C-1383,Winter Parka,Apparel,1,67.95,67.95,Quebec,Mobile App
+ORD-6479,2024-07-19,C-1635,Hair Dryer,Beauty,2,49.11,98.22,Alberta,Website
+ORD-6692,2024-07-19,C-1116,Laptop Stand,Electronics,2,216.29,432.58,Quebec,Website
+ORD-6979,2024-07-19,C-1604,Wireless Headphones,Electronics,1,504.94,504.94,Quebec,In-Store Pickup
+ORD-5483,2024-07-20,C-1125,Table Lamp,Home & Kitchen,1,125.84,125.84,Alberta,Mobile App
+ORD-5646,2024-07-21,C-1376,USB-C Charger,Electronics,1,455.72,455.72,Ontario,Mobile App
+ORD-6165,2024-07-21,C-1063,Hair Dryer,Beauty,1,55.43,55.43,Ontario,Mobile App
+ORD-6201,2024-07-21,C-1779,Bluetooth Speaker,Electronics,1,360.25,360.25,Alberta,Mobile App
+ORD-6670,2024-07-21,C-1216,Bluetooth Speaker,Electronics,2,584.31,1168.62,Manitoba,Website
+ORD-6905,2024-07-21,C-1644,Wireless Headphones,Electronics,1,196.39,196.39,Ontario,Mobile App
+ORD-6134,2024-07-22,C-1533,Robot Vacuum,Home & Kitchen,1,193.39,193.39,Quebec,Mobile App
+ORD-6291,2024-07-22,C-1909,Wireless Headphones,Electronics,1,88.53,88.53,British Columbia,Website
+ORD-6303,2024-07-22,C-1293,Running Shoes,Apparel,1,115.98,115.98,Quebec,Mobile App
+ORD-6368,2024-07-22,C-1021,Yoga Mat,Sports,1,80.33,80.33,Quebec,Website
+ORD-5608,2024-07-23,C-1630,Running Shoes,Apparel,1,97.61,97.61,Alberta,In-Store Pickup
+ORD-5859,2024-07-23,C-1346,Bicycle Helmet,Sports,1,96.67,96.67,Ontario,Mobile App
+ORD-5181,2024-07-24,C-1239,Moisturizer,Beauty,1,25.48,25.48,Alberta,Website
+ORD-5552,2024-07-24,C-1051,Bluetooth Speaker,Electronics,3,85.09,255.27,Manitoba,Mobile App
+ORD-6062,2024-07-24,C-1908,Smart Watch,Electronics,1,528.35,528.35,Ontario,Mobile App
+ORD-6458,2024-07-24,C-1551,Yoga Mat,Sports,1,214.14,214.14,Quebec,Mobile App
+ORD-6855,2024-07-24,C-1500,Dumbbell Set,Sports,2,221.19,442.38,Ontario,Mobile App
+ORD-6975,2024-07-24,C-1434,Cookware Set,Home & Kitchen,1,111.6,111.6,Quebec,Mobile App
+ORD-6469,2024-07-25,C-1499,Yoga Leggings,Apparel,3,49.86,149.58,Quebec,Mobile App
+ORD-6571,2024-07-25,C-1408,Wireless Headphones,Electronics,1,548.09,548.09,Ontario,Mobile App
+ORD-6680,2024-07-25,C-1904,Running Shoes,Apparel,1,100.91,100.91,Ontario,Website
+ORD-6902,2024-07-25,C-1661,Running Shoes,Apparel,2,81.34,162.68,British Columbia,Website
+ORD-5214,2024-07-26,C-1206,Smart Watch,Electronics,1,206.69,206.69,Quebec,Website
+ORD-6777,2024-07-26,C-1764,Table Lamp,Home & Kitchen,1,158.24,158.24,Ontario,Website
+ORD-6836,2024-07-26,C-1384,Cotton T-Shirt,Apparel,3,81.41,244.23,Quebec,In-Store Pickup
+ORD-5657,2024-07-27,C-1508,Bluetooth Speaker,Electronics,1,513.97,513.97,Manitoba,In-Store Pickup
+ORD-6012,2024-07-27,C-1786,Running Shoes,Apparel,1,70.36,70.36,Quebec,Website
+ORD-6558,2024-07-27,C-1333,Air Fryer,Home & Kitchen,3,85.78,257.34,Manitoba,Mobile App
+ORD-6035,2024-07-28,C-1156,Robot Vacuum,Home & Kitchen,1,124.65,124.65,Ontario,Website
+ORD-6598,2024-07-28,C-1126,Yoga Leggings,Apparel,1,103.26,103.26,Ontario,Website
+ORD-6683,2024-07-28,C-1592,Cotton T-Shirt,Apparel,1,119.32,119.32,British Columbia,Website
+ORD-6803,2024-07-28,C-1547,Face Mask Set,Beauty,1,47.72,47.72,Ontario,Mobile App
+ORD-5445,2024-07-29,C-1389,Bluetooth Speaker,Electronics,1,474.79,474.79,Alberta,Mobile App
+ORD-5870,2024-07-29,C-1162,Moisturizer,Beauty,1,29.31,29.31,Ontario,Mobile App
+ORD-6223,2024-07-29,C-1070,Wireless Headphones,Electronics,1,528.74,528.74,Ontario,Website
+ORD-6252,2024-07-29,C-1379,Bluetooth Speaker,Electronics,3,444.26,1332.78,Ontario,Website
+ORD-5001,2024-07-30,C-1573,Wireless Headphones,Electronics,2,158.39,316.78,Quebec,Website
+ORD-5081,2024-07-30,C-1490,Cotton T-Shirt,Apparel,1,62.78,62.78,Manitoba,Website
+ORD-5205,2024-07-31,C-1493,USB-C Charger,Electronics,1,400.21,400.21,British Columbia,Website
+ORD-5434,2024-07-31,C-1240,Smart Watch,Electronics,1,86.15,86.15,Manitoba,Mobile App
+ORD-5482,2024-07-31,C-1746,Air Fryer,Home & Kitchen,2,39.22,78.44,Ontario,Website
+ORD-6596,2024-07-31,C-1318,Wireless Headphones,Electronics,1,513.05,513.05,British Columbia,Website
+ORD-6953,2024-07-31,C-1057,Air Fryer,Home & Kitchen,1,78.47,78.47,British Columbia,Website
+ORD-5448,2024-08-01,C-1845,Perfume,Beauty,3,49.6,148.8,Ontario,Mobile App
+ORD-6664,2024-08-01,C-1946,Wireless Headphones,Electronics,2,498.8,997.6,Alberta,Mobile App
+ORD-6372,2024-08-02,C-1472,Dumbbell Set,Sports,1,65.33,65.33,Quebec,Website
+ORD-6428,2024-08-03,C-1159,Laptop Stand,Electronics,3,447.3,1341.9,British Columbia,In-Store Pickup
+ORD-5393,2024-08-04,C-1796,Smart Watch,Electronics,2,403.41,806.82,Manitoba,Mobile App
+ORD-5428,2024-08-04,C-1350,Tennis Racket,Sports,4,133.18,532.72,Manitoba,Mobile App
+ORD-5304,2024-08-05,C-1702,Yoga Leggings,Apparel,1,116.75,116.75,Ontario,Mobile App
+ORD-6492,2024-08-05,C-1979,Wireless Headphones,Electronics,3,494.75,1484.25,British Columbia,Website
+ORD-5157,2024-08-07,C-1250,Air Fryer,Home & Kitchen,1,125.27,125.27,Ontario,Website
+ORD-5514,2024-08-07,C-1679,Robot Vacuum,Home & Kitchen,1,120.39,120.39,Alberta,Mobile App
+ORD-5981,2024-08-07,C-1828,Moisturizer,Beauty,1,28.99,28.99,Ontario,Website
+ORD-6573,2024-08-07,C-1683,Yoga Mat,Sports,1,187.95,187.95,Quebec,Mobile App
+ORD-5809,2024-08-08,C-1971,Winter Parka,Apparel,1,117.38,117.38,British Columbia,Mobile App
+ORD-5887,2024-08-08,C-1868,USB-C Charger,Electronics,4,134.2,536.8,Manitoba,Mobile App
+ORD-6019,2024-08-08,C-1049,Cotton T-Shirt,Apparel,3,108.67,326.01,Ontario,Mobile App
+ORD-6701,2024-08-08,C-1456,Bluetooth Speaker,Electronics,1,196.92,196.92,British Columbia,Website
+ORD-5803,2024-08-09,C-1612,USB-C Charger,Electronics,1,398.08,398.08,Ontario,Website
+ORD-6797,2024-08-09,C-1354,Wireless Headphones,Electronics,5,112.82,564.1,Ontario,In-Store Pickup
+ORD-6863,2024-08-09,C-1982,Yoga Mat,Sports,1,164.09,164.09,Quebec,Website
+ORD-5421,2024-08-10,C-1088,Cookware Set,Home & Kitchen,1,125.0,125.0,Ontario,Mobile App
+ORD-5793,2024-08-10,C-1833,Winter Parka,Apparel,2,111.11,222.22,Quebec,Mobile App
+ORD-5225,2024-08-11,C-1008,Bicycle Helmet,Sports,1,172.85,172.85,Ontario,In-Store Pickup
+ORD-5771,2024-08-11,C-1393,Denim Jacket,Apparel,1,100.02,100.02,Ontario,Website
+ORD-5947,2024-08-11,C-1881,Bluetooth Speaker,Electronics,3,320.72,962.16,Alberta,Website
+ORD-5731,2024-08-12,C-1833,Dining Set,Home & Kitchen,1,133.64,133.64,Quebec,Website
+ORD-6018,2024-08-12,C-1760,Bluetooth Speaker,Electronics,1,298.44,298.44,Ontario,In-Store Pickup
+ORD-6153,2024-08-12,C-1350,Yoga Leggings,Apparel,3,28.67,86.01,Quebec,Website
+ORD-6864,2024-08-12,C-1408,Perfume,Beauty,1,10.76,10.76,British Columbia,Website
+ORD-6919,2024-08-12,C-1542,Smart Watch,Electronics,1,175.13,175.13,British Columbia,Mobile App
+ORD-5144,2024-08-13,C-1036,Smart Watch,Electronics,1,239.14,239.14,Manitoba,Website
+ORD-5477,2024-08-13,C-1648,Face Mask Set,Beauty,1,57.84,57.84,Quebec,Website
+ORD-6736,2024-08-13,C-1128,Moisturizer,Beauty,1,25.35,25.35,Alberta,Mobile App
+ORD-6758,2024-08-13,C-1334,Yoga Leggings,Apparel,3,60.35,181.05,Ontario,In-Store Pickup
+ORD-5284,2024-08-14,C-1589,Bicycle Helmet,Sports,1,75.2,75.2,Ontario,Website
+ORD-6910,2024-08-14,C-1607,Wireless Headphones,Electronics,1,412.61,412.61,Quebec,Mobile App
+ORD-5061,2024-08-15,C-1691,Cotton T-Shirt,Apparel,2,96.66,193.32,Ontario,Mobile App
+ORD-5784,2024-08-15,C-1575,Resistance Bands,Sports,2,230.31,460.62,Ontario,In-Store Pickup
+ORD-6022,2024-08-15,C-1474,Air Fryer,Home & Kitchen,4,144.4,577.6,Ontario,In-Store Pickup
+ORD-6059,2024-08-15,C-1478,Denim Jacket,Apparel,3,106.14,318.42,British Columbia,Website
+ORD-6643,2024-08-15,C-1132,Resistance Bands,Sports,3,156.52,469.56,Alberta,Mobile App
+ORD-6405,2024-08-16,C-1118,USB-C Charger,Electronics,1,111.33,111.33,British Columbia,Mobile App
+ORD-6819,2024-08-16,C-1531,Face Mask Set,Beauty,1,18.08,18.08,British Columbia,Website
+ORD-5351,2024-08-17,C-1342,Wireless Headphones,Electronics,1,484.47,484.47,Quebec,In-Store Pickup
+ORD-5766,2024-08-17,C-1409,USB-C Charger,Electronics,5,203.94,1019.7,Alberta,Website
+ORD-6881,2024-08-17,C-1868,Robot Vacuum,Home & Kitchen,1,46.61,46.61,Alberta,Mobile App
+ORD-5759,2024-08-18,C-1072,Cotton T-Shirt,Apparel,5,64.29,321.45,Alberta,Mobile App
+ORD-5848,2024-08-18,C-1945,Yoga Leggings,Apparel,4,65.42,261.68,Alberta,Website
+ORD-5079,2024-08-19,C-1968,USB-C Charger,Electronics,4,95.6,382.4,Ontario,Website
+ORD-5083,2024-08-19,C-1629,Tennis Racket,Sports,1,240.61,240.61,British Columbia,Website
+ORD-5201,2024-08-19,C-1417,Denim Jacket,Apparel,2,59.45,118.9,Ontario,Mobile App
+ORD-5404,2024-08-19,C-1256,Resistance Bands,Sports,1,60.98,60.98,Alberta,Mobile App
+ORD-5614,2024-08-19,C-1825,Dining Set,Home & Kitchen,1,169.35,169.35,Ontario,Mobile App
+ORD-5899,2024-08-19,C-1895,USB-C Charger,Electronics,1,210.76,210.76,Manitoba,Website
+ORD-6132,2024-08-19,C-1731,Laptop Stand,Electronics,2,280.27,560.54,Manitoba,Website
+ORD-6149,2024-08-19,C-1812,USB-C Charger,Electronics,1,408.56,408.56,British Columbia,Mobile App
+ORD-5120,2024-08-20,C-1755,Air Fryer,Home & Kitchen,1,27.39,27.39,British Columbia,Mobile App
+ORD-6326,2024-08-20,C-1720,Wireless Headphones,Electronics,1,202.25,202.25,Quebec,In-Store Pickup
+ORD-5523,2024-08-21,C-1269,Laptop Stand,Electronics,1,294.83,294.83,British Columbia,Mobile App
+ORD-6456,2024-08-21,C-1763,Yoga Leggings,Apparel,1,42.72,42.72,Ontario,Mobile App
+ORD-6077,2024-08-22,C-1303,USB-C Charger,Electronics,1,394.19,394.19,Alberta,Mobile App
+ORD-6795,2024-08-22,C-1213,Dining Set,Home & Kitchen,4,57.54,230.16,Quebec,Mobile App
+ORD-5702,2024-08-23,C-1896,Winter Parka,Apparel,4,108.09,432.36,British Columbia,Mobile App
+ORD-5308,2024-08-24,C-1657,Resistance Bands,Sports,1,185.77,185.77,Manitoba,Mobile App
+ORD-6845,2024-08-24,C-1636,Laptop Stand,Electronics,5,320.09,1600.45,Ontario,Mobile App
+ORD-5113,2024-08-25,C-1243,Perfume,Beauty,2,21.51,43.02,Manitoba,Mobile App
+ORD-5256,2024-08-25,C-1031,Laptop Stand,Electronics,1,350.71,350.71,Manitoba,In-Store Pickup
+ORD-5958,2024-08-25,C-1980,Vitamin C Serum,Beauty,1,37.58,37.58,Ontario,Website
+ORD-6358,2024-08-25,C-1134,Laptop Stand,Electronics,2,516.86,1033.72,British Columbia,Mobile App
+ORD-6693,2024-08-25,C-1405,Dining Set,Home & Kitchen,1,99.91,99.91,Ontario,Website
+ORD-5172,2024-08-26,C-1725,Cookware Set,Home & Kitchen,1,183.72,183.72,Quebec,Mobile App
+ORD-5724,2024-08-27,C-1969,USB-C Charger,Electronics,1,424.81,424.81,Ontario,Website
+ORD-5869,2024-08-27,C-1848,Bluetooth Speaker,Electronics,1,524.57,524.57,Ontario,Website
+ORD-5485,2024-08-28,C-1603,Yoga Mat,Sports,1,176.86,176.86,Ontario,Website
+ORD-5003,2024-08-29,C-1738,Smart Watch,Electronics,1,100.83,100.83,Manitoba,Website
+ORD-5736,2024-08-29,C-1672,Denim Jacket,Apparel,1,68.67,68.67,Ontario,Website
+ORD-5741,2024-08-29,C-1728,Running Shoes,Apparel,1,62.47,62.47,Quebec,Website
+ORD-6315,2024-08-29,C-1049,USB-C Charger,Electronics,1,360.24,360.24,Quebec,Website
+ORD-5506,2024-08-30,C-1546,Cookware Set,Home & Kitchen,1,29.29,29.29,Ontario,Website
+ORD-6946,2024-08-30,C-1262,Laptop Stand,Electronics,3,446.13,1338.39,Ontario,Website
+ORD-5970,2024-09-01,C-1423,Cotton T-Shirt,Apparel,1,30.94,30.94,Ontario,Website
+ORD-6627,2024-09-01,C-1628,Perfume,Beauty,1,21.12,21.12,Quebec,Website
+ORD-6761,2024-09-01,C-1675,Hair Dryer,Beauty,1,46.9,46.9,Ontario,Website
+ORD-6935,2024-09-01,C-1354,Dining Set,Home & Kitchen,1,169.26,169.26,Alberta,Mobile App
+ORD-5218,2024-09-02,C-1973,Cookware Set,Home & Kitchen,1,138.49,138.49,Ontario,Website
+ORD-6181,2024-09-02,C-1464,Perfume,Beauty,1,18.03,18.03,British Columbia,Mobile App
+ORD-6635,2024-09-02,C-1918,Bluetooth Speaker,Electronics,5,524.87,2624.35,Quebec,Website
+ORD-6713,2024-09-02,C-1173,USB-C Charger,Electronics,1,435.45,435.45,Ontario,Website
+ORD-6849,2024-09-02,C-1270,USB-C Charger,Electronics,1,391.71,391.71,British Columbia,Website
+ORD-6021,2024-09-03,C-1028,Yoga Leggings,Apparel,3,46.2,138.6,Quebec,In-Store Pickup
+ORD-6338,2024-09-03,C-1668,Wireless Headphones,Electronics,1,382.81,382.81,Ontario,Mobile App
+ORD-6416,2024-09-03,C-1364,Resistance Bands,Sports,1,192.67,192.67,Ontario,Mobile App
+ORD-6717,2024-09-03,C-1939,Running Shoes,Apparel,5,89.39,446.95,Alberta,Website
+ORD-5639,2024-09-04,C-1109,Denim Jacket,Apparel,2,96.87,193.74,Ontario,Website
+ORD-5687,2024-09-04,C-1665,Hair Dryer,Beauty,2,45.31,90.62,Ontario,In-Store Pickup
+ORD-5910,2024-09-04,C-1315,Dining Set,Home & Kitchen,2,45.84,91.68,British Columbia,Mobile App
+ORD-6089,2024-09-04,C-1286,Laptop Stand,Electronics,1,580.22,580.22,British Columbia,Mobile App
+ORD-6337,2024-09-04,C-1234,Wireless Headphones,Electronics,1,185.01,185.01,Quebec,In-Store Pickup
+ORD-5046,2024-09-05,C-1612,Vitamin C Serum,Beauty,2,34.98,69.96,British Columbia,Website
+ORD-5262,2024-09-05,C-1203,Tennis Racket,Sports,5,63.02,315.1,Quebec,In-Store Pickup
+ORD-6867,2024-09-05,C-1295,Hair Dryer,Beauty,2,41.28,82.56,Quebec,Mobile App
+ORD-6868,2024-09-05,C-1226,Yoga Leggings,Apparel,1,74.59,74.59,British Columbia,Website
+ORD-5058,2024-09-06,C-1157,Smart Watch,Electronics,2,479.3,958.6,Quebec,Website
+ORD-5203,2024-09-06,C-1323,Yoga Leggings,Apparel,1,33.19,33.19,Manitoba,Website
+ORD-5260,2024-09-06,C-1290,Resistance Bands,Sports,4,117.61,470.44,British Columbia,Website
+ORD-6080,2024-09-06,C-1399,Perfume,Beauty,1,22.79,22.79,Quebec,Mobile App
+ORD-6096,2024-09-06,C-1122,Dumbbell Set,Sports,1,213.58,213.58,Alberta,Website
+ORD-6541,2024-09-06,C-1667,Yoga Leggings,Apparel,1,95.2,95.2,Alberta,Website
+ORD-5355,2024-09-07,C-1628,Yoga Leggings,Apparel,3,35.61,106.83,Ontario,Mobile App
+ORD-5457,2024-09-07,C-1596,Wireless Headphones,Electronics,4,160.72,642.88,Ontario,Website
+ORD-6576,2024-09-07,C-1857,Table Lamp,Home & Kitchen,1,155.4,155.4,Alberta,Website
+ORD-6815,2024-09-07,C-1867,Resistance Bands,Sports,1,224.86,224.86,Ontario,Mobile App
+ORD-6015,2024-09-08,C-1432,Yoga Leggings,Apparel,1,80.82,80.82,British Columbia,Website
+ORD-6404,2024-09-08,C-1387,Smart Watch,Electronics,1,85.52,85.52,Ontario,Website
+ORD-6057,2024-09-09,C-1017,Resistance Bands,Sports,1,103.9,103.9,Ontario,Mobile App
+ORD-6359,2024-09-09,C-1781,Wireless Headphones,Electronics,1,336.58,336.58,British Columbia,Website
+ORD-6485,2024-09-09,C-1569,Bluetooth Speaker,Electronics,1,117.51,117.51,British Columbia,Website
+ORD-6772,2024-09-09,C-1733,USB-C Charger,Electronics,2,578.28,1156.56,Ontario,Website
+ORD-5419,2024-09-10,C-1748,Resistance Bands,Sports,1,148.5,148.5,Ontario,Mobile App
+ORD-5576,2024-09-10,C-1982,Denim Jacket,Apparel,1,114.16,114.16,British Columbia,Mobile App
+ORD-5879,2024-09-10,C-1123,Bluetooth Speaker,Electronics,1,280.52,280.52,Manitoba,Website
+ORD-6862,2024-09-10,C-1539,Bluetooth Speaker,Electronics,1,453.73,453.73,Ontario,Website
+ORD-6885,2024-09-10,C-1213,Denim Jacket,Apparel,1,69.03,69.03,Alberta,Mobile App
+ORD-5696,2024-09-11,C-1800,Cookware Set,Home & Kitchen,1,150.08,150.08,Manitoba,Mobile App
+ORD-6040,2024-09-11,C-1774,Denim Jacket,Apparel,1,92.56,92.56,Ontario,Mobile App
+ORD-5700,2024-09-13,C-1667,Resistance Bands,Sports,1,186.22,186.22,Ontario,Website
+ORD-6574,2024-09-13,C-1134,Denim Jacket,Apparel,1,53.5,53.5,Ontario,Mobile App
+ORD-5267,2024-09-14,C-1176,Resistance Bands,Sports,1,98.72,98.72,Ontario,Mobile App
+ORD-6628,2024-09-14,C-1409,Moisturizer,Beauty,2,44.51,89.02,British Columbia,Mobile App
+ORD-6690,2024-09-14,C-1814,Dining Set,Home & Kitchen,1,189.0,189.0,British Columbia,Website
+ORD-6992,2024-09-14,C-1780,Laptop Stand,Electronics,4,344.01,1376.04,Ontario,In-Store Pickup
+ORD-5339,2024-09-15,C-1919,Dining Set,Home & Kitchen,1,36.5,36.5,Ontario,Mobile App
+ORD-5447,2024-09-15,C-1597,Perfume,Beauty,1,37.06,37.06,Manitoba,Mobile App
+ORD-6351,2024-09-15,C-1797,Laptop Stand,Electronics,1,369.06,369.06,British Columbia,In-Store Pickup
+ORD-6357,2024-09-15,C-1743,Dumbbell Set,Sports,1,146.61,146.61,Ontario,Website
+ORD-6740,2024-09-15,C-1822,Wireless Headphones,Electronics,2,598.83,1197.66,British Columbia,Mobile App
+ORD-5025,2024-09-16,C-1297,Laptop Stand,Electronics,2,152.09,304.18,Quebec,Website
+ORD-5725,2024-09-16,C-1304,Dining Set,Home & Kitchen,1,139.45,139.45,British Columbia,In-Store Pickup
+ORD-5807,2024-09-16,C-1692,Wireless Headphones,Electronics,1,502.25,502.25,Ontario,Mobile App
+ORD-6183,2024-09-16,C-1700,Table Lamp,Home & Kitchen,1,62.69,62.69,British Columbia,Website
+ORD-5872,2024-09-17,C-1562,Denim Jacket,Apparel,1,57.12,57.12,Manitoba,Mobile App
+ORD-5429,2024-09-18,C-1259,Vitamin C Serum,Beauty,5,13.36,66.8,Quebec,Mobile App
+ORD-5516,2024-09-18,C-1061,USB-C Charger,Electronics,1,258.27,258.27,Quebec,Website
+ORD-6629,2024-09-18,C-1826,Moisturizer,Beauty,5,12.86,64.3,Ontario,Website
+ORD-5533,2024-09-19,C-1246,Dumbbell Set,Sports,4,101.98,407.92,Alberta,Website
+ORD-5673,2024-09-19,C-1605,Denim Jacket,Apparel,1,24.83,24.83,Quebec,Mobile App
+ORD-5857,2024-09-19,C-1893,Hair Dryer,Beauty,4,46.05,184.2,British Columbia,Mobile App
+ORD-5938,2024-09-19,C-1337,Winter Parka,Apparel,3,92.74,278.22,Ontario,Mobile App
+ORD-6144,2024-09-19,C-1131,Bicycle Helmet,Sports,1,85.01,85.01,British Columbia,Website
+ORD-5891,2024-09-20,C-1826,Tennis Racket,Sports,3,138.09,414.27,Ontario,Website
+ORD-6441,2024-09-20,C-1256,Robot Vacuum,Home & Kitchen,2,65.62,131.24,Ontario,Mobile App
+ORD-6475,2024-09-20,C-1881,Tennis Racket,Sports,1,203.27,203.27,Alberta,Mobile App
+ORD-6194,2024-09-21,C-1569,Bicycle Helmet,Sports,2,77.11,154.22,Ontario,Mobile App
+ORD-6365,2024-09-21,C-1716,Wireless Headphones,Electronics,4,551.83,2207.32,Ontario,In-Store Pickup
+ORD-6619,2024-09-21,C-1710,Yoga Leggings,Apparel,1,53.6,53.6,Manitoba,Mobile App
+ORD-5644,2024-09-22,C-1655,Tennis Racket,Sports,1,169.45,169.45,Ontario,Mobile App
+ORD-5592,2024-09-23,C-1522,Cookware Set,Home & Kitchen,1,112.43,112.43,Alberta,Website
+ORD-6575,2024-09-23,C-1152,Running Shoes,Apparel,5,104.65,523.25,Quebec,Website
+ORD-6460,2024-09-24,C-1363,Laptop Stand,Electronics,1,103.7,103.7,Quebec,Mobile App
+ORD-5359,2024-09-25,C-1823,Tennis Racket,Sports,1,226.62,226.62,Quebec,Mobile App
+ORD-5963,2024-09-25,C-1075,Air Fryer,Home & Kitchen,1,32.07,32.07,Ontario,Website
+ORD-6707,2024-09-25,C-1560,Table Lamp,Home & Kitchen,1,132.28,132.28,Ontario,Mobile App
+ORD-5952,2024-09-26,C-1903,Yoga Leggings,Apparel,2,60.07,120.14,Alberta,Website
+ORD-6437,2024-09-26,C-1345,Cotton T-Shirt,Apparel,1,113.96,113.96,Ontario,Mobile App
+ORD-6721,2024-09-27,C-1899,Running Shoes,Apparel,1,85.51,85.51,Quebec,Mobile App
+ORD-6743,2024-09-27,C-1950,Cotton T-Shirt,Apparel,1,113.37,113.37,Ontario,Mobile App
+ORD-5312,2024-09-28,C-1534,Cotton T-Shirt,Apparel,1,67.95,67.95,Ontario,Mobile App
+ORD-6078,2024-09-28,C-1974,Laptop Stand,Electronics,2,187.91,375.82,Ontario,Website
+ORD-5648,2024-09-29,C-1840,Winter Parka,Apparel,2,109.86,219.72,Ontario,Mobile App
+ORD-5080,2024-10-01,C-1781,Denim Jacket,Apparel,1,70.86,70.86,Ontario,Mobile App
+ORD-5315,2024-10-01,C-1598,Cookware Set,Home & Kitchen,5,115.39,576.95,Quebec,Website
+ORD-5944,2024-10-01,C-1213,Dumbbell Set,Sports,1,233.26,233.26,Ontario,Mobile App
+ORD-6766,2024-10-01,C-1757,Laptop Stand,Electronics,2,162.35,324.7,Ontario,Website
+ORD-5591,2024-10-02,C-1131,Air Fryer,Home & Kitchen,1,69.58,69.58,British Columbia,In-Store Pickup
+ORD-5599,2024-10-02,C-1520,Yoga Leggings,Apparel,1,79.63,79.63,Ontario,In-Store Pickup
+ORD-5934,2024-10-02,C-1385,Denim Jacket,Apparel,1,98.57,98.57,Ontario,Website
+ORD-5968,2024-10-02,C-1738,Smart Watch,Electronics,1,117.01,117.01,Ontario,Mobile App
+ORD-6003,2024-10-02,C-1493,Cotton T-Shirt,Apparel,1,49.16,49.16,Ontario,Website
+ORD-6259,2024-10-02,C-1471,Smart Watch,Electronics,3,116.44,349.32,Quebec,Website
+ORD-6312,2024-10-02,C-1521,Wireless Headphones,Electronics,1,426.05,426.05,Quebec,Mobile App
+ORD-6878,2024-10-02,C-1794,Cookware Set,Home & Kitchen,1,46.44,46.44,Quebec,In-Store Pickup
+ORD-5187,2024-10-03,C-1803,Cotton T-Shirt,Apparel,2,30.01,60.02,Manitoba,Mobile App
+ORD-5370,2024-10-03,C-1377,Laptop Stand,Electronics,1,323.63,323.63,Manitoba,Website
+ORD-5575,2024-10-03,C-1700,Denim Jacket,Apparel,2,94.43,188.86,Manitoba,Mobile App
+ORD-6170,2024-10-03,C-1219,Table Lamp,Home & Kitchen,4,110.68,442.72,Alberta,Mobile App
+ORD-6590,2024-10-03,C-1959,Laptop Stand,Electronics,3,475.25,1425.75,Quebec,In-Store Pickup
+ORD-5982,2024-10-04,C-1937,Dining Set,Home & Kitchen,2,115.87,231.74,Ontario,Mobile App
+ORD-5643,2024-10-05,C-1913,Dining Set,Home & Kitchen,1,99.89,99.89,Ontario,Website
+ORD-6085,2024-10-05,C-1988,Yoga Mat,Sports,2,85.21,170.42,Ontario,Website
+ORD-6726,2024-10-05,C-1662,Cookware Set,Home & Kitchen,1,40.05,40.05,Ontario,In-Store Pickup
+ORD-5804,2024-10-06,C-1536,USB-C Charger,Electronics,4,315.96,1263.84,Quebec,In-Store Pickup
+ORD-6660,2024-10-08,C-1089,Bluetooth Speaker,Electronics,3,267.13,801.39,Ontario,Website
+ORD-5320,2024-10-09,C-1006,Air Fryer,Home & Kitchen,2,146.04,292.08,Ontario,Mobile App
+ORD-5216,2024-10-10,C-1761,Denim Jacket,Apparel,1,98.68,98.68,Alberta,Website
+ORD-5463,2024-10-10,C-1962,Cotton T-Shirt,Apparel,1,57.92,57.92,Ontario,Website
+ORD-6193,2024-10-10,C-1647,Cookware Set,Home & Kitchen,1,158.24,158.24,Alberta,Website
+ORD-6278,2024-10-10,C-1988,Cotton T-Shirt,Apparel,1,36.62,36.62,Ontario,Website
+ORD-6498,2024-10-10,C-1329,Bluetooth Speaker,Electronics,1,241.12,241.12,Alberta,Website
+ORD-6650,2024-10-10,C-1756,Tennis Racket,Sports,1,126.36,126.36,Ontario,In-Store Pickup
+ORD-6730,2024-10-10,C-1027,Laptop Stand,Electronics,1,594.92,594.92,Manitoba,Mobile App
+ORD-6749,2024-10-10,C-1066,Denim Jacket,Apparel,1,62.38,62.38,Ontario,Mobile App
+ORD-5338,2024-10-11,C-1924,Laptop Stand,Electronics,3,210.15,630.45,British Columbia,Website
+ORD-6047,2024-10-11,C-1027,Running Shoes,Apparel,1,58.0,58.0,Alberta,Mobile App
+ORD-6971,2024-10-11,C-1055,Wireless Headphones,Electronics,1,521.62,521.62,British Columbia,Mobile App
+ORD-6176,2024-10-12,C-1369,USB-C Charger,Electronics,4,172.17,688.68,Ontario,Mobile App
+ORD-6374,2024-10-12,C-1029,Robot Vacuum,Home & Kitchen,2,77.48,154.96,Ontario,Website
+ORD-6764,2024-10-12,C-1185,Moisturizer,Beauty,1,29.32,29.32,Quebec,In-Store Pickup
+ORD-5505,2024-10-13,C-1523,Laptop Stand,Electronics,1,128.96,128.96,British Columbia,Mobile App
+ORD-5716,2024-10-13,C-1431,Smart Watch,Electronics,1,142.26,142.26,Quebec,Mobile App
+ORD-6127,2024-10-13,C-1535,Smart Watch,Electronics,1,205.25,205.25,Ontario,Website
+ORD-6154,2024-10-13,C-1920,Wireless Headphones,Electronics,2,156.14,312.28,Manitoba,In-Store Pickup
+ORD-6973,2024-10-13,C-1795,Smart Watch,Electronics,1,565.71,565.71,Ontario,In-Store Pickup
+ORD-5249,2024-10-14,C-1930,USB-C Charger,Electronics,1,158.09,158.09,Alberta,Mobile App
+ORD-5490,2024-10-14,C-1464,Bluetooth Speaker,Electronics,1,253.77,253.77,Alberta,Mobile App
+ORD-5917,2024-10-14,C-1918,Yoga Leggings,Apparel,2,24.74,49.48,British Columbia,Mobile App
+ORD-6042,2024-10-14,C-1349,USB-C Charger,Electronics,3,118.21,354.63,Manitoba,Mobile App
+ORD-6139,2024-10-14,C-1516,Perfume,Beauty,1,55.74,55.74,Manitoba,Website
+ORD-6548,2024-10-14,C-1778,Yoga Leggings,Apparel,2,50.59,101.18,Ontario,Website
+ORD-6943,2024-10-14,C-1750,Bluetooth Speaker,Electronics,1,456.42,456.42,British Columbia,Website
+ORD-5009,2024-10-15,C-1664,Running Shoes,Apparel,1,39.88,39.88,Ontario,Mobile App
+ORD-5697,2024-10-15,C-1084,Robot Vacuum,Home & Kitchen,3,118.48,355.44,Ontario,Mobile App
+ORD-5322,2024-10-16,C-1614,Yoga Leggings,Apparel,1,20.74,20.74,Alberta,In-Store Pickup
+ORD-5570,2024-10-16,C-1151,Robot Vacuum,Home & Kitchen,1,46.77,46.77,British Columbia,Website
+ORD-6260,2024-10-16,C-1884,Air Fryer,Home & Kitchen,2,77.66,155.32,Ontario,Mobile App
+ORD-6880,2024-10-16,C-1963,USB-C Charger,Electronics,1,504.82,504.82,British Columbia,Website
+ORD-5440,2024-10-17,C-1912,Running Shoes,Apparel,1,92.22,92.22,Quebec,Mobile App
+ORD-5594,2024-10-17,C-1322,Smart Watch,Electronics,1,471.78,471.78,Alberta,Mobile App
+ORD-6192,2024-10-17,C-1445,Denim Jacket,Apparel,1,76.79,76.79,Ontario,Website
+ORD-6300,2024-10-17,C-1355,Dumbbell Set,Sports,3,159.24,477.72,Ontario,Website
+ORD-6602,2024-10-17,C-1761,Air Fryer,Home & Kitchen,1,117.55,117.55,Quebec,Website
+ORD-6656,2024-10-17,C-1282,Robot Vacuum,Home & Kitchen,2,163.94,327.88,Ontario,Website
+ORD-6737,2024-10-17,C-1484,Vitamin C Serum,Beauty,5,31.6,158.0,Manitoba,Mobile App
+ORD-6887,2024-10-18,C-1186,Hair Dryer,Beauty,1,43.75,43.75,Ontario,In-Store Pickup
+ORD-6702,2024-10-20,C-1807,Yoga Leggings,Apparel,2,34.22,68.44,Alberta,Mobile App
+ORD-6816,2024-10-20,C-1320,Table Lamp,Home & Kitchen,1,87.77,87.77,British Columbia,Mobile App
+ORD-5096,2024-10-21,C-1674,Bicycle Helmet,Sports,2,105.14,210.28,Quebec,Website
+ORD-5672,2024-10-21,C-1487,Hair Dryer,Beauty,2,57.84,115.68,Quebec,In-Store Pickup
+ORD-6030,2024-10-21,C-1458,Vitamin C Serum,Beauty,1,26.27,26.27,British Columbia,In-Store Pickup
+ORD-6138,2024-10-21,C-1586,Wireless Headphones,Electronics,1,274.18,274.18,Quebec,Website
+ORD-5550,2024-10-22,C-1865,Perfume,Beauty,2,38.23,76.46,Quebec,In-Store Pickup
+ORD-6025,2024-10-22,C-1492,Winter Parka,Apparel,4,48.39,193.56,Quebec,In-Store Pickup
+ORD-6046,2024-10-22,C-1579,Robot Vacuum,Home & Kitchen,3,197.58,592.74,Ontario,Website
+ORD-6098,2024-10-22,C-1449,USB-C Charger,Electronics,2,448.36,896.72,Ontario,Website
+ORD-6280,2024-10-22,C-1996,Table Lamp,Home & Kitchen,1,94.65,94.65,British Columbia,In-Store Pickup
+ORD-6791,2024-10-22,C-1526,Cookware Set,Home & Kitchen,5,62.81,314.05,Quebec,Website
+ORD-5074,2024-10-23,C-1822,Bluetooth Speaker,Electronics,3,577.85,1733.55,Ontario,Mobile App
+ORD-5479,2024-10-23,C-1602,Dining Set,Home & Kitchen,1,26.05,26.05,Alberta,Mobile App
+ORD-6843,2024-10-23,C-1924,Running Shoes,Apparel,2,61.81,123.62,Ontario,Mobile App
+ORD-5296,2024-10-25,C-1772,Wireless Headphones,Electronics,1,515.27,515.27,Ontario,Website
+ORD-5246,2024-10-26,C-1009,Bluetooth Speaker,Electronics,1,240.97,240.97,Ontario,Mobile App
+ORD-5471,2024-10-26,C-1554,Dumbbell Set,Sports,1,91.13,91.13,Alberta,Mobile App
+ORD-5670,2024-10-26,C-1875,Running Shoes,Apparel,1,116.89,116.89,Ontario,In-Store Pickup
+ORD-6332,2024-10-26,C-1690,Vitamin C Serum,Beauty,1,18.75,18.75,Quebec,In-Store Pickup
+ORD-6431,2024-10-26,C-1671,Smart Watch,Electronics,1,383.94,383.94,Alberta,In-Store Pickup
+ORD-6974,2024-10-26,C-1564,Dining Set,Home & Kitchen,1,58.62,58.62,Alberta,In-Store Pickup
+ORD-5054,2024-10-27,C-1124,Dining Set,Home & Kitchen,2,166.89,333.78,Alberta,In-Store Pickup
+ORD-5062,2024-10-27,C-1295,Running Shoes,Apparel,4,96.59,386.36,Quebec,Mobile App
+ORD-5634,2024-10-27,C-1105,Table Lamp,Home & Kitchen,1,185.44,185.44,Ontario,Mobile App
+ORD-6163,2024-10-27,C-1750,Winter Parka,Apparel,4,46.77,187.08,Ontario,Mobile App
+ORD-6384,2024-10-27,C-1449,Winter Parka,Apparel,1,54.26,54.26,Alberta,Mobile App
+ORD-6784,2024-10-27,C-1885,Winter Parka,Apparel,2,88.69,177.38,Manitoba,Mobile App
+ORD-5499,2024-10-28,C-1072,Dumbbell Set,Sports,1,189.77,189.77,Alberta,Website
+ORD-5668,2024-10-28,C-1342,Tennis Racket,Sports,4,66.3,265.2,Ontario,Website
+ORD-6168,2024-10-28,C-1240,Bluetooth Speaker,Electronics,1,214.01,214.01,Alberta,Mobile App
+ORD-5436,2024-10-29,C-1598,Table Lamp,Home & Kitchen,2,186.33,372.66,British Columbia,Website
+ORD-6240,2024-10-29,C-1042,Resistance Bands,Sports,1,240.42,240.42,Ontario,In-Store Pickup
+ORD-6920,2024-10-29,C-1846,Denim Jacket,Apparel,1,24.75,24.75,Ontario,Website
+ORD-5277,2024-10-30,C-1833,Tennis Racket,Sports,1,86.24,86.24,Ontario,Mobile App
+ORD-5726,2024-10-30,C-1867,Wireless Headphones,Electronics,3,80.57,241.71,Ontario,Mobile App
+ORD-6364,2024-10-30,C-1177,Bicycle Helmet,Sports,2,125.67,251.34,British Columbia,Mobile App
+ORD-6931,2024-10-30,C-1566,Denim Jacket,Apparel,1,74.19,74.19,Ontario,Mobile App
+ORD-5539,2024-10-31,C-1051,Air Fryer,Home & Kitchen,1,113.96,113.96,Alberta,Website
+ORD-6487,2024-10-31,C-1152,Denim Jacket,Apparel,1,34.47,34.47,Quebec,Website
+ORD-6805,2024-10-31,C-1240,Bicycle Helmet,Sports,1,107.85,107.85,British Columbia,Website
+ORD-5323,2024-11-01,C-1079,Yoga Leggings,Apparel,4,114.56,458.24,Ontario,Website
+ORD-5365,2024-11-01,C-1036,Dumbbell Set,Sports,2,58.24,116.48,Ontario,Mobile App
+ORD-5920,2024-11-01,C-1103,USB-C Charger,Electronics,2,265.94,531.88,Ontario,In-Store Pickup
+ORD-5344,2024-11-02,C-1270,Dumbbell Set,Sports,2,221.45,442.9,British Columbia,Mobile App
+ORD-5613,2024-11-02,C-1811,Air Fryer,Home & Kitchen,2,110.9,221.8,Ontario,Website
+ORD-5882,2024-11-03,C-1473,Laptop Stand,Electronics,2,140.95,281.9,Quebec,Website
+ORD-5010,2024-11-04,C-1420,Winter Parka,Apparel,2,83.01,166.02,Quebec,Website
+ORD-5491,2024-11-05,C-1631,Table Lamp,Home & Kitchen,2,108.29,216.58,British Columbia,Mobile App
+ORD-5518,2024-11-05,C-1838,Smart Watch,Electronics,2,154.78,309.56,Alberta,Mobile App
+ORD-6102,2024-11-05,C-1539,Air Fryer,Home & Kitchen,3,101.76,305.28,British Columbia,Mobile App
+ORD-6522,2024-11-05,C-1200,Bluetooth Speaker,Electronics,2,458.73,917.46,Ontario,Website
+ORD-5094,2024-11-06,C-1240,Face Mask Set,Beauty,2,15.48,30.96,Alberta,Mobile App
+ORD-5854,2024-11-06,C-1962,Vitamin C Serum,Beauty,2,29.57,59.14,Ontario,Website
+ORD-6147,2024-11-06,C-1939,Bicycle Helmet,Sports,3,91.23,273.69,Ontario,Website
+ORD-6903,2024-11-06,C-1817,Bluetooth Speaker,Electronics,3,336.64,1009.92,Quebec,In-Store Pickup
+ORD-6459,2024-11-07,C-1678,Table Lamp,Home & Kitchen,3,158.44,475.32,Ontario,Mobile App
+ORD-5028,2024-11-08,C-1097,Yoga Leggings,Apparel,2,119.79,239.58,Manitoba,Website
+ORD-6238,2024-11-08,C-1717,Table Lamp,Home & Kitchen,2,150.19,300.38,Quebec,In-Store Pickup
+ORD-6927,2024-11-08,C-1660,Robot Vacuum,Home & Kitchen,4,175.82,703.28,Quebec,In-Store Pickup
+ORD-5633,2024-11-09,C-1318,Winter Parka,Apparel,2,34.54,69.08,Ontario,Mobile App
+ORD-6020,2024-11-09,C-1503,Running Shoes,Apparel,2,43.83,87.66,Quebec,Website
+ORD-6808,2024-11-09,C-1718,USB-C Charger,Electronics,5,300.49,1502.45,Ontario,Website
+ORD-6888,2024-11-09,C-1953,Vitamin C Serum,Beauty,6,33.35,200.1,Quebec,Mobile App
+ORD-6812,2024-11-10,C-1519,Laptop Stand,Electronics,4,537.35,2149.4,Alberta,In-Store Pickup
+ORD-5661,2024-11-11,C-1961,Cookware Set,Home & Kitchen,3,35.1,105.3,Quebec,In-Store Pickup
+ORD-6235,2024-11-11,C-1517,Dumbbell Set,Sports,2,230.99,461.98,Quebec,Mobile App
+ORD-6840,2024-11-11,C-1735,Perfume,Beauty,4,40.05,160.2,Ontario,Mobile App
+ORD-6997,2024-11-11,C-1409,Laptop Stand,Electronics,2,207.05,414.1,British Columbia,Website
+ORD-5769,2024-11-12,C-1146,Dumbbell Set,Sports,2,137.67,275.34,Quebec,In-Store Pickup
+ORD-6735,2024-11-12,C-1068,Cotton T-Shirt,Apparel,2,59.93,119.86,Manitoba,In-Store Pickup
+ORD-5357,2024-11-13,C-1895,Bicycle Helmet,Sports,2,30.35,60.7,Quebec,Mobile App
+ORD-5542,2024-11-13,C-1775,Cookware Set,Home & Kitchen,2,165.7,331.4,Manitoba,Mobile App
+ORD-6822,2024-11-14,C-1082,Dining Set,Home & Kitchen,4,75.45,301.8,Quebec,Mobile App
+ORD-6977,2024-11-14,C-1593,Smart Watch,Electronics,5,157.56,787.8,Quebec,Website
+ORD-5665,2024-11-15,C-1387,Cotton T-Shirt,Apparel,2,88.77,177.54,Ontario,Website
+ORD-6214,2024-11-15,C-1898,Bicycle Helmet,Sports,2,95.48,190.96,Ontario,Website
+ORD-5366,2024-11-16,C-1993,Moisturizer,Beauty,3,21.68,65.04,Ontario,Mobile App
+ORD-5943,2024-11-16,C-1343,Wireless Headphones,Electronics,2,366.43,732.86,British Columbia,Website
+ORD-6179,2024-11-16,C-1167,USB-C Charger,Electronics,4,493.33,1973.32,Alberta,Website
+ORD-5318,2024-11-17,C-1790,Vitamin C Serum,Beauty,3,16.03,48.09,Quebec,In-Store Pickup
+ORD-5584,2024-11-18,C-1719,Denim Jacket,Apparel,2,86.29,172.58,Ontario,Mobile App
+ORD-6705,2024-11-18,C-1947,Dumbbell Set,Sports,2,67.45,134.9,Ontario,Mobile App
+ORD-5032,2024-11-19,C-1046,Laptop Stand,Electronics,6,316.71,1900.26,Ontario,Website
+ORD-5285,2024-11-19,C-1857,Running Shoes,Apparel,2,86.73,173.46,Alberta,Website
+ORD-6471,2024-11-19,C-1844,USB-C Charger,Electronics,2,360.07,720.14,Ontario,In-Store Pickup
+ORD-6556,2024-11-19,C-1391,Smart Watch,Electronics,2,457.4,914.8,British Columbia,In-Store Pickup
+ORD-5306,2024-11-20,C-1544,Cookware Set,Home & Kitchen,3,91.94,275.82,Manitoba,Website
+ORD-5814,2024-11-20,C-1812,Running Shoes,Apparel,5,43.73,218.65,Ontario,Website
+ORD-6409,2024-11-20,C-1539,Smart Watch,Electronics,4,388.86,1555.44,Ontario,In-Store Pickup
+ORD-6689,2024-11-20,C-1602,Yoga Leggings,Apparel,6,83.98,503.88,Ontario,In-Store Pickup
+ORD-6715,2024-11-20,C-1905,Robot Vacuum,Home & Kitchen,2,82.59,165.18,Quebec,Website
+ORD-5549,2024-11-21,C-1016,USB-C Charger,Electronics,3,90.13,270.39,Alberta,In-Store Pickup
+ORD-5832,2024-11-21,C-1455,Cotton T-Shirt,Apparel,3,43.1,129.3,Manitoba,Mobile App
+ORD-6343,2024-11-21,C-1861,Laptop Stand,Electronics,3,430.3,1290.9,Ontario,Mobile App
+ORD-6661,2024-11-21,C-1778,Air Fryer,Home & Kitchen,2,60.48,120.96,Ontario,Mobile App
+ORD-6709,2024-11-22,C-1966,Moisturizer,Beauty,5,19.05,95.25,Quebec,Website
+ORD-5340,2024-11-23,C-1221,Yoga Leggings,Apparel,4,105.56,422.24,Ontario,Website
+ORD-6341,2024-11-23,C-1828,Table Lamp,Home & Kitchen,3,36.17,108.51,Ontario,Website
+ORD-6703,2024-11-23,C-1640,Bluetooth Speaker,Electronics,2,82.51,165.02,British Columbia,In-Store Pickup
+ORD-5328,2024-11-24,C-1346,Dining Set,Home & Kitchen,2,114.32,228.64,British Columbia,Website
+ORD-6604,2024-11-24,C-1002,USB-C Charger,Electronics,2,259.76,519.52,British Columbia,Website
+ORD-6823,2024-11-24,C-1709,Smart Watch,Electronics,6,427.2,2563.2,British Columbia,Website
+ORD-6906,2024-11-24,C-1453,Bluetooth Speaker,Electronics,5,200.5,1002.5,Ontario,Website
+ORD-5993,2024-11-26,C-1845,Cotton T-Shirt,Apparel,2,70.4,140.8,Ontario,Mobile App
+ORD-6481,2024-11-26,C-1163,Dining Set,Home & Kitchen,2,146.05,292.1,Alberta,Mobile App
+ORD-6625,2024-11-26,C-1505,Cookware Set,Home & Kitchen,2,137.11,274.22,British Columbia,Mobile App
+ORD-5831,2024-11-27,C-1950,Perfume,Beauty,3,17.92,53.76,Quebec,Mobile App
+ORD-6391,2024-11-27,C-1165,Laptop Stand,Electronics,2,475.95,951.9,British Columbia,Website
+ORD-5704,2024-11-28,C-1878,Vitamin C Serum,Beauty,2,10.66,21.32,Quebec,Mobile App
+ORD-6474,2024-11-28,C-1420,Dining Set,Home & Kitchen,2,97.9,195.8,Ontario,Website
+ORD-5035,2024-11-29,C-1338,Yoga Mat,Sports,3,52.52,157.56,Quebec,Website
+ORD-5160,2024-11-29,C-1518,Resistance Bands,Sports,2,224.59,449.18,Ontario,Mobile App
+ORD-5795,2024-11-29,C-1422,Cotton T-Shirt,Apparel,3,116.78,350.34,Manitoba,Mobile App
+ORD-6519,2024-11-29,C-1389,Moisturizer,Beauty,2,32.48,64.96,Ontario,Mobile App
+ORD-5565,2024-11-30,C-1204,Running Shoes,Apparel,3,111.86,335.58,Alberta,Mobile App
+ORD-6246,2024-11-30,C-1670,Laptop Stand,Electronics,2,216.15,432.3,Ontario,Mobile App
+ORD-6375,2024-11-30,C-1085,Dumbbell Set,Sports,2,134.36,268.72,Quebec,Mobile App
+ORD-5432,2024-12-02,C-1817,Air Fryer,Home & Kitchen,2,54.38,108.76,Quebec,Website
+ORD-6718,2024-12-02,C-1748,Running Shoes,Apparel,2,86.58,173.16,Ontario,Website
+ORD-5095,2024-12-03,C-1013,Perfume,Beauty,4,17.84,71.36,Manitoba,Website
+ORD-5431,2024-12-03,C-1939,Moisturizer,Beauty,3,10.35,31.05,British Columbia,Website
+ORD-6844,2024-12-03,C-1948,Wireless Headphones,Electronics,2,128.5,257.0,Quebec,Mobile App
+ORD-5029,2024-12-04,C-1368,Bicycle Helmet,Sports,3,41.97,125.91,Manitoba,Mobile App
+ORD-5253,2024-12-04,C-1861,Cotton T-Shirt,Apparel,2,86.24,172.48,Quebec,Mobile App
+ORD-5896,2024-12-04,C-1072,Hair Dryer,Beauty,2,16.72,33.44,Ontario,Mobile App
+ORD-5942,2024-12-04,C-1782,Face Mask Set,Beauty,2,47.57,95.14,British Columbia,Website
+ORD-5019,2024-12-05,C-1220,Moisturizer,Beauty,2,58.45,116.9,Ontario,Website
+ORD-5233,2024-12-05,C-1269,Air Fryer,Home & Kitchen,3,32.1,96.3,Manitoba,Website
+ORD-5527,2024-12-05,C-1652,Bluetooth Speaker,Electronics,2,225.97,451.94,Quebec,In-Store Pickup
+ORD-5783,2024-12-05,C-1348,Bluetooth Speaker,Electronics,2,150.63,301.26,Ontario,Mobile App
+ORD-5913,2024-12-05,C-1185,Laptop Stand,Electronics,6,551.27,3307.62,Ontario,Website
+ORD-6583,2024-12-05,C-1095,USB-C Charger,Electronics,2,493.8,987.6,Ontario,In-Store Pickup
+ORD-5853,2024-12-06,C-1310,Tennis Racket,Sports,2,176.38,352.76,Ontario,Mobile App
+ORD-6112,2024-12-06,C-1044,Laptop Stand,Electronics,2,362.12,724.24,Ontario,Website
+ORD-5244,2024-12-07,C-1766,Perfume,Beauty,2,44.29,88.58,Ontario,Mobile App
+ORD-6948,2024-12-08,C-1085,Denim Jacket,Apparel,2,70.76,141.52,British Columbia,Website
+ORD-5507,2024-12-09,C-1754,USB-C Charger,Electronics,5,234.38,1171.9,British Columbia,Website
+ORD-6381,2024-12-09,C-1609,Cookware Set,Home & Kitchen,4,113.08,452.32,Ontario,Mobile App
+ORD-5698,2024-12-10,C-1053,Robot Vacuum,Home & Kitchen,2,92.43,184.86,Quebec,Mobile App
+ORD-5140,2024-12-11,C-1224,Dumbbell Set,Sports,2,94.17,188.34,Ontario,Mobile App
+ORD-5245,2024-12-11,C-1108,Cotton T-Shirt,Apparel,4,108.2,432.8,Quebec,Website
+ORD-6228,2024-12-11,C-1226,Wireless Headphones,Electronics,2,364.95,729.9,Ontario,Mobile App
+ORD-6287,2024-12-11,C-1025,Dumbbell Set,Sports,2,118.46,236.92,Manitoba,Website
+ORD-5392,2024-12-12,C-1655,Wireless Headphones,Electronics,5,133.92,669.6,Ontario,Website
+ORD-5500,2024-12-12,C-1091,Winter Parka,Apparel,3,23.55,70.65,Ontario,Mobile App
+ORD-5747,2024-12-12,C-1859,Perfume,Beauty,4,26.23,104.92,Quebec,Mobile App
+ORD-5746,2024-12-14,C-1827,Moisturizer,Beauty,2,15.03,30.06,British Columbia,Website
+ORD-5780,2024-12-14,C-1359,Laptop Stand,Electronics,2,288.19,576.38,Alberta,In-Store Pickup
+ORD-6810,2024-12-14,C-1271,Cookware Set,Home & Kitchen,2,167.44,334.88,Alberta,Website
+ORD-6912,2024-12-14,C-1127,Smart Watch,Electronics,3,350.3,1050.9,Ontario,Website
+ORD-5069,2024-12-15,C-1422,USB-C Charger,Electronics,2,217.77,435.54,Ontario,In-Store Pickup
+ORD-5191,2024-12-15,C-1696,Table Lamp,Home & Kitchen,4,145.81,583.24,Quebec,Website
+ORD-6095,2024-12-15,C-1606,Table Lamp,Home & Kitchen,4,105.26,421.04,British Columbia,Website
+ORD-6512,2024-12-15,C-1285,Air Fryer,Home & Kitchen,3,39.8,119.4,Quebec,Mobile App
+ORD-5345,2024-12-16,C-1088,Vitamin C Serum,Beauty,2,24.57,49.14,Ontario,In-Store Pickup
+ORD-5786,2024-12-16,C-1967,Running Shoes,Apparel,3,49.61,148.83,Manitoba,Website
+ORD-5988,2024-12-16,C-1805,Robot Vacuum,Home & Kitchen,5,194.99,974.95,Ontario,Website
+ORD-6010,2024-12-16,C-1889,Denim Jacket,Apparel,2,37.14,74.28,Manitoba,Website
+ORD-6518,2024-12-16,C-1442,Dining Set,Home & Kitchen,3,126.56,379.68,Ontario,In-Store Pickup
+ORD-6600,2024-12-16,C-1168,Winter Parka,Apparel,4,21.56,86.24,Ontario,Mobile App
+ORD-5349,2024-12-17,C-1217,Perfume,Beauty,3,15.79,47.37,Ontario,Mobile App
+ORD-6024,2024-12-17,C-1199,Table Lamp,Home & Kitchen,3,102.17,306.51,Ontario,Website
+ORD-6244,2024-12-17,C-1160,Table Lamp,Home & Kitchen,3,42.74,128.22,Quebec,Website
+ORD-6388,2024-12-17,C-1190,Laptop Stand,Electronics,2,527.43,1054.86,Quebec,Website
+ORD-6582,2024-12-17,C-1754,Yoga Mat,Sports,2,35.73,71.46,Quebec,Website
+ORD-5481,2024-12-18,C-1612,Perfume,Beauty,2,15.89,31.78,Ontario,Website
+ORD-5828,2024-12-18,C-1418,Hair Dryer,Beauty,6,35.5,213.0,Quebec,In-Store Pickup
+ORD-5843,2024-12-19,C-1902,Wireless Headphones,Electronics,2,248.98,497.96,Alberta,Mobile App
+ORD-6136,2024-12-19,C-1645,Running Shoes,Apparel,2,69.03,138.06,Ontario,Website
+ORD-6524,2024-12-19,C-1681,Bluetooth Speaker,Electronics,3,374.47,1123.41,Ontario,Mobile App
+ORD-5397,2024-12-20,C-1118,Yoga Mat,Sports,2,182.73,365.46,Alberta,Mobile App
+ORD-5604,2024-12-20,C-1469,Perfume,Beauty,2,36.42,72.84,Quebec,Mobile App
+ORD-5979,2024-12-20,C-1393,Cookware Set,Home & Kitchen,2,92.93,185.86,British Columbia,In-Store Pickup
+ORD-6360,2024-12-20,C-1694,Moisturizer,Beauty,2,31.79,63.58,Ontario,Mobile App
+ORD-5712,2024-12-21,C-1037,Smart Watch,Electronics,5,328.69,1643.45,Ontario,Website
+ORD-6283,2024-12-21,C-1560,Cotton T-Shirt,Apparel,2,49.66,99.32,Ontario,Mobile App
+ORD-5031,2024-12-22,C-1660,USB-C Charger,Electronics,3,270.68,812.04,British Columbia,Website
+ORD-5133,2024-12-22,C-1687,Yoga Leggings,Apparel,2,33.8,67.6,Quebec,Website
+ORD-5839,2024-12-22,C-1577,Yoga Leggings,Apparel,2,42.41,84.82,British Columbia,Website
+ORD-6569,2024-12-22,C-1816,Denim Jacket,Apparel,2,40.33,80.66,Ontario,Website
+ORD-6806,2024-12-22,C-1774,Denim Jacket,Apparel,3,54.76,164.28,Alberta,Website
+ORD-6986,2024-12-22,C-1501,Table Lamp,Home & Kitchen,2,53.42,106.84,Quebec,Mobile App
+ORD-5402,2024-12-23,C-1586,Running Shoes,Apparel,2,87.22,174.44,Ontario,Website
+ORD-5734,2024-12-23,C-1120,Table Lamp,Home & Kitchen,2,125.35,250.7,Ontario,In-Store Pickup
+ORD-5755,2024-12-23,C-1317,Bicycle Helmet,Sports,3,151.7,455.1,Ontario,In-Store Pickup
+ORD-6807,2024-12-23,C-1257,Dining Set,Home & Kitchen,3,116.46,349.38,Ontario,Mobile App
+ORD-5543,2024-12-24,C-1906,Resistance Bands,Sports,2,207.03,414.06,Ontario,Mobile App
+ORD-5819,2024-12-24,C-1996,Smart Watch,Electronics,2,83.5,167.0,Quebec,Mobile App
+ORD-6763,2024-12-24,C-1385,Moisturizer,Beauty,2,28.9,57.8,Alberta,Website
+ORD-6851,2024-12-24,C-1518,Bluetooth Speaker,Electronics,4,273.97,1095.88,Ontario,Website
+ORD-5171,2024-12-25,C-1579,Face Mask Set,Beauty,2,48.03,96.06,Alberta,Website
+ORD-5396,2024-12-25,C-1101,Laptop Stand,Electronics,2,473.12,946.24,Alberta,In-Store Pickup
+ORD-6597,2024-12-25,C-1575,Face Mask Set,Beauty,2,55.72,111.44,British Columbia,Mobile App
+ORD-5202,2024-12-26,C-1914,Yoga Leggings,Apparel,2,64.06,128.12,Quebec,In-Store Pickup
+ORD-6746,2024-12-26,C-1802,Air Fryer,Home & Kitchen,4,99.89,399.56,Ontario,Website
+ORD-6913,2024-12-26,C-1432,USB-C Charger,Electronics,4,379.14,1516.56,British Columbia,Website
+ORD-5541,2024-12-27,C-1092,USB-C Charger,Electronics,3,238.94,716.82,British Columbia,Website
+ORD-6272,2024-12-27,C-1064,Running Shoes,Apparel,2,78.24,156.48,Quebec,Mobile App
+ORD-6586,2024-12-27,C-1378,Robot Vacuum,Home & Kitchen,2,97.87,195.74,Quebec,Mobile App
+ORD-5502,2024-12-28,C-1785,Face Mask Set,Beauty,4,36.77,147.08,Ontario,In-Store Pickup
+ORD-5927,2024-12-28,C-1661,Perfume,Beauty,2,41.26,82.52,Ontario,Mobile App
+ORD-5050,2024-12-29,C-1466,Vitamin C Serum,Beauty,2,20.86,41.72,Quebec,Mobile App
+ORD-5068,2024-12-29,C-1409,Robot Vacuum,Home & Kitchen,2,186.37,372.74,Alberta,Mobile App
+ORD-5658,2024-12-29,C-1182,Winter Parka,Apparel,2,26.76,53.52,Ontario,Website
+ORD-6500,2024-12-29,C-1829,Denim Jacket,Apparel,2,40.89,81.78,Quebec,Mobile App
+ORD-6770,2024-12-29,C-1266,Air Fryer,Home & Kitchen,2,118.11,236.22,British Columbia,In-Store Pickup
+ORD-6829,2024-12-29,C-1433,Moisturizer,Beauty,2,33.48,66.96,Quebec,In-Store Pickup
+ORD-5282,2024-12-30,C-1754,Moisturizer,Beauty,2,12.36,24.72,Ontario,Website
+ORD-5343,2024-12-30,C-1252,Cotton T-Shirt,Apparel,3,89.21,267.63,Ontario,Website
+ORD-6796,2024-12-31,C-1554,USB-C Charger,Electronics,2,275.73,551.46,Quebec,In-Store Pickup
+ORD-6798,2024-12-31,C-1956,Perfume,Beauty,4,38.91,155.64,Quebec,Mobile App
+ORD-5456,2025-01-01,C-1317,Cotton T-Shirt,Apparel,2,20.5,41.0,Alberta,Mobile App
+ORD-5625,2025-01-01,C-1680,Laptop Stand,Electronics,1,351.63,351.63,Ontario,Mobile App
+ORD-6075,2025-01-01,C-1259,Table Lamp,Home & Kitchen,1,36.81,36.81,British Columbia,Mobile App
+ORD-6091,2025-01-01,C-1100,Robot Vacuum,Home & Kitchen,1,52.71,52.71,Manitoba,Mobile App
+ORD-6482,2025-01-01,C-1001,Robot Vacuum,Home & Kitchen,1,37.98,37.98,British Columbia,Website
+ORD-6608,2025-01-01,C-1085,USB-C Charger,Electronics,1,328.03,328.03,Manitoba,Mobile App
+ORD-5813,2025-01-02,C-1145,Robot Vacuum,Home & Kitchen,2,56.04,112.08,Quebec,Website
+ORD-6679,2025-01-02,C-1385,Dining Set,Home & Kitchen,5,157.77,788.85,Ontario,In-Store Pickup
+ORD-6955,2025-01-02,C-1984,Cotton T-Shirt,Apparel,2,92.94,185.88,Ontario,In-Store Pickup
+ORD-5089,2025-01-03,C-1337,Denim Jacket,Apparel,2,90.71,181.42,British Columbia,Website
+ORD-5307,2025-01-03,C-1270,Winter Parka,Apparel,3,64.25,192.75,Ontario,Website
+ORD-5598,2025-01-03,C-1014,Tennis Racket,Sports,3,147.42,442.26,Alberta,Website
+ORD-5694,2025-01-03,C-1719,Robot Vacuum,Home & Kitchen,2,161.13,322.26,Alberta,Website
+ORD-6370,2025-01-03,C-1030,Smart Watch,Electronics,1,84.49,84.49,Ontario,Website
+ORD-6637,2025-01-03,C-1447,Winter Parka,Apparel,3,41.15,123.45,Quebec,In-Store Pickup
+ORD-6698,2025-01-03,C-1758,Dumbbell Set,Sports,2,115.41,230.82,British Columbia,In-Store Pickup
+ORD-6896,2025-01-03,C-1785,Laptop Stand,Electronics,1,328.79,328.79,Ontario,Website
+ORD-5380,2025-01-04,C-1372,Running Shoes,Apparel,4,82.72,330.88,British Columbia,In-Store Pickup
+ORD-5521,2025-01-04,C-1761,Denim Jacket,Apparel,2,28.67,57.34,Ontario,Website
+ORD-5967,2025-01-04,C-1897,Laptop Stand,Electronics,2,575.92,1151.84,Quebec,Mobile App
+ORD-6923,2025-01-04,C-1394,Moisturizer,Beauty,1,50.53,50.53,Alberta,Website
+ORD-5881,2025-01-05,C-1575,Running Shoes,Apparel,2,41.41,82.82,Quebec,Mobile App
+ORD-6155,2025-01-05,C-1558,Cotton T-Shirt,Apparel,1,119.24,119.24,British Columbia,Website
+ORD-6901,2025-01-05,C-1141,Bicycle Helmet,Sports,1,194.14,194.14,Quebec,Website
+ORD-5119,2025-01-06,C-1002,Robot Vacuum,Home & Kitchen,4,100.76,403.04,Ontario,Mobile App
+ORD-5165,2025-01-06,C-1105,Running Shoes,Apparel,1,111.18,111.18,Alberta,In-Store Pickup
+ORD-5472,2025-01-06,C-1380,Hair Dryer,Beauty,5,45.61,228.05,Ontario,Mobile App
+ORD-5478,2025-01-06,C-1363,Cotton T-Shirt,Apparel,1,63.58,63.58,Quebec,Website
+ORD-6290,2025-01-06,C-1053,Moisturizer,Beauty,1,44.73,44.73,Alberta,Website
+ORD-6804,2025-01-06,C-1957,Wireless Headphones,Electronics,2,169.57,339.14,Ontario,Website
+ORD-5037,2025-01-07,C-1345,Wireless Headphones,Electronics,1,226.34,226.34,Ontario,In-Store Pickup
+ORD-5118,2025-01-07,C-1344,Tennis Racket,Sports,2,103.15,206.3,Ontario,In-Store Pickup
+ORD-6765,2025-01-07,C-1185,Yoga Mat,Sports,2,218.34,436.68,Ontario,Mobile App
+ORD-6825,2025-01-07,C-1730,Winter Parka,Apparel,1,70.23,70.23,Alberta,Mobile App
+ORD-5517,2025-01-08,C-1077,Denim Jacket,Apparel,2,72.53,145.06,Quebec,Mobile App
+ORD-5156,2025-01-09,C-1482,Denim Jacket,Apparel,2,39.49,78.98,Alberta,Website
+ORD-5779,2025-01-09,C-1355,Bicycle Helmet,Sports,2,244.3,488.6,British Columbia,Website
+ORD-6043,2025-01-09,C-1449,Robot Vacuum,Home & Kitchen,4,113.46,453.84,British Columbia,Mobile App
+ORD-6550,2025-01-09,C-1183,USB-C Charger,Electronics,4,172.06,688.24,Ontario,Mobile App
+ORD-6833,2025-01-09,C-1495,Cotton T-Shirt,Apparel,2,46.94,93.88,Ontario,Website
+ORD-5040,2025-01-12,C-1805,Perfume,Beauty,1,20.1,20.1,Alberta,Website
+ORD-5071,2025-01-12,C-1472,Air Fryer,Home & Kitchen,1,68.33,68.33,Ontario,Website
+ORD-5226,2025-01-12,C-1024,Yoga Mat,Sports,1,196.41,196.41,British Columbia,Mobile App
+ORD-5652,2025-01-13,C-1746,Bicycle Helmet,Sports,4,203.27,813.08,Ontario,Website
+ORD-5858,2025-01-13,C-1589,Perfume,Beauty,1,18.71,18.71,Manitoba,Website
+ORD-6417,2025-01-13,C-1301,Air Fryer,Home & Kitchen,3,129.51,388.53,Manitoba,Website
+ORD-5210,2025-01-14,C-1655,Smart Watch,Electronics,1,479.13,479.13,Quebec,Website
+ORD-5372,2025-01-14,C-1154,Face Mask Set,Beauty,1,31.02,31.02,Ontario,Mobile App
+ORD-6121,2025-01-14,C-1172,Bluetooth Speaker,Electronics,4,286.85,1147.4,Alberta,In-Store Pickup
+ORD-6872,2025-01-14,C-1883,Air Fryer,Home & Kitchen,3,61.39,184.17,Ontario,Mobile App
+ORD-5117,2025-01-15,C-1652,Face Mask Set,Beauty,3,30.48,91.44,Ontario,Website
+ORD-5278,2025-01-15,C-1096,Face Mask Set,Beauty,1,31.7,31.7,Ontario,Website
+ORD-5603,2025-01-15,C-1045,Robot Vacuum,Home & Kitchen,1,188.78,188.78,Manitoba,Website
+ORD-5798,2025-01-15,C-1392,Dumbbell Set,Sports,4,158.48,633.92,Alberta,Website
+ORD-6450,2025-01-15,C-1259,Smart Watch,Electronics,1,113.41,113.41,Ontario,Mobile App
+ORD-6611,2025-01-15,C-1454,Hair Dryer,Beauty,2,54.78,109.56,British Columbia,Website
+ORD-6899,2025-01-15,C-1000,Moisturizer,Beauty,1,48.81,48.81,Alberta,Website
+ORD-6991,2025-01-15,C-1789,Running Shoes,Apparel,5,69.49,347.45,British Columbia,Website
+ORD-6538,2025-01-17,C-1410,Wireless Headphones,Electronics,1,428.58,428.58,Quebec,Website
+ORD-5909,2025-01-18,C-1029,Bicycle Helmet,Sports,1,153.35,153.35,Ontario,Website
+ORD-5912,2025-01-18,C-1770,Denim Jacket,Apparel,3,98.53,295.59,Ontario,Website
+ORD-5949,2025-01-18,C-1218,Laptop Stand,Electronics,2,415.1,830.2,Ontario,Website
+ORD-5984,2025-01-18,C-1247,Table Lamp,Home & Kitchen,1,82.15,82.15,Alberta,In-Store Pickup
+ORD-6421,2025-01-18,C-1425,Vitamin C Serum,Beauty,1,40.15,40.15,Quebec,Mobile App
+ORD-5400,2025-01-19,C-1308,Perfume,Beauty,1,11.5,11.5,Ontario,In-Store Pickup
+ORD-6495,2025-01-19,C-1166,Vitamin C Serum,Beauty,1,20.11,20.11,Ontario,Website
+ORD-6645,2025-01-19,C-1402,Air Fryer,Home & Kitchen,1,169.51,169.51,Quebec,Mobile App
+ORD-6995,2025-01-19,C-1550,Air Fryer,Home & Kitchen,3,127.9,383.7,Ontario,In-Store Pickup
+ORD-5961,2025-01-20,C-1184,Hair Dryer,Beauty,2,53.01,106.02,Ontario,In-Store Pickup
+ORD-6534,2025-01-20,C-1667,Yoga Mat,Sports,1,210.63,210.63,Ontario,In-Store Pickup
+ORD-5407,2025-01-21,C-1994,Dining Set,Home & Kitchen,1,68.52,68.52,Ontario,Mobile App
+ORD-5796,2025-01-21,C-1266,Yoga Mat,Sports,1,81.91,81.91,Ontario,Mobile App
+ORD-6317,2025-01-21,C-1519,Tennis Racket,Sports,3,105.09,315.27,Ontario,Website
+ORD-6638,2025-01-21,C-1860,Resistance Bands,Sports,1,66.8,66.8,British Columbia,Mobile App
+ORD-5220,2025-01-23,C-1163,Cookware Set,Home & Kitchen,2,79.93,159.86,Alberta,Website
+ORD-5430,2025-01-23,C-1477,Table Lamp,Home & Kitchen,1,149.71,149.71,Alberta,Mobile App
+ORD-6347,2025-01-23,C-1705,Dining Set,Home & Kitchen,1,172.64,172.64,Quebec,Mobile App
+ORD-6646,2025-01-23,C-1357,Smart Watch,Electronics,2,313.16,626.32,British Columbia,In-Store Pickup
+ORD-5901,2025-01-24,C-1394,Vitamin C Serum,Beauty,1,28.24,28.24,Ontario,Mobile App
+ORD-6210,2025-01-24,C-1441,Tennis Racket,Sports,1,191.05,191.05,Ontario,Website
+ORD-6651,2025-01-24,C-1554,Laptop Stand,Electronics,4,87.79,351.16,Quebec,Website
+ORD-6771,2025-01-24,C-1151,Cookware Set,Home & Kitchen,2,180.14,360.28,British Columbia,In-Store Pickup
+ORD-5384,2025-01-25,C-1873,Smart Watch,Electronics,2,505.66,1011.32,Manitoba,Website
+ORD-6017,2025-01-25,C-1317,Running Shoes,Apparel,1,31.17,31.17,British Columbia,Website
+ORD-6467,2025-01-25,C-1993,Table Lamp,Home & Kitchen,1,121.27,121.27,Alberta,Website
+ORD-6299,2025-01-26,C-1074,Smart Watch,Electronics,1,450.16,450.16,Ontario,Mobile App
+ORD-6491,2025-01-26,C-1709,Dumbbell Set,Sports,2,160.6,321.2,Manitoba,Mobile App
+ORD-6501,2025-01-26,C-1418,Yoga Leggings,Apparel,1,50.43,50.43,Alberta,Website
+ORD-6549,2025-01-26,C-1270,Running Shoes,Apparel,1,110.1,110.1,Quebec,Website
+ORD-6621,2025-01-26,C-1063,Bicycle Helmet,Sports,1,126.39,126.39,Alberta,In-Store Pickup
+ORD-5753,2025-01-27,C-1196,Denim Jacket,Apparel,1,102.85,102.85,Ontario,Website
+ORD-5841,2025-01-27,C-1692,USB-C Charger,Electronics,1,252.48,252.48,Ontario,In-Store Pickup
+ORD-6174,2025-01-27,C-1131,Smart Watch,Electronics,1,456.75,456.75,British Columbia,Mobile App
+ORD-6302,2025-01-27,C-1261,Running Shoes,Apparel,2,35.08,70.16,Ontario,Mobile App
+ORD-5346,2025-01-28,C-1210,Yoga Leggings,Apparel,4,70.31,281.24,Ontario,Mobile App
+ORD-6060,2025-01-28,C-1012,Denim Jacket,Apparel,1,79.43,79.43,Ontario,Mobile App
+ORD-6211,2025-01-28,C-1877,Face Mask Set,Beauty,1,49.7,49.7,British Columbia,Mobile App
+ORD-6630,2025-01-28,C-1482,Bluetooth Speaker,Electronics,3,249.08,747.24,Alberta,Mobile App
+ORD-6398,2025-01-29,C-1160,Dining Set,Home & Kitchen,4,169.53,678.12,Ontario,Website
+ORD-5179,2025-01-30,C-1325,Table Lamp,Home & Kitchen,3,147.04,441.12,Ontario,In-Store Pickup
+ORD-5851,2025-01-30,C-1296,Yoga Mat,Sports,2,228.06,456.12,Ontario,Mobile App
+ORD-6116,2025-01-30,C-1616,Resistance Bands,Sports,1,60.18,60.18,Alberta,Website
+ORD-6320,2025-01-30,C-1769,Cookware Set,Home & Kitchen,2,41.75,83.5,Manitoba,Mobile App
+ORD-5178,2025-01-31,C-1130,Denim Jacket,Apparel,1,100.14,100.14,Ontario,Mobile App
+ORD-5379,2025-01-31,C-1769,Winter Parka,Apparel,2,63.23,126.46,Ontario,Website
+ORD-5413,2025-01-31,C-1748,Hair Dryer,Beauty,1,20.02,20.02,Manitoba,Website
+ORD-5455,2025-01-31,C-1448,Denim Jacket,Apparel,1,108.36,108.36,British Columbia,Mobile App
+ORD-5649,2025-01-31,C-1240,Winter Parka,Apparel,1,108.81,108.81,British Columbia,In-Store Pickup
+ORD-5800,2025-02-01,C-1043,Yoga Leggings,Apparel,4,46.88,187.52,Alberta,In-Store Pickup
+ORD-6699,2025-02-01,C-1721,Resistance Bands,Sports,1,245.46,245.46,Ontario,Website
+ORD-5362,2025-02-02,C-1445,Wireless Headphones,Electronics,3,166.64,499.92,Alberta,In-Store Pickup
+ORD-5018,2025-02-03,C-1163,Robot Vacuum,Home & Kitchen,1,120.38,120.38,Ontario,Website
+ORD-5013,2025-02-04,C-1162,Cotton T-Shirt,Apparel,1,32.74,32.74,Ontario,Mobile App
+ORD-5093,2025-02-04,C-1613,Yoga Mat,Sports,1,208.29,208.29,Ontario,Website
+ORD-5597,2025-02-04,C-1673,Dumbbell Set,Sports,2,209.68,419.36,British Columbia,Website
+ORD-6084,2025-02-04,C-1904,Dining Set,Home & Kitchen,3,151.15,453.45,Ontario,Website
+ORD-6242,2025-02-04,C-1637,Denim Jacket,Apparel,2,97.07,194.14,Alberta,Website
+ORD-6799,2025-02-04,C-1186,Table Lamp,Home & Kitchen,1,72.21,72.21,British Columbia,In-Store Pickup
+ORD-5082,2025-02-05,C-1846,Tennis Racket,Sports,1,224.13,224.13,Quebec,Mobile App
+ORD-5710,2025-02-05,C-1010,Face Mask Set,Beauty,1,22.64,22.64,Alberta,Mobile App
+ORD-6081,2025-02-05,C-1440,Robot Vacuum,Home & Kitchen,2,137.79,275.58,Ontario,In-Store Pickup
+ORD-6316,2025-02-05,C-1243,Hair Dryer,Beauty,1,23.9,23.9,Alberta,Mobile App
+ORD-6994,2025-02-05,C-1201,Perfume,Beauty,1,33.0,33.0,Ontario,Website
+ORD-5691,2025-02-06,C-1880,Winter Parka,Apparel,1,113.41,113.41,Ontario,In-Store Pickup
+ORD-6249,2025-02-06,C-1543,Resistance Bands,Sports,2,73.28,146.56,Ontario,Website
+ORD-6376,2025-02-06,C-1847,Cookware Set,Home & Kitchen,4,166.55,666.2,Alberta,Website
+ORD-6728,2025-02-06,C-1496,Perfume,Beauty,1,56.66,56.66,Quebec,Mobile App
+ORD-6411,2025-02-07,C-1972,Denim Jacket,Apparel,1,31.08,31.08,Quebec,In-Store Pickup
+ORD-6533,2025-02-08,C-1949,Denim Jacket,Apparel,1,30.73,30.73,Quebec,Mobile App
+ORD-6633,2025-02-08,C-1030,Cotton T-Shirt,Apparel,1,29.01,29.01,British Columbia,Website
+ORD-5161,2025-02-09,C-1438,Bluetooth Speaker,Electronics,1,102.85,102.85,Manitoba,Mobile App
+ORD-6111,2025-02-09,C-1963,Wireless Headphones,Electronics,1,161.21,161.21,Quebec,Mobile App
+ORD-6293,2025-02-09,C-1894,Running Shoes,Apparel,3,70.73,212.19,Quebec,Mobile App
+ORD-6978,2025-02-09,C-1122,Tennis Racket,Sports,1,147.74,147.74,Manitoba,Website
+ORD-5371,2025-02-10,C-1933,Resistance Bands,Sports,4,172.72,690.88,Quebec,Mobile App
+ORD-5495,2025-02-10,C-1196,Smart Watch,Electronics,2,82.91,165.82,Ontario,Mobile App
+ORD-5708,2025-02-10,C-1625,USB-C Charger,Electronics,3,192.56,577.68,Ontario,Mobile App
+ORD-5888,2025-02-10,C-1739,Cookware Set,Home & Kitchen,3,163.58,490.74,Quebec,In-Store Pickup
+ORD-6119,2025-02-10,C-1417,Wireless Headphones,Electronics,1,568.86,568.86,Quebec,Mobile App
+ORD-6339,2025-02-10,C-1018,Smart Watch,Electronics,1,334.43,334.43,Ontario,Website
+ORD-6662,2025-02-10,C-1060,Running Shoes,Apparel,1,94.39,94.39,Ontario,Mobile App
+ORD-5111,2025-02-11,C-1169,Smart Watch,Electronics,1,269.01,269.01,Ontario,In-Store Pickup
+ORD-5411,2025-02-11,C-1207,Denim Jacket,Apparel,5,119.71,598.55,Ontario,Website
+ORD-6362,2025-02-11,C-1259,Wireless Headphones,Electronics,1,278.81,278.81,British Columbia,Mobile App
+ORD-6918,2025-02-11,C-1575,Vitamin C Serum,Beauty,1,32.26,32.26,British Columbia,Website
+ORD-5571,2025-02-12,C-1538,Smart Watch,Electronics,3,385.64,1156.92,Ontario,Website
+ORD-5748,2025-02-12,C-1806,Robot Vacuum,Home & Kitchen,3,134.01,402.03,Ontario,Website
+ORD-6166,2025-02-12,C-1934,Moisturizer,Beauty,2,25.48,50.96,Ontario,In-Store Pickup
+ORD-6257,2025-02-12,C-1276,Vitamin C Serum,Beauty,1,43.57,43.57,Alberta,Website
+ORD-6578,2025-02-12,C-1519,Robot Vacuum,Home & Kitchen,2,49.42,98.84,Ontario,Website
+ORD-5064,2025-02-13,C-1433,Cookware Set,Home & Kitchen,1,41.83,41.83,British Columbia,Website
+ORD-5433,2025-02-13,C-1232,Running Shoes,Apparel,1,45.94,45.94,Ontario,Mobile App
+ORD-6934,2025-02-14,C-1318,Bluetooth Speaker,Electronics,1,452.6,452.6,British Columbia,Website
+ORD-5686,2025-02-16,C-1918,Cookware Set,Home & Kitchen,1,185.5,185.5,Quebec,Website
+ORD-5727,2025-02-16,C-1027,Yoga Leggings,Apparel,1,63.84,63.84,Quebec,Website
+ORD-6270,2025-02-16,C-1068,Laptop Stand,Electronics,1,249.38,249.38,Alberta,Mobile App
+ORD-5914,2025-02-17,C-1968,Dining Set,Home & Kitchen,2,100.46,200.92,Ontario,Website
+ORD-6007,2025-02-17,C-1946,Smart Watch,Electronics,1,538.78,538.78,Alberta,Mobile App
+ORD-6307,2025-02-17,C-1904,Running Shoes,Apparel,1,63.37,63.37,Quebec,Mobile App
+ORD-6393,2025-02-17,C-1922,USB-C Charger,Electronics,1,294.42,294.42,Alberta,Website
+ORD-5261,2025-02-18,C-1841,Wireless Headphones,Electronics,1,596.66,596.66,Ontario,Mobile App
+ORD-6356,2025-02-18,C-1826,Robot Vacuum,Home & Kitchen,1,62.97,62.97,Manitoba,Mobile App
+ORD-6861,2025-02-18,C-1931,Smart Watch,Electronics,4,472.23,1888.92,Ontario,Website
+ORD-5628,2025-02-19,C-1059,Robot Vacuum,Home & Kitchen,1,52.77,52.77,Ontario,Mobile App
+ORD-5928,2025-02-19,C-1794,Cotton T-Shirt,Apparel,3,79.15,237.45,Ontario,Website
+ORD-6109,2025-02-19,C-1567,Face Mask Set,Beauty,2,34.13,68.26,Quebec,Mobile App
+ORD-6133,2025-02-19,C-1351,Yoga Leggings,Apparel,3,72.04,216.12,Alberta,Website
+ORD-6243,2025-02-19,C-1079,Winter Parka,Apparel,1,96.41,96.41,Ontario,In-Store Pickup
+ORD-6938,2025-02-19,C-1707,USB-C Charger,Electronics,1,356.6,356.6,British Columbia,Mobile App
+ORD-5183,2025-02-20,C-1099,Yoga Leggings,Apparel,1,53.03,53.03,Ontario,Mobile App
+ORD-6279,2025-02-20,C-1697,Cotton T-Shirt,Apparel,2,55.76,111.52,Ontario,Website
+ORD-6371,2025-02-20,C-1589,Denim Jacket,Apparel,1,67.2,67.2,Quebec,Website
+ORD-5238,2025-02-21,C-1308,Running Shoes,Apparel,1,45.15,45.15,Ontario,Mobile App
+ORD-6222,2025-02-21,C-1603,Table Lamp,Home & Kitchen,1,159.4,159.4,Alberta,Mobile App
+ORD-6306,2025-02-21,C-1612,Moisturizer,Beauty,1,48.06,48.06,Quebec,Mobile App
+ORD-6897,2025-02-21,C-1562,Vitamin C Serum,Beauty,1,23.68,23.68,Ontario,Website
+ORD-6972,2025-02-21,C-1100,Winter Parka,Apparel,1,55.32,55.32,Quebec,Website
+ORD-5195,2025-02-22,C-1177,Perfume,Beauty,1,42.7,42.7,Alberta,Mobile App
+ORD-5908,2025-02-22,C-1755,Denim Jacket,Apparel,1,38.09,38.09,Ontario,Mobile App
+ORD-6180,2025-02-22,C-1725,Wireless Headphones,Electronics,3,267.29,801.87,Ontario,In-Store Pickup
+ORD-5036,2025-02-23,C-1280,Table Lamp,Home & Kitchen,5,90.54,452.7,Ontario,Website
+ORD-6738,2025-02-23,C-1942,Vitamin C Serum,Beauty,1,13.57,13.57,Quebec,Website
+ORD-5302,2025-02-24,C-1241,Table Lamp,Home & Kitchen,1,138.07,138.07,British Columbia,Website
+ORD-6175,2025-02-24,C-1985,Moisturizer,Beauty,5,45.78,228.9,Ontario,Website
+ORD-6722,2025-02-24,C-1457,Cookware Set,Home & Kitchen,4,174.73,698.92,Manitoba,Mobile App
+ORD-6967,2025-02-24,C-1755,Yoga Leggings,Apparel,1,108.74,108.74,Manitoba,Mobile App
+ORD-5435,2025-02-25,C-1322,Air Fryer,Home & Kitchen,1,51.6,51.6,Quebec,Mobile App
+ORD-5990,2025-02-25,C-1510,Cookware Set,Home & Kitchen,1,110.34,110.34,Manitoba,Mobile App
+ORD-5817,2025-02-26,C-1592,Air Fryer,Home & Kitchen,1,102.45,102.45,British Columbia,Mobile App
+ORD-5940,2025-02-26,C-1205,Smart Watch,Electronics,1,574.73,574.73,Ontario,Mobile App
+ORD-5395,2025-02-27,C-1914,Winter Parka,Apparel,1,41.66,41.66,Manitoba,Website
+ORD-5422,2025-02-27,C-1124,Perfume,Beauty,1,31.08,31.08,Quebec,Mobile App
+ORD-6327,2025-02-27,C-1690,Table Lamp,Home & Kitchen,1,165.22,165.22,Ontario,Website
+ORD-6336,2025-02-27,C-1489,Running Shoes,Apparel,3,119.69,359.07,Ontario,Website
+ORD-6561,2025-02-27,C-1883,Tennis Racket,Sports,1,222.95,222.95,Alberta,Website
+ORD-6563,2025-02-27,C-1246,Cookware Set,Home & Kitchen,1,162.94,162.94,British Columbia,Website
+ORD-5008,2025-02-28,C-1600,Cookware Set,Home & Kitchen,1,143.66,143.66,Quebec,Mobile App
+ORD-5921,2025-02-28,C-1617,Moisturizer,Beauty,2,47.23,94.46,Ontario,In-Store Pickup
+ORD-5936,2025-02-28,C-1645,Winter Parka,Apparel,3,42.41,127.23,Quebec,Website
+ORD-6159,2025-02-28,C-1881,Running Shoes,Apparel,3,38.77,116.31,Alberta,Mobile App
+ORD-6457,2025-02-28,C-1611,USB-C Charger,Electronics,1,397.7,397.7,Ontario,In-Store Pickup
+ORD-5774,2025-03-01,C-1333,USB-C Charger,Electronics,1,126.42,126.42,British Columbia,In-Store Pickup
+ORD-6811,2025-03-01,C-1530,Yoga Leggings,Apparel,2,44.54,89.08,Ontario,In-Store Pickup
+ORD-6886,2025-03-01,C-1699,USB-C Charger,Electronics,1,404.33,404.33,Quebec,Website
+ORD-5042,2025-03-02,C-1654,USB-C Charger,Electronics,3,595.38,1786.14,British Columbia,Website
+ORD-6189,2025-03-02,C-1454,Smart Watch,Electronics,1,278.94,278.94,Quebec,Mobile App
+ORD-6966,2025-03-02,C-1917,Vitamin C Serum,Beauty,2,53.51,107.02,British Columbia,In-Store Pickup
+ORD-5356,2025-03-03,C-1357,Denim Jacket,Apparel,1,42.3,42.3,Ontario,Mobile App
+ORD-5387,2025-03-03,C-1482,Table Lamp,Home & Kitchen,1,86.7,86.7,Ontario,Website
+ORD-6545,2025-03-03,C-1276,Bluetooth Speaker,Electronics,1,412.28,412.28,Ontario,Mobile App
+ORD-6716,2025-03-03,C-1746,Wireless Headphones,Electronics,1,489.73,489.73,Ontario,Mobile App
+ORD-5177,2025-03-04,C-1888,Tennis Racket,Sports,1,229.69,229.69,Ontario,In-Store Pickup
+ORD-5631,2025-03-04,C-1846,USB-C Charger,Electronics,1,311.39,311.39,Alberta,In-Store Pickup
+ORD-6858,2025-03-04,C-1377,Wireless Headphones,Electronics,2,512.36,1024.72,Ontario,Website
+ORD-5439,2025-03-05,C-1779,USB-C Charger,Electronics,1,258.25,258.25,British Columbia,Website
+ORD-6800,2025-03-05,C-1277,Wireless Headphones,Electronics,3,170.01,510.03,British Columbia,In-Store Pickup
+ORD-5998,2025-03-06,C-1185,Table Lamp,Home & Kitchen,2,70.87,141.74,Manitoba,Mobile App
+ORD-6385,2025-03-06,C-1735,USB-C Charger,Electronics,2,142.36,284.72,Alberta,Website
+ORD-6999,2025-03-06,C-1653,Air Fryer,Home & Kitchen,1,164.16,164.16,Ontario,Website
+ORD-5255,2025-03-07,C-1757,Bluetooth Speaker,Electronics,2,508.43,1016.86,Ontario,Mobile App
+ORD-5995,2025-03-07,C-1957,USB-C Charger,Electronics,1,472.34,472.34,Ontario,Website
+ORD-6128,2025-03-07,C-1860,Wireless Headphones,Electronics,2,191.55,383.1,Quebec,Mobile App
+ORD-6929,2025-03-07,C-1519,Wireless Headphones,Electronics,1,174.41,174.41,Manitoba,Website
+ORD-5373,2025-03-08,C-1641,Winter Parka,Apparel,1,38.14,38.14,Ontario,Website
+ORD-6131,2025-03-08,C-1700,Resistance Bands,Sports,3,39.89,119.67,Alberta,Mobile App
+ORD-6310,2025-03-08,C-1357,Denim Jacket,Apparel,2,29.03,58.06,Alberta,Website
+ORD-6329,2025-03-08,C-1526,USB-C Charger,Electronics,1,543.07,543.07,Quebec,In-Store Pickup
+ORD-5789,2025-03-09,C-1112,Hair Dryer,Beauty,5,33.38,166.9,Quebec,Website
+ORD-6103,2025-03-09,C-1380,Resistance Bands,Sports,1,164.48,164.48,Quebec,Website
+ORD-6313,2025-03-09,C-1272,Yoga Leggings,Apparel,1,24.84,24.84,Ontario,Mobile App
+ORD-5137,2025-03-10,C-1553,Wireless Headphones,Electronics,1,317.3,317.3,Alberta,Website
+ORD-6058,2025-03-10,C-1707,Bluetooth Speaker,Electronics,1,439.54,439.54,Ontario,Website
+ORD-6424,2025-03-10,C-1783,Resistance Bands,Sports,3,96.55,289.65,Ontario,Website
+ORD-6768,2025-03-10,C-1457,Cookware Set,Home & Kitchen,1,40.52,40.52,Ontario,Mobile App
+ORD-5243,2025-03-11,C-1637,Face Mask Set,Beauty,2,37.69,75.38,Ontario,Website
+ORD-5536,2025-03-11,C-1954,Denim Jacket,Apparel,1,77.27,77.27,Ontario,In-Store Pickup
+ORD-5007,2025-03-12,C-1516,Winter Parka,Apparel,2,29.67,59.34,Ontario,Website
+ORD-5636,2025-03-12,C-1624,Running Shoes,Apparel,1,85.55,85.55,British Columbia,In-Store Pickup
+ORD-5919,2025-03-12,C-1177,Robot Vacuum,Home & Kitchen,3,119.8,359.4,Quebec,In-Store Pickup
+ORD-5199,2025-03-14,C-1230,Denim Jacket,Apparel,4,53.25,213.0,Alberta,Website
+ORD-6073,2025-03-14,C-1901,Table Lamp,Home & Kitchen,2,109.2,218.4,Ontario,Mobile App
+ORD-6734,2025-03-14,C-1165,Bluetooth Speaker,Electronics,1,105.49,105.49,Quebec,Mobile App
+ORD-6869,2025-03-14,C-1435,Yoga Leggings,Apparel,1,109.49,109.49,British Columbia,Mobile App
+ORD-5931,2025-03-15,C-1768,Table Lamp,Home & Kitchen,1,51.13,51.13,Ontario,Website
+ORD-6324,2025-03-16,C-1450,Smart Watch,Electronics,1,491.93,491.93,Ontario,Website
+ORD-6028,2025-03-18,C-1430,Running Shoes,Apparel,5,67.75,338.75,Ontario,Mobile App
+ORD-6190,2025-03-18,C-1908,Air Fryer,Home & Kitchen,1,31.61,31.61,Ontario,Website
+ORD-6605,2025-03-18,C-1175,Table Lamp,Home & Kitchen,1,163.04,163.04,Ontario,Website
+ORD-5627,2025-03-19,C-1023,Resistance Bands,Sports,2,68.22,136.44,Quebec,Website
+ORD-6532,2025-03-19,C-1080,Dining Set,Home & Kitchen,1,92.75,92.75,Quebec,Website
+ORD-6537,2025-03-19,C-1805,Bluetooth Speaker,Electronics,1,160.68,160.68,Quebec,In-Store Pickup
+ORD-6742,2025-03-19,C-1636,Resistance Bands,Sports,1,211.33,211.33,Ontario,Website
+ORD-6755,2025-03-19,C-1329,Perfume,Beauty,1,42.89,42.89,British Columbia,Website
+ORD-6727,2025-03-20,C-1210,Denim Jacket,Apparel,2,95.63,191.26,Alberta,Website
+ORD-5110,2025-03-21,C-1318,Perfume,Beauty,3,17.05,51.15,Alberta,In-Store Pickup
+ORD-5188,2025-03-21,C-1536,Winter Parka,Apparel,1,106.15,106.15,Alberta,Mobile App
+ORD-5877,2025-03-21,C-1302,Dumbbell Set,Sports,2,213.52,427.04,Quebec,Website
+ORD-6122,2025-03-21,C-1994,Air Fryer,Home & Kitchen,2,36.8,73.6,Quebec,Mobile App
+ORD-6298,2025-03-21,C-1638,Robot Vacuum,Home & Kitchen,2,85.31,170.62,Ontario,Mobile App
+ORD-6380,2025-03-21,C-1876,Air Fryer,Home & Kitchen,1,107.91,107.91,Ontario,Mobile App
+ORD-6782,2025-03-21,C-1867,Running Shoes,Apparel,1,40.5,40.5,Quebec,Website
+ORD-5569,2025-03-22,C-1789,Tennis Racket,Sports,3,194.0,582.0,Alberta,Website
+ORD-6117,2025-03-22,C-1816,Perfume,Beauty,1,46.75,46.75,Ontario,Mobile App
+ORD-5224,2025-03-23,C-1095,Tennis Racket,Sports,5,112.3,561.5,Ontario,Website
+ORD-6408,2025-03-23,C-1137,Tennis Racket,Sports,2,72.53,145.06,Ontario,Website
+ORD-6871,2025-03-23,C-1812,Laptop Stand,Electronics,1,522.67,522.67,Quebec,Mobile App
+ORD-6922,2025-03-23,C-1741,Denim Jacket,Apparel,4,93.66,374.64,British Columbia,Website
+ORD-5884,2025-03-24,C-1302,Denim Jacket,Apparel,1,56.85,56.85,Ontario,Mobile App
+ORD-6647,2025-03-24,C-1418,Dumbbell Set,Sports,1,181.61,181.61,Ontario,Mobile App
+ORD-6831,2025-03-24,C-1923,Denim Jacket,Apparel,1,74.18,74.18,Ontario,Mobile App
+ORD-5321,2025-03-25,C-1914,Smart Watch,Electronics,1,272.76,272.76,Quebec,Mobile App
+ORD-5663,2025-03-25,C-1586,Running Shoes,Apparel,2,81.79,163.58,Quebec,Website
+ORD-5676,2025-03-25,C-1943,Moisturizer,Beauty,1,36.02,36.02,Alberta,Mobile App
+ORD-6196,2025-03-25,C-1232,Dumbbell Set,Sports,1,132.21,132.21,Ontario,Website
+ORD-6230,2025-03-25,C-1960,Table Lamp,Home & Kitchen,4,115.78,463.12,Ontario,Website
+ORD-6499,2025-03-26,C-1819,Denim Jacket,Apparel,1,86.77,86.77,Ontario,Website
+ORD-5409,2025-03-27,C-1771,Yoga Leggings,Apparel,3,118.95,356.85,British Columbia,In-Store Pickup
+ORD-5266,2025-03-28,C-1132,Smart Watch,Electronics,5,344.52,1722.6,Ontario,Mobile App
+ORD-5898,2025-03-28,C-1823,Running Shoes,Apparel,1,97.19,97.19,Alberta,Website
+ORD-6167,2025-03-28,C-1468,Winter Parka,Apparel,2,79.2,158.4,Ontario,Website
+ORD-5932,2025-03-29,C-1532,Face Mask Set,Beauty,1,59.18,59.18,Ontario,In-Store Pickup
+ORD-5469,2025-03-30,C-1569,Laptop Stand,Electronics,1,405.9,405.9,Ontario,Website
+ORD-5640,2025-03-30,C-1338,Winter Parka,Apparel,3,115.61,346.83,Ontario,In-Store Pickup
+ORD-6221,2025-03-30,C-1543,Cotton T-Shirt,Apparel,1,47.9,47.9,British Columbia,Mobile App
+ORD-6779,2025-03-30,C-1823,Vitamin C Serum,Beauty,1,38.28,38.28,Manitoba,Website
+ORD-6579,2025-03-31,C-1675,Air Fryer,Home & Kitchen,3,92.01,276.03,British Columbia,Mobile App
+ORD-6959,2025-03-31,C-1403,Robot Vacuum,Home & Kitchen,1,117.63,117.63,Ontario,Mobile App
+ORD-5047,2025-04-01,C-1530,Yoga Leggings,Apparel,1,55.38,55.38,Ontario,Mobile App
+ORD-5124,2025-04-01,C-1928,Yoga Leggings,Apparel,1,92.29,92.29,Quebec,Mobile App
+ORD-5206,2025-04-01,C-1667,Cotton T-Shirt,Apparel,4,111.19,444.76,Ontario,Mobile App
+ORD-5529,2025-04-01,C-1050,Yoga Leggings,Apparel,1,34.81,34.81,Ontario,Mobile App
+ORD-5650,2025-04-01,C-1969,Winter Parka,Apparel,1,30.3,30.3,Quebec,Website
+ORD-6714,2025-04-01,C-1806,Wireless Headphones,Electronics,2,197.72,395.44,Ontario,Mobile App
+ORD-5045,2025-04-02,C-1905,USB-C Charger,Electronics,1,390.69,390.69,Alberta,Mobile App
+ORD-5830,2025-04-02,C-1196,Cotton T-Shirt,Apparel,1,64.44,64.44,British Columbia,Website
+ORD-6226,2025-04-02,C-1742,Dining Set,Home & Kitchen,1,108.59,108.59,Ontario,Mobile App
+ORD-6933,2025-04-02,C-1013,Laptop Stand,Electronics,2,128.96,257.92,Alberta,Website
+ORD-6476,2025-04-03,C-1834,Vitamin C Serum,Beauty,1,33.09,33.09,Alberta,Mobile App
+ORD-6527,2025-04-03,C-1362,Smart Watch,Electronics,4,574.93,2299.72,Ontario,In-Store Pickup
+ORD-6893,2025-04-03,C-1193,Yoga Mat,Sports,1,34.91,34.91,Ontario,Website
+ORD-6521,2025-04-04,C-1297,Running Shoes,Apparel,1,93.57,93.57,Ontario,Mobile App
+ORD-5611,2025-04-05,C-1269,Wireless Headphones,Electronics,4,583.71,2334.84,Ontario,Website
+ORD-5852,2025-04-06,C-1156,Table Lamp,Home & Kitchen,2,184.86,369.72,Ontario,Website
+ORD-5861,2025-04-06,C-1304,Table Lamp,Home & Kitchen,1,26.33,26.33,Manitoba,In-Store Pickup
+ORD-6387,2025-04-06,C-1939,Smart Watch,Electronics,1,436.56,436.56,Quebec,Website
+ORD-6483,2025-04-06,C-1160,Smart Watch,Electronics,1,125.0,125.0,Quebec,Website
+ORD-5106,2025-04-07,C-1919,Cotton T-Shirt,Apparel,1,99.34,99.34,British Columbia,In-Store Pickup
+ORD-5466,2025-04-07,C-1402,Table Lamp,Home & Kitchen,1,70.44,70.44,Ontario,Mobile App
+ORD-6787,2025-04-07,C-1815,Dining Set,Home & Kitchen,1,198.62,198.62,Ontario,Mobile App
+ORD-6982,2025-04-07,C-1787,Moisturizer,Beauty,1,36.59,36.59,British Columbia,Mobile App
+ORD-6069,2025-04-08,C-1790,Hair Dryer,Beauty,1,28.22,28.22,Quebec,In-Store Pickup
+ORD-6802,2025-04-08,C-1610,Tennis Racket,Sports,1,117.24,117.24,Quebec,Mobile App
+ORD-5452,2025-04-09,C-1295,Smart Watch,Electronics,1,567.55,567.55,British Columbia,Website
+ORD-6195,2025-04-09,C-1975,Dumbbell Set,Sports,1,144.48,144.48,Ontario,Website
+ORD-6200,2025-04-09,C-1022,Vitamin C Serum,Beauty,2,26.6,53.2,Ontario,Mobile App
+ORD-5596,2025-04-10,C-1791,Robot Vacuum,Home & Kitchen,1,169.32,169.32,Ontario,Website
+ORD-6505,2025-04-10,C-1936,Yoga Leggings,Apparel,2,62.55,125.1,Quebec,Website
+ORD-6277,2025-04-11,C-1168,Bicycle Helmet,Sports,1,166.42,166.42,Ontario,Mobile App
+ORD-6477,2025-04-11,C-1735,Laptop Stand,Electronics,1,115.93,115.93,Quebec,Website
+ORD-6562,2025-04-11,C-1465,Dumbbell Set,Sports,4,215.19,860.76,Ontario,In-Store Pickup
+ORD-6731,2025-04-11,C-1860,Wireless Headphones,Electronics,1,530.35,530.35,Ontario,Mobile App
+ORD-6821,2025-04-11,C-1467,Running Shoes,Apparel,1,98.82,98.82,Quebec,Mobile App
+ORD-5005,2025-04-12,C-1408,Air Fryer,Home & Kitchen,3,142.53,427.59,Ontario,In-Store Pickup
+ORD-5462,2025-04-12,C-1982,Wireless Headphones,Electronics,1,190.88,190.88,Quebec,Website
+ORD-5715,2025-04-12,C-1542,Bicycle Helmet,Sports,1,146.86,146.86,Manitoba,In-Store Pickup
+ORD-5790,2025-04-12,C-1327,Dumbbell Set,Sports,1,113.16,113.16,Ontario,Website
+ORD-6464,2025-04-12,C-1493,Laptop Stand,Electronics,1,346.58,346.58,Quebec,Website
+ORD-6543,2025-04-12,C-1716,Cookware Set,Home & Kitchen,1,158.7,158.7,Ontario,In-Store Pickup
+ORD-6846,2025-04-12,C-1897,Dining Set,Home & Kitchen,2,91.06,182.12,Quebec,Website
+ORD-5086,2025-04-13,C-1804,Laptop Stand,Electronics,3,382.37,1147.11,Alberta,Website
+ORD-5103,2025-04-14,C-1675,Smart Watch,Electronics,1,429.66,429.66,British Columbia,Mobile App
+ORD-5935,2025-04-14,C-1098,Hair Dryer,Beauty,1,58.25,58.25,Ontario,In-Store Pickup
+ORD-6208,2025-04-14,C-1533,Cotton T-Shirt,Apparel,1,39.97,39.97,Ontario,Website
+ORD-6776,2025-04-14,C-1126,Yoga Leggings,Apparel,2,34.38,68.76,Quebec,In-Store Pickup
+ORD-5391,2025-04-15,C-1494,Winter Parka,Apparel,1,118.67,118.67,Ontario,Mobile App
+ORD-5849,2025-04-15,C-1606,Yoga Mat,Sports,1,213.08,213.08,Alberta,Mobile App
+ORD-5016,2025-04-16,C-1316,Cookware Set,Home & Kitchen,1,183.13,183.13,Alberta,In-Store Pickup
+ORD-6234,2025-04-16,C-1526,Moisturizer,Beauty,1,38.91,38.91,Ontario,Mobile App
+ORD-5174,2025-04-17,C-1116,Yoga Mat,Sports,2,138.45,276.9,British Columbia,Mobile App
+ORD-5197,2025-04-17,C-1459,Table Lamp,Home & Kitchen,3,175.47,526.41,Alberta,In-Store Pickup
+ORD-5706,2025-04-17,C-1174,Resistance Bands,Sports,2,187.13,374.26,Ontario,Website
+ORD-6023,2025-04-18,C-1337,Face Mask Set,Beauty,1,56.87,56.87,Quebec,Mobile App
+ORD-6958,2025-04-18,C-1354,Denim Jacket,Apparel,3,50.55,151.65,Ontario,Website
+ORD-5532,2025-04-19,C-1075,Wireless Headphones,Electronics,1,590.21,590.21,Ontario,Mobile App
+ORD-6774,2025-04-19,C-1377,Dining Set,Home & Kitchen,1,149.76,149.76,Alberta,Website
+ORD-5412,2025-04-20,C-1104,Winter Parka,Apparel,1,92.89,92.89,Quebec,In-Store Pickup
+ORD-5465,2025-04-20,C-1165,Wireless Headphones,Electronics,2,115.36,230.72,Ontario,Mobile App
+ORD-5294,2025-04-21,C-1331,Smart Watch,Electronics,2,324.23,648.46,Ontario,Mobile App
+ORD-5880,2025-04-21,C-1767,Dumbbell Set,Sports,2,43.64,87.28,Ontario,Website
+ORD-6008,2025-04-21,C-1030,Bluetooth Speaker,Electronics,1,127.76,127.76,British Columbia,Website
+ORD-5684,2025-04-22,C-1955,Resistance Bands,Sports,1,183.29,183.29,Ontario,Mobile App
+ORD-5868,2025-04-22,C-1368,Moisturizer,Beauty,1,51.28,51.28,Alberta,Website
+ORD-6158,2025-04-22,C-1800,Yoga Leggings,Apparel,1,31.02,31.02,British Columbia,In-Store Pickup
+ORD-6911,2025-04-22,C-1221,Air Fryer,Home & Kitchen,1,95.62,95.62,British Columbia,Website
+ORD-6396,2025-04-23,C-1955,Dining Set,Home & Kitchen,2,177.22,354.44,Quebec,Mobile App
+ORD-6682,2025-04-23,C-1368,Bluetooth Speaker,Electronics,2,204.23,408.46,Manitoba,Mobile App
+ORD-6996,2025-04-23,C-1949,Yoga Leggings,Apparel,2,55.15,110.3,Alberta,Website
+ORD-5049,2025-04-24,C-1547,Denim Jacket,Apparel,1,30.26,30.26,Ontario,Mobile App
+ORD-5123,2025-04-24,C-1064,Face Mask Set,Beauty,1,11.95,11.95,Manitoba,Website
+ORD-5752,2025-04-24,C-1768,Wireless Headphones,Electronics,1,204.89,204.89,Ontario,Mobile App
+ORD-6125,2025-04-24,C-1526,Face Mask Set,Beauty,4,51.75,207.0,Ontario,Mobile App
+ORD-5056,2025-04-26,C-1259,Laptop Stand,Electronics,1,325.67,325.67,Ontario,Mobile App
+ORD-5077,2025-04-26,C-1735,USB-C Charger,Electronics,2,240.24,480.48,Ontario,Website
+ORD-5406,2025-04-26,C-1922,Denim Jacket,Apparel,1,43.49,43.49,Quebec,Mobile App
+ORD-5497,2025-04-26,C-1496,Vitamin C Serum,Beauty,1,17.85,17.85,Ontario,Website
+ORD-5768,2025-04-26,C-1897,Yoga Mat,Sports,1,102.37,102.37,British Columbia,Mobile App
+ORD-6314,2025-04-26,C-1989,Winter Parka,Apparel,1,38.88,38.88,Ontario,Website
+ORD-6395,2025-04-26,C-1969,Hair Dryer,Beauty,1,57.37,57.37,Alberta,Website
+ORD-6826,2025-04-26,C-1176,Yoga Leggings,Apparel,4,63.54,254.16,British Columbia,Website
+ORD-5587,2025-04-27,C-1413,Vitamin C Serum,Beauty,2,28.94,57.88,Quebec,Mobile App
+ORD-5311,2025-04-28,C-1478,Cookware Set,Home & Kitchen,2,45.64,91.28,British Columbia,Website
+ORD-6892,2025-04-28,C-1319,Dumbbell Set,Sports,3,103.04,309.12,Ontario,Mobile App
+ORD-6968,2025-04-28,C-1360,Running Shoes,Apparel,2,38.09,76.18,Ontario,Mobile App
+ORD-6064,2025-04-29,C-1463,Tennis Racket,Sports,1,120.04,120.04,Alberta,In-Store Pickup
+ORD-6067,2025-04-29,C-1563,Cotton T-Shirt,Apparel,2,67.42,134.84,Quebec,Website
+ORD-5492,2025-04-30,C-1308,Yoga Leggings,Apparel,1,26.76,26.76,Quebec,Website
+ORD-5973,2025-04-30,C-1215,Bluetooth Speaker,Electronics,3,495.3,1485.9,Ontario,In-Store Pickup
+ORD-6309,2025-04-30,C-1711,Bicycle Helmet,Sports,1,224.32,224.32,British Columbia,In-Store Pickup
+ORD-6333,2025-04-30,C-1417,Winter Parka,Apparel,1,27.57,27.57,Quebec,Mobile App
+ORD-6363,2025-04-30,C-1005,Winter Parka,Apparel,3,66.03,198.09,Quebec,Mobile App
+ORD-5802,2025-05-01,C-1381,Running Shoes,Apparel,1,82.14,82.14,Ontario,In-Store Pickup
+ORD-6218,2025-05-01,C-1311,USB-C Charger,Electronics,2,451.11,902.22,Manitoba,In-Store Pickup
+ORD-5217,2025-05-03,C-1606,USB-C Charger,Electronics,1,192.37,192.37,Alberta,Website
+ORD-5977,2025-05-03,C-1141,Dining Set,Home & Kitchen,2,128.32,256.64,Ontario,Website
+ORD-6274,2025-05-03,C-1867,Smart Watch,Electronics,1,474.02,474.02,Quebec,In-Store Pickup
+ORD-5152,2025-05-04,C-1095,Cookware Set,Home & Kitchen,1,142.01,142.01,Ontario,Mobile App
+ORD-5200,2025-05-04,C-1166,Wireless Headphones,Electronics,1,219.9,219.9,Quebec,Mobile App
+ORD-6045,2025-05-04,C-1402,Yoga Leggings,Apparel,2,68.07,136.14,Ontario,In-Store Pickup
+ORD-6129,2025-05-04,C-1946,Tennis Racket,Sports,3,183.61,550.83,Manitoba,Website
+ORD-6289,2025-05-04,C-1573,Wireless Headphones,Electronics,1,108.67,108.67,British Columbia,Mobile App
+ORD-6814,2025-05-04,C-1669,Dining Set,Home & Kitchen,1,186.19,186.19,Alberta,Mobile App
+ORD-6092,2025-05-05,C-1670,Vitamin C Serum,Beauty,1,27.98,27.98,Quebec,Website
+ORD-6767,2025-05-05,C-1844,Yoga Leggings,Apparel,1,29.58,29.58,Ontario,Mobile App
+ORD-5234,2025-05-06,C-1361,Cotton T-Shirt,Apparel,2,107.72,215.44,Quebec,Website
+ORD-5301,2025-05-06,C-1815,Running Shoes,Apparel,4,102.54,410.16,Quebec,Website
+ORD-5664,2025-05-06,C-1725,Table Lamp,Home & Kitchen,3,153.86,461.58,British Columbia,Mobile App
+ORD-6990,2025-05-06,C-1348,Laptop Stand,Electronics,2,307.34,614.68,Quebec,Mobile App
+ORD-5760,2025-05-07,C-1026,Perfume,Beauty,3,13.41,40.23,Ontario,Mobile App
+ORD-5818,2025-05-07,C-1046,Laptop Stand,Electronics,1,574.34,574.34,British Columbia,In-Store Pickup
+ORD-6632,2025-05-07,C-1849,Dining Set,Home & Kitchen,1,32.74,32.74,British Columbia,In-Store Pickup
+ORD-6940,2025-05-07,C-1354,Smart Watch,Electronics,1,309.7,309.7,Alberta,Website
+ORD-6984,2025-05-07,C-1036,Moisturizer,Beauty,2,46.51,93.02,Quebec,Mobile App
+ORD-6113,2025-05-09,C-1804,Dumbbell Set,Sports,1,86.05,86.05,Quebec,Website
+ORD-6659,2025-05-09,C-1882,Dining Set,Home & Kitchen,5,42.38,211.9,Ontario,Mobile App
+ORD-6820,2025-05-09,C-1232,Dumbbell Set,Sports,5,175.2,876.0,Ontario,Website
+ORD-6883,2025-05-09,C-1555,Bicycle Helmet,Sports,3,148.37,445.11,British Columbia,In-Store Pickup
+ORD-6937,2025-05-09,C-1123,USB-C Charger,Electronics,1,287.96,287.96,Ontario,Website
+ORD-5437,2025-05-10,C-1221,Laptop Stand,Electronics,1,447.2,447.2,Ontario,Website
+ORD-5638,2025-05-10,C-1002,Bicycle Helmet,Sports,1,202.23,202.23,Alberta,Mobile App
+ORD-6082,2025-05-10,C-1474,Dumbbell Set,Sports,3,88.63,265.89,Manitoba,Mobile App
+ORD-6224,2025-05-11,C-1197,Robot Vacuum,Home & Kitchen,1,86.46,86.46,Ontario,Mobile App
+ORD-6577,2025-05-11,C-1939,Cotton T-Shirt,Apparel,1,49.33,49.33,Ontario,Website
+ORD-6676,2025-05-11,C-1962,Face Mask Set,Beauty,2,15.02,30.04,Alberta,Mobile App
+ORD-5252,2025-05-12,C-1626,Hair Dryer,Beauty,2,39.39,78.78,Ontario,Mobile App
+ORD-5515,2025-05-12,C-1851,Bluetooth Speaker,Electronics,1,448.79,448.79,Ontario,Website
+ORD-6510,2025-05-12,C-1683,Bicycle Helmet,Sports,1,103.5,103.5,Alberta,Website
+ORD-5415,2025-05-13,C-1754,Yoga Mat,Sports,4,87.12,348.48,Manitoba,In-Store Pickup
+ORD-6026,2025-05-13,C-1967,Bluetooth Speaker,Electronics,1,191.72,191.72,Quebec,Mobile App
+ORD-6443,2025-05-13,C-1327,Yoga Leggings,Apparel,3,56.32,168.96,British Columbia,Mobile App
+ORD-5259,2025-05-14,C-1094,Running Shoes,Apparel,1,113.76,113.76,Ontario,Website
+ORD-5545,2025-05-14,C-1056,USB-C Charger,Electronics,1,421.01,421.01,Manitoba,Website
+ORD-6691,2025-05-14,C-1046,Cookware Set,Home & Kitchen,1,27.75,27.75,Quebec,In-Store Pickup
+ORD-6794,2025-05-14,C-1752,Winter Parka,Apparel,2,104.94,209.88,Ontario,Mobile App
+ORD-5067,2025-05-15,C-1112,Bicycle Helmet,Sports,3,84.67,254.01,British Columbia,Website
+ORD-6793,2025-05-15,C-1357,Running Shoes,Apparel,1,42.45,42.45,Ontario,Mobile App
+ORD-5107,2025-05-16,C-1210,Dining Set,Home & Kitchen,2,192.12,384.24,Quebec,Website
+ORD-5159,2025-05-16,C-1842,Wireless Headphones,Electronics,1,569.88,569.88,Quebec,In-Store Pickup
+ORD-6706,2025-05-16,C-1250,Tennis Racket,Sports,1,161.56,161.56,Quebec,Website
+ORD-5051,2025-05-17,C-1636,Denim Jacket,Apparel,1,76.28,76.28,Ontario,Mobile App
+ORD-5417,2025-05-17,C-1798,Resistance Bands,Sports,1,94.74,94.74,British Columbia,Website
+ORD-5855,2025-05-17,C-1660,Cotton T-Shirt,Apparel,1,72.08,72.08,Ontario,In-Store Pickup
+ORD-5742,2025-05-18,C-1195,Tennis Racket,Sports,1,243.32,243.32,Ontario,Website
+ORD-6390,2025-05-18,C-1811,Table Lamp,Home & Kitchen,1,85.47,85.47,Ontario,Website
+ORD-6775,2025-05-18,C-1778,Running Shoes,Apparel,1,71.31,71.31,British Columbia,Website
+ORD-5332,2025-05-19,C-1848,Dining Set,Home & Kitchen,1,34.91,34.91,Ontario,Mobile App
+ORD-6248,2025-05-19,C-1319,Laptop Stand,Electronics,1,224.41,224.41,Ontario,Mobile App
+ORD-6308,2025-05-19,C-1639,Moisturizer,Beauty,1,58.33,58.33,Ontario,Mobile App
+ORD-6334,2025-05-19,C-1693,Denim Jacket,Apparel,1,87.78,87.78,Ontario,Mobile App
+ORD-5104,2025-05-20,C-1152,Dumbbell Set,Sports,3,114.55,343.65,Ontario,Mobile App
+ORD-5239,2025-05-20,C-1730,Hair Dryer,Beauty,2,56.83,113.66,Alberta,Website
+ORD-5484,2025-05-20,C-1417,Yoga Leggings,Apparel,1,78.68,78.68,Quebec,Mobile App
+ORD-6319,2025-05-20,C-1057,Dumbbell Set,Sports,1,114.28,114.28,Alberta,Website
+ORD-5660,2025-05-21,C-1996,Cookware Set,Home & Kitchen,2,80.04,160.08,British Columbia,Website
+ORD-5773,2025-05-21,C-1040,Cookware Set,Home & Kitchen,2,127.53,255.06,Ontario,Website
+ORD-5815,2025-05-21,C-1684,USB-C Charger,Electronics,1,193.99,193.99,Ontario,Website
+ORD-6697,2025-05-21,C-1364,Perfume,Beauty,3,44.27,132.81,Alberta,Website
+ORD-6753,2025-05-21,C-1521,Perfume,Beauty,1,50.37,50.37,Alberta,In-Store Pickup
+ORD-5114,2025-05-22,C-1166,Dining Set,Home & Kitchen,1,25.12,25.12,Quebec,In-Store Pickup
+ORD-5227,2025-05-22,C-1316,Smart Watch,Electronics,4,595.09,2380.36,Ontario,Website
+ORD-5467,2025-05-22,C-1460,Face Mask Set,Beauty,1,47.24,47.24,Quebec,Mobile App
+ORD-5705,2025-05-22,C-1398,Dumbbell Set,Sports,1,107.66,107.66,Alberta,Website
+ORD-6094,2025-05-22,C-1505,Dining Set,Home & Kitchen,1,84.37,84.37,Ontario,Website
+ORD-5410,2025-05-23,C-1345,Face Mask Set,Beauty,3,57.49,172.47,Ontario,Website
+ORD-5751,2025-05-24,C-1968,Air Fryer,Home & Kitchen,1,150.67,150.67,Manitoba,Website
+ORD-5508,2025-05-25,C-1288,Hair Dryer,Beauty,2,26.71,53.42,Alberta,Website
+ORD-5531,2025-05-25,C-1393,Cotton T-Shirt,Apparel,1,117.25,117.25,Manitoba,Website
+ORD-5885,2025-05-25,C-1891,Bicycle Helmet,Sports,1,152.59,152.59,British Columbia,Website
+ORD-6346,2025-05-25,C-1424,USB-C Charger,Electronics,1,590.77,590.77,Ontario,Mobile App
+ORD-6584,2025-05-25,C-1759,Air Fryer,Home & Kitchen,1,95.76,95.76,Quebec,Website
+ORD-6720,2025-05-25,C-1800,USB-C Charger,Electronics,2,122.16,244.32,Quebec,Mobile App
+ORD-6340,2025-05-26,C-1399,Bluetooth Speaker,Electronics,1,587.7,587.7,Quebec,Mobile App
+ORD-6642,2025-05-26,C-1873,Dumbbell Set,Sports,1,130.03,130.03,Alberta,Website
+ORD-6952,2025-05-26,C-1331,Robot Vacuum,Home & Kitchen,2,108.21,216.42,Ontario,Website
+ORD-5711,2025-05-27,C-1418,Vitamin C Serum,Beauty,4,57.54,230.16,Alberta,Website
+ORD-5801,2025-05-27,C-1449,Running Shoes,Apparel,2,42.39,84.78,Ontario,Website
+ORD-6536,2025-05-27,C-1103,Perfume,Beauty,1,56.4,56.4,Ontario,Mobile App
+ORD-6623,2025-05-27,C-1484,Robot Vacuum,Home & Kitchen,1,30.99,30.99,Ontario,Mobile App
+ORD-6900,2025-05-27,C-1052,Table Lamp,Home & Kitchen,1,104.76,104.76,Ontario,Mobile App
+ORD-5121,2025-05-28,C-1507,Cotton T-Shirt,Apparel,1,30.62,30.62,Quebec,Website
+ORD-6070,2025-05-29,C-1596,Table Lamp,Home & Kitchen,2,27.95,55.9,Quebec,Website
+ORD-6850,2025-05-29,C-1301,Air Fryer,Home & Kitchen,1,103.9,103.9,Ontario,Mobile App
+ORD-6857,2025-05-29,C-1625,Air Fryer,Home & Kitchen,1,159.94,159.94,Ontario,Mobile App
+ORD-5055,2025-05-30,C-1448,Table Lamp,Home & Kitchen,1,118.04,118.04,British Columbia,Mobile App
+ORD-5645,2025-05-30,C-1279,Running Shoes,Apparel,1,48.53,48.53,Alberta,Mobile App
+ORD-6496,2025-05-31,C-1998,Cookware Set,Home & Kitchen,1,98.99,98.99,Ontario,Website
+ORD-5258,2025-06-01,C-1978,Smart Watch,Electronics,1,329.96,329.96,British Columbia,Website
+ORD-5011,2025-06-02,C-1326,Wireless Headphones,Electronics,1,336.4,336.4,Manitoba,In-Store Pickup
+ORD-5526,2025-06-02,C-1400,Cookware Set,Home & Kitchen,2,137.4,274.8,Ontario,Mobile App
+ORD-5654,2025-06-02,C-1659,Face Mask Set,Beauty,1,33.68,33.68,British Columbia,Website
+ORD-6535,2025-06-02,C-1632,Smart Watch,Electronics,1,588.13,588.13,Quebec,Website
+ORD-6894,2025-06-02,C-1794,Smart Watch,Electronics,4,508.38,2033.52,Ontario,Website
+ORD-5182,2025-06-03,C-1695,Dining Set,Home & Kitchen,1,113.47,113.47,Ontario,Mobile App
+ORD-5368,2025-06-03,C-1132,Cotton T-Shirt,Apparel,4,87.33,349.32,Ontario,Mobile App
+ORD-6197,2025-06-03,C-1000,Winter Parka,Apparel,4,108.21,432.84,Ontario,In-Store Pickup
+ORD-6232,2025-06-03,C-1672,Moisturizer,Beauty,2,24.8,49.6,Manitoba,Mobile App
+ORD-5065,2025-06-04,C-1426,Robot Vacuum,Home & Kitchen,1,198.67,198.67,Alberta,Website
+ORD-6115,2025-06-04,C-1786,Laptop Stand,Electronics,1,264.96,264.96,Ontario,Website
+ORD-5512,2025-06-05,C-1353,Face Mask Set,Beauty,3,55.19,165.57,Quebec,Website
+ORD-5862,2025-06-05,C-1329,Wireless Headphones,Electronics,1,210.9,210.9,Ontario,Website
+ORD-6377,2025-06-05,C-1467,Winter Parka,Apparel,3,75.28,225.84,Alberta,In-Store Pickup
+ORD-6032,2025-06-06,C-1044,Smart Watch,Electronics,1,335.94,335.94,British Columbia,Mobile App
+ORD-6034,2025-06-06,C-1213,Running Shoes,Apparel,1,88.46,88.46,Alberta,In-Store Pickup
+ORD-6217,2025-06-06,C-1663,Air Fryer,Home & Kitchen,5,180.02,900.1,Ontario,Mobile App
+ORD-5300,2025-06-07,C-1207,Moisturizer,Beauty,1,30.25,30.25,Ontario,Website
+ORD-5360,2025-06-07,C-1908,Table Lamp,Home & Kitchen,1,102.74,102.74,British Columbia,Mobile App
+ORD-5675,2025-06-07,C-1383,Yoga Leggings,Apparel,1,86.76,86.76,Ontario,Website
+ORD-5876,2025-06-07,C-1860,Dining Set,Home & Kitchen,1,84.17,84.17,Ontario,Website
+ORD-6061,2025-06-07,C-1081,Wireless Headphones,Electronics,2,215.07,430.14,Ontario,Mobile App
+ORD-5108,2025-06-09,C-1120,Moisturizer,Beauty,1,19.45,19.45,Ontario,Mobile App
+ORD-6504,2025-06-09,C-1137,Cotton T-Shirt,Apparel,1,90.46,90.46,Manitoba,Mobile App
+ORD-5167,2025-06-10,C-1111,Denim Jacket,Apparel,2,104.64,209.28,Quebec,Website
+ORD-5754,2025-06-10,C-1735,Resistance Bands,Sports,3,40.19,120.57,Ontario,Website
+ORD-6027,2025-06-11,C-1656,Dining Set,Home & Kitchen,2,177.43,354.86,Quebec,Website
+ORD-6394,2025-06-11,C-1202,Denim Jacket,Apparel,1,50.14,50.14,Manitoba,Website
+ORD-6672,2025-06-11,C-1710,Cotton T-Shirt,Apparel,1,70.04,70.04,British Columbia,Mobile App
+ORD-5778,2025-06-12,C-1093,Air Fryer,Home & Kitchen,2,145.32,290.64,Ontario,Website
+ORD-6378,2025-06-12,C-1933,Resistance Bands,Sports,1,221.91,221.91,Quebec,Website
+ORD-5651,2025-06-13,C-1696,Perfume,Beauty,1,37.56,37.56,Ontario,Website
+ORD-6188,2025-06-13,C-1547,Robot Vacuum,Home & Kitchen,5,149.78,748.9,Manitoba,Website
+ORD-6502,2025-06-13,C-1032,Yoga Leggings,Apparel,5,68.36,341.8,British Columbia,In-Store Pickup
+ORD-5027,2025-06-14,C-1314,Resistance Bands,Sports,2,157.13,314.26,Quebec,Website
+ORD-6956,2025-06-14,C-1525,Smart Watch,Electronics,3,255.54,766.62,Ontario,Website
+ORD-5286,2025-06-15,C-1810,Perfume,Beauty,3,42.8,128.4,Ontario,Mobile App
+ORD-5757,2025-06-15,C-1504,Bicycle Helmet,Sports,1,142.25,142.25,Ontario,Website
+ORD-5893,2025-06-15,C-1267,Running Shoes,Apparel,1,113.37,113.37,British Columbia,In-Store Pickup
+ORD-6572,2025-06-15,C-1024,Cotton T-Shirt,Apparel,1,52.04,52.04,Quebec,Mobile App
+ORD-5671,2025-06-16,C-1024,Smart Watch,Electronics,3,107.44,322.32,Quebec,In-Store Pickup
+ORD-5794,2025-06-16,C-1209,Yoga Leggings,Apparel,1,30.69,30.69,Ontario,Mobile App
+ORD-5194,2025-06-17,C-1424,Resistance Bands,Sports,1,59.76,59.76,Alberta,Website
+ORD-5291,2025-06-17,C-1273,Resistance Bands,Sports,2,112.45,224.9,Ontario,Mobile App
+ORD-5690,2025-06-17,C-1763,Face Mask Set,Beauty,2,57.83,115.66,Quebec,In-Store Pickup
+ORD-6267,2025-06-17,C-1817,Air Fryer,Home & Kitchen,1,174.95,174.95,British Columbia,In-Store Pickup
+ORD-5376,2025-06-18,C-1878,Smart Watch,Electronics,1,174.59,174.59,Ontario,Website
+ORD-5797,2025-06-18,C-1344,USB-C Charger,Electronics,1,159.14,159.14,Ontario,Website
+ORD-5170,2025-06-19,C-1450,Dining Set,Home & Kitchen,1,65.93,65.93,British Columbia,In-Store Pickup
+ORD-5364,2025-06-19,C-1262,Robot Vacuum,Home & Kitchen,1,136.39,136.39,Quebec,Mobile App
+ORD-5563,2025-06-19,C-1758,Robot Vacuum,Home & Kitchen,2,101.58,203.16,Ontario,Website
+ORD-6182,2025-06-19,C-1276,Table Lamp,Home & Kitchen,1,182.95,182.95,Ontario,Mobile App
+ORD-6915,2025-06-19,C-1673,Wireless Headphones,Electronics,1,463.21,463.21,Ontario,Mobile App
+ORD-5486,2025-06-20,C-1400,Denim Jacket,Apparel,3,67.27,201.81,Ontario,Website
+ORD-5180,2025-06-21,C-1812,USB-C Charger,Electronics,1,161.52,161.52,Ontario,Website
+ORD-5730,2025-06-21,C-1036,Winter Parka,Apparel,1,63.96,63.96,British Columbia,Website
+ORD-6523,2025-06-21,C-1112,Bluetooth Speaker,Electronics,1,210.39,210.39,Alberta,Website
+ORD-5580,2025-06-22,C-1170,Yoga Leggings,Apparel,3,115.16,345.48,British Columbia,In-Store Pickup
+ORD-5681,2025-06-22,C-1688,Resistance Bands,Sports,1,145.05,145.05,British Columbia,Website
+ORD-6484,2025-06-22,C-1402,Bluetooth Speaker,Electronics,2,521.4,1042.8,British Columbia,Website
+ORD-6951,2025-06-22,C-1367,Cookware Set,Home & Kitchen,2,115.96,231.92,Quebec,Website
+ORD-5385,2025-06-23,C-1037,Smart Watch,Electronics,1,215.24,215.24,Ontario,In-Store Pickup
+ORD-6151,2025-06-23,C-1456,Cotton T-Shirt,Apparel,1,116.61,116.61,Ontario,Website
+ORD-5405,2025-06-24,C-1002,Resistance Bands,Sports,1,133.17,133.17,Quebec,Mobile App
+ORD-5816,2025-06-24,C-1541,Smart Watch,Electronics,2,471.32,942.64,Quebec,Mobile App
+ORD-6212,2025-06-24,C-1826,Face Mask Set,Beauty,1,32.31,32.31,Alberta,Website
+ORD-5212,2025-06-25,C-1100,Air Fryer,Home & Kitchen,1,158.54,158.54,Alberta,In-Store Pickup
+ORD-6108,2025-06-25,C-1629,Bicycle Helmet,Sports,1,226.95,226.95,British Columbia,Mobile App
+ORD-6593,2025-06-25,C-1821,Yoga Mat,Sports,1,131.41,131.41,Ontario,Website
+ORD-6890,2025-06-25,C-1833,Yoga Leggings,Apparel,1,74.28,74.28,Ontario,Website
+ORD-5723,2025-06-26,C-1888,Laptop Stand,Electronics,2,152.12,304.24,Ontario,Mobile App
+ORD-5777,2025-06-26,C-1953,Laptop Stand,Electronics,1,131.46,131.46,Ontario,In-Store Pickup
+ORD-6157,2025-06-26,C-1532,Robot Vacuum,Home & Kitchen,1,100.83,100.83,Ontario,In-Store Pickup
+ORD-6399,2025-06-26,C-1595,Perfume,Beauty,2,44.51,89.02,Quebec,In-Store Pickup
+ORD-6462,2025-06-26,C-1467,Table Lamp,Home & Kitchen,1,140.8,140.8,Quebec,Mobile App
+ORD-6856,2025-06-26,C-1606,Vitamin C Serum,Beauty,2,49.75,99.5,Ontario,Mobile App
+ORD-5281,2025-06-27,C-1360,Running Shoes,Apparel,1,39.53,39.53,Manitoba,Mobile App
+ORD-5498,2025-06-27,C-1989,Running Shoes,Apparel,1,71.21,71.21,Quebec,Mobile App
+ORD-6184,2025-06-27,C-1516,Yoga Leggings,Apparel,1,73.81,73.81,Quebec,In-Store Pickup
+ORD-6328,2025-06-27,C-1119,Yoga Mat,Sports,5,211.95,1059.75,Ontario,Mobile App
+ORD-6514,2025-06-27,C-1269,Wireless Headphones,Electronics,1,267.25,267.25,British Columbia,Mobile App
+ORD-6434,2025-06-28,C-1655,Wireless Headphones,Electronics,1,308.22,308.22,Ontario,Mobile App
+ORD-5454,2025-06-29,C-1907,Resistance Bands,Sports,1,122.61,122.61,British Columbia,Mobile App
+ORD-5720,2025-06-29,C-1782,Winter Parka,Apparel,2,82.08,164.16,Ontario,Website
+ORD-6331,2025-06-29,C-1570,Table Lamp,Home & Kitchen,1,125.19,125.19,Ontario,In-Store Pickup
+ORD-5980,2025-06-30,C-1299,USB-C Charger,Electronics,1,261.86,261.86,British Columbia,Mobile App
+ORD-5030,2025-07-01,C-1978,Yoga Leggings,Apparel,1,114.1,114.1,Ontario,Website
+ORD-5241,2025-07-01,C-1397,Dining Set,Home & Kitchen,1,97.72,97.72,Ontario,Mobile App
+ORD-5460,2025-07-01,C-1989,Winter Parka,Apparel,3,105.0,315.0,Quebec,Website
+ORD-5254,2025-07-02,C-1271,Dumbbell Set,Sports,4,76.41,305.64,Ontario,Website
+ORD-5616,2025-07-02,C-1225,Smart Watch,Electronics,5,353.94,1769.7,Ontario,In-Store Pickup
+ORD-5618,2025-07-02,C-1788,Cookware Set,Home & Kitchen,1,82.42,82.42,Alberta,Mobile App
+ORD-6213,2025-07-02,C-1672,Moisturizer,Beauty,1,51.78,51.78,Alberta,Website
+ORD-6560,2025-07-02,C-1418,Perfume,Beauty,1,18.09,18.09,Manitoba,Mobile App
+ORD-6928,2025-07-02,C-1306,Wireless Headphones,Electronics,2,543.7,1087.4,Ontario,Website
+ORD-5289,2025-07-03,C-1845,Bluetooth Speaker,Electronics,3,84.17,252.51,Ontario,Website
+ORD-6599,2025-07-04,C-1652,Yoga Mat,Sports,2,190.49,380.98,Ontario,Website
+ORD-5732,2025-07-06,C-1347,Dumbbell Set,Sports,1,97.76,97.76,Alberta,Mobile App
+ORD-5099,2025-07-07,C-1953,Winter Parka,Apparel,1,96.5,96.5,Ontario,Mobile App
+ORD-6367,2025-07-07,C-1815,Cotton T-Shirt,Apparel,4,119.29,477.16,Alberta,Mobile App
+ORD-5501,2025-07-08,C-1289,Dining Set,Home & Kitchen,1,133.99,133.99,Ontario,Website
+ORD-5823,2025-07-08,C-1066,Air Fryer,Home & Kitchen,2,147.22,294.44,Ontario,Mobile App
+ORD-6041,2025-07-08,C-1471,USB-C Charger,Electronics,1,530.14,530.14,British Columbia,Website
+ORD-6185,2025-07-08,C-1460,Air Fryer,Home & Kitchen,2,184.59,369.18,Quebec,Mobile App
+ORD-6813,2025-07-08,C-1786,Dining Set,Home & Kitchen,5,93.23,466.15,Alberta,Mobile App
+ORD-5215,2025-07-09,C-1581,Laptop Stand,Electronics,1,207.89,207.89,Ontario,In-Store Pickup
+ORD-5699,2025-07-09,C-1532,USB-C Charger,Electronics,1,194.72,194.72,Ontario,Mobile App
+ORD-5770,2025-07-09,C-1348,Face Mask Set,Beauty,1,41.07,41.07,Ontario,Mobile App
+ORD-5287,2025-07-10,C-1720,Yoga Mat,Sports,2,150.63,301.26,Manitoba,Mobile App
+ORD-5444,2025-07-10,C-1409,Bluetooth Speaker,Electronics,3,388.64,1165.92,Ontario,Mobile App
+ORD-6172,2025-07-10,C-1160,Wireless Headphones,Electronics,1,92.71,92.71,Ontario,Website
+ORD-5145,2025-07-11,C-1909,Bicycle Helmet,Sports,1,124.66,124.66,Manitoba,Mobile App
+ORD-5248,2025-07-11,C-1735,Resistance Bands,Sports,2,226.3,452.6,Ontario,Website
+ORD-5737,2025-07-11,C-1367,Denim Jacket,Apparel,1,108.84,108.84,Quebec,Website
+ORD-5354,2025-07-12,C-1365,Cotton T-Shirt,Apparel,1,116.77,116.77,Ontario,Website
+ORD-5756,2025-07-12,C-1294,Laptop Stand,Electronics,2,507.07,1014.14,Manitoba,Website
+ORD-6507,2025-07-12,C-1618,Winter Parka,Apparel,1,93.0,93.0,Manitoba,Mobile App
+ORD-5585,2025-07-13,C-1781,Yoga Leggings,Apparel,1,79.26,79.26,Manitoba,In-Store Pickup
+ORD-6965,2025-07-13,C-1147,Bluetooth Speaker,Electronics,1,159.71,159.71,Ontario,Website
+ORD-5303,2025-07-14,C-1197,Denim Jacket,Apparel,3,51.66,154.98,Ontario,Website
+ORD-5586,2025-07-14,C-1748,Air Fryer,Home & Kitchen,2,182.57,365.14,Quebec,Website
+ORD-5693,2025-07-14,C-1014,Table Lamp,Home & Kitchen,4,136.74,546.96,Quebec,Website
+ORD-6297,2025-07-14,C-1196,Smart Watch,Electronics,1,176.44,176.44,Ontario,Website
+ORD-6508,2025-07-14,C-1285,Robot Vacuum,Home & Kitchen,1,171.73,171.73,Manitoba,Mobile App
+ORD-5957,2025-07-15,C-1721,Cotton T-Shirt,Apparel,1,44.4,44.4,Ontario,Mobile App
+ORD-6671,2025-07-15,C-1335,Dining Set,Home & Kitchen,2,126.57,253.14,Ontario,Mobile App
+ORD-5101,2025-07-16,C-1351,Smart Watch,Electronics,5,325.1,1625.5,Quebec,Website
+ORD-6488,2025-07-16,C-1716,Air Fryer,Home & Kitchen,2,102.41,204.82,Ontario,Mobile App
+ORD-6511,2025-07-16,C-1877,Face Mask Set,Beauty,2,41.94,83.88,Ontario,Mobile App
+ORD-6649,2025-07-16,C-1117,Face Mask Set,Beauty,5,46.75,233.75,Ontario,Mobile App
+ORD-5264,2025-07-17,C-1543,Bluetooth Speaker,Electronics,2,592.09,1184.18,Ontario,Website
+ORD-5341,2025-07-17,C-1624,Winter Parka,Apparel,1,87.78,87.78,Ontario,Website
+ORD-5791,2025-07-17,C-1299,Hair Dryer,Beauty,1,50.49,50.49,Ontario,Mobile App
+ORD-6653,2025-07-17,C-1004,Denim Jacket,Apparel,2,20.19,40.38,Quebec,In-Store Pickup
+ORD-6957,2025-07-17,C-1659,Bluetooth Speaker,Electronics,1,498.69,498.69,Ontario,Mobile App
+ORD-5331,2025-07-18,C-1076,Running Shoes,Apparel,4,60.51,242.04,Quebec,In-Store Pickup
+ORD-5398,2025-07-18,C-1300,Smart Watch,Electronics,2,159.4,318.8,Ontario,Website
+ORD-6051,2025-07-18,C-1165,USB-C Charger,Electronics,2,350.24,700.48,Ontario,Mobile App
+ORD-6606,2025-07-18,C-1166,Winter Parka,Apparel,1,115.11,115.11,Quebec,In-Store Pickup
+ORD-6830,2025-07-18,C-1592,Bluetooth Speaker,Electronics,1,329.09,329.09,Quebec,Website
+ORD-5098,2025-07-19,C-1712,Laptop Stand,Electronics,1,494.33,494.33,Manitoba,Website
+ORD-5190,2025-07-19,C-1279,Yoga Leggings,Apparel,1,116.36,116.36,Ontario,Website
+ORD-5897,2025-07-19,C-1013,Perfume,Beauty,4,20.0,80.0,Quebec,Website
+ORD-6126,2025-07-19,C-1675,Dining Set,Home & Kitchen,1,72.6,72.6,Ontario,Website
+ORD-6980,2025-07-19,C-1544,Wireless Headphones,Electronics,1,218.21,218.21,Quebec,Website
+ORD-5574,2025-07-20,C-1886,Tennis Racket,Sports,1,108.26,108.26,British Columbia,Website
+ORD-6145,2025-07-20,C-1756,Bicycle Helmet,Sports,1,44.43,44.43,British Columbia,Website
+ORD-6513,2025-07-20,C-1018,USB-C Charger,Electronics,1,578.9,578.9,Quebec,In-Store Pickup
+ORD-6544,2025-07-21,C-1166,Smart Watch,Electronics,2,506.58,1013.16,Alberta,Mobile App
+ORD-6616,2025-07-21,C-1034,Resistance Bands,Sports,4,31.26,125.04,Ontario,In-Store Pickup
+ORD-6744,2025-07-21,C-1975,Air Fryer,Home & Kitchen,1,129.01,129.01,Quebec,Mobile App
+ORD-6859,2025-07-21,C-1552,Air Fryer,Home & Kitchen,4,99.43,397.72,Ontario,Mobile App
+ORD-6908,2025-07-21,C-1369,Smart Watch,Electronics,3,350.62,1051.86,Ontario,Mobile App
+ORD-5749,2025-07-22,C-1508,Smart Watch,Electronics,3,413.59,1240.77,Ontario,Mobile App
+ORD-5450,2025-07-23,C-1434,Face Mask Set,Beauty,1,10.62,10.62,Quebec,Mobile App
+ORD-5669,2025-07-23,C-1094,Winter Parka,Apparel,3,38.36,115.08,Quebec,Mobile App
+ORD-6083,2025-07-23,C-1315,Dumbbell Set,Sports,1,31.49,31.49,Alberta,Website
+ORD-6294,2025-07-23,C-1714,Hair Dryer,Beauty,4,39.85,159.4,Alberta,Mobile App
+ORD-6342,2025-07-24,C-1434,Yoga Leggings,Apparel,2,35.1,70.2,Ontario,Mobile App
+ORD-6546,2025-07-24,C-1961,Cotton T-Shirt,Apparel,1,71.41,71.41,Ontario,Mobile App
+ORD-5163,2025-07-25,C-1228,Face Mask Set,Beauty,1,57.79,57.79,British Columbia,In-Store Pickup
+ORD-5377,2025-07-25,C-1440,Robot Vacuum,Home & Kitchen,1,68.35,68.35,British Columbia,Website
+ORD-6104,2025-07-25,C-1353,Resistance Bands,Sports,1,218.12,218.12,Quebec,Website
+ORD-6397,2025-07-25,C-1287,Smart Watch,Electronics,1,280.68,280.68,British Columbia,Website
+ORD-6832,2025-07-25,C-1781,Bicycle Helmet,Sports,1,143.74,143.74,British Columbia,Website
+ORD-5821,2025-07-26,C-1089,Hair Dryer,Beauty,1,57.06,57.06,Ontario,In-Store Pickup
+ORD-6540,2025-07-26,C-1871,Air Fryer,Home & Kitchen,1,160.12,160.12,Alberta,Mobile App
+ORD-6564,2025-07-26,C-1584,Bluetooth Speaker,Electronics,1,112.54,112.54,British Columbia,Website
+ORD-6640,2025-07-26,C-1374,Cookware Set,Home & Kitchen,3,170.0,510.0,Ontario,Mobile App
+ORD-6835,2025-07-26,C-1709,Robot Vacuum,Home & Kitchen,1,35.35,35.35,Quebec,Website
+ORD-6264,2025-07-27,C-1794,Cookware Set,Home & Kitchen,5,144.83,724.15,Ontario,Mobile App
+ORD-6941,2025-07-27,C-1184,Winter Parka,Apparel,4,113.04,452.16,Ontario,Mobile App
+ORD-5070,2025-07-28,C-1429,Denim Jacket,Apparel,1,100.0,100.0,Alberta,Website
+ORD-5513,2025-07-28,C-1012,Table Lamp,Home & Kitchen,2,180.52,361.04,Ontario,Website
+ORD-5762,2025-07-28,C-1173,Dumbbell Set,Sports,4,186.9,747.6,Quebec,Website
+ORD-5966,2025-07-28,C-1289,Cotton T-Shirt,Apparel,2,45.25,90.5,Quebec,Mobile App
+ORD-6452,2025-07-29,C-1805,Perfume,Beauty,1,46.17,46.17,Quebec,In-Store Pickup
+ORD-5350,2025-07-30,C-1580,USB-C Charger,Electronics,1,597.67,597.67,Ontario,Website
+ORD-5464,2025-07-30,C-1844,Tennis Racket,Sports,2,89.73,179.46,Quebec,Mobile App
+ORD-5878,2025-07-30,C-1096,Denim Jacket,Apparel,2,36.85,73.7,Ontario,Mobile App
+ORD-6269,2025-07-30,C-1477,Denim Jacket,Apparel,3,50.53,151.59,British Columbia,In-Store Pickup
+ORD-6318,2025-07-30,C-1951,Bluetooth Speaker,Electronics,1,494.11,494.11,Alberta,Website
+ORD-6427,2025-07-30,C-1670,Dumbbell Set,Sports,3,249.62,748.86,Manitoba,Website
+ORD-5132,2025-07-31,C-1803,USB-C Charger,Electronics,2,417.53,835.06,Alberta,Mobile App
+ORD-5231,2025-07-31,C-1929,Yoga Leggings,Apparel,1,66.11,66.11,Alberta,Mobile App
+ORD-6233,2025-07-31,C-1391,Table Lamp,Home & Kitchen,1,60.06,60.06,Alberta,Mobile App
+ORD-6852,2025-07-31,C-1912,Wireless Headphones,Electronics,1,552.25,552.25,British Columbia,Website
+ORD-5530,2025-08-01,C-1101,Running Shoes,Apparel,1,41.62,41.62,Ontario,Mobile App
+ORD-5632,2025-08-02,C-1913,Hair Dryer,Beauty,1,18.09,18.09,Quebec,Website
+ORD-5874,2025-08-02,C-1097,Table Lamp,Home & Kitchen,1,40.18,40.18,Ontario,Website
+ORD-6107,2025-08-02,C-1663,Yoga Mat,Sports,2,131.48,262.96,Ontario,Website
+ORD-6204,2025-08-02,C-1683,Yoga Leggings,Apparel,1,44.52,44.52,Ontario,In-Store Pickup
+ORD-5223,2025-08-03,C-1477,Running Shoes,Apparel,4,32.31,129.24,Ontario,Mobile App
+ORD-5257,2025-08-03,C-1512,Dumbbell Set,Sports,1,170.17,170.17,Manitoba,Mobile App
+ORD-5487,2025-08-03,C-1024,Air Fryer,Home & Kitchen,1,25.47,25.47,Alberta,Website
+ORD-6757,2025-08-03,C-1727,Moisturizer,Beauty,1,21.38,21.38,Alberta,Mobile App
+ORD-6759,2025-08-03,C-1814,Table Lamp,Home & Kitchen,1,171.25,171.25,Ontario,Website
+ORD-5871,2025-08-04,C-1506,Laptop Stand,Electronics,2,151.76,303.52,Quebec,In-Store Pickup
+ORD-6037,2025-08-04,C-1818,Yoga Mat,Sports,3,146.06,438.18,Ontario,In-Store Pickup
+ORD-6054,2025-08-04,C-1280,Perfume,Beauty,1,53.2,53.2,British Columbia,Mobile App
+ORD-5451,2025-08-05,C-1886,Hair Dryer,Beauty,1,29.03,29.03,British Columbia,In-Store Pickup
+ORD-5840,2025-08-05,C-1969,Wireless Headphones,Electronics,2,364.08,728.16,Quebec,Mobile App
+ORD-5850,2025-08-05,C-1696,Perfume,Beauty,1,48.19,48.19,Ontario,Website
+ORD-6673,2025-08-05,C-1263,Robot Vacuum,Home & Kitchen,2,35.65,71.3,Ontario,Mobile App
+ORD-6936,2025-08-05,C-1942,Wireless Headphones,Electronics,1,558.37,558.37,British Columbia,Website
+ORD-6161,2025-08-06,C-1155,Dumbbell Set,Sports,1,115.16,115.16,Ontario,In-Store Pickup
+ORD-6620,2025-08-06,C-1141,Yoga Mat,Sports,1,41.5,41.5,Ontario,Mobile App
+ORD-6818,2025-08-06,C-1917,Tennis Racket,Sports,1,42.01,42.01,British Columbia,Mobile App
+ORD-5021,2025-08-07,C-1603,USB-C Charger,Electronics,1,364.01,364.01,Ontario,Mobile App
+ORD-5207,2025-08-07,C-1341,Running Shoes,Apparel,1,91.28,91.28,Quebec,Mobile App
+ORD-6444,2025-08-07,C-1475,Wireless Headphones,Electronics,1,147.03,147.03,Ontario,Website
+ORD-6466,2025-08-07,C-1826,Table Lamp,Home & Kitchen,1,32.17,32.17,Alberta,Mobile App
+ORD-5168,2025-08-08,C-1517,Vitamin C Serum,Beauty,3,37.44,112.32,British Columbia,Mobile App
+ORD-5805,2025-08-08,C-1480,Cotton T-Shirt,Apparel,1,47.04,47.04,Alberta,Website
+ORD-5962,2025-08-08,C-1652,Vitamin C Serum,Beauty,1,24.66,24.66,Ontario,Website
+ORD-6407,2025-08-08,C-1576,Table Lamp,Home & Kitchen,1,153.57,153.57,Ontario,Website
+ORD-6529,2025-08-08,C-1903,Wireless Headphones,Electronics,3,348.7,1046.1,Quebec,Mobile App
+ORD-6834,2025-08-08,C-1403,Yoga Leggings,Apparel,1,53.1,53.1,Ontario,In-Store Pickup
+ORD-5600,2025-08-09,C-1921,Wireless Headphones,Electronics,1,410.46,410.46,Ontario,Website
+ORD-6106,2025-08-09,C-1319,Yoga Mat,Sports,1,71.07,71.07,Ontario,Website
+ORD-6296,2025-08-09,C-1445,USB-C Charger,Electronics,3,170.41,511.23,Ontario,Website
+ORD-6685,2025-08-09,C-1413,Air Fryer,Home & Kitchen,1,28.02,28.02,Ontario,Mobile App
+ORD-5313,2025-08-10,C-1344,Bluetooth Speaker,Electronics,4,481.31,1925.24,Quebec,Mobile App
+ORD-6009,2025-08-10,C-1822,Smart Watch,Electronics,2,471.7,943.4,Ontario,Website
+ORD-6618,2025-08-11,C-1296,Bicycle Helmet,Sports,1,169.9,169.9,Quebec,Website
+ORD-5085,2025-08-12,C-1055,Perfume,Beauty,2,11.75,23.5,British Columbia,Mobile App
+ORD-5555,2025-08-12,C-1286,Hair Dryer,Beauty,1,20.09,20.09,Manitoba,Website
+ORD-5886,2025-08-12,C-1102,Hair Dryer,Beauty,1,36.72,36.72,British Columbia,Mobile App
+ORD-6253,2025-08-12,C-1296,Hair Dryer,Beauty,2,13.66,27.32,Ontario,Mobile App
+ORD-5426,2025-08-13,C-1483,Bluetooth Speaker,Electronics,4,142.47,569.88,British Columbia,Mobile App
+ORD-5946,2025-08-13,C-1248,USB-C Charger,Electronics,1,326.0,326.0,Ontario,Mobile App
+ORD-6143,2025-08-14,C-1894,Vitamin C Serum,Beauty,1,36.1,36.1,Quebec,Website
+ORD-5953,2025-08-15,C-1332,Running Shoes,Apparel,1,111.78,111.78,Ontario,Website
+ORD-6525,2025-08-15,C-1597,Smart Watch,Electronics,5,248.58,1242.9,Ontario,Mobile App
+ORD-5073,2025-08-16,C-1422,Table Lamp,Home & Kitchen,3,139.75,419.25,British Columbia,Mobile App
+ORD-5175,2025-08-16,C-1492,Smart Watch,Electronics,1,108.36,108.36,Ontario,Website
+ORD-6031,2025-08-16,C-1067,Perfume,Beauty,1,11.64,11.64,Ontario,Website
+ORD-6219,2025-08-16,C-1344,Winter Parka,Apparel,1,107.98,107.98,Alberta,Mobile App
+ORD-6275,2025-08-16,C-1762,Moisturizer,Beauty,4,56.93,227.72,Ontario,Mobile App
+ORD-6311,2025-08-16,C-1955,Denim Jacket,Apparel,1,65.19,65.19,Ontario,In-Store Pickup
+ORD-6520,2025-08-16,C-1352,Wireless Headphones,Electronics,1,503.2,503.2,Quebec,Website
+ORD-6909,2025-08-16,C-1932,Air Fryer,Home & Kitchen,2,38.95,77.9,Quebec,Website
+ORD-5960,2025-08-17,C-1373,Yoga Leggings,Apparel,1,35.16,35.16,Ontario,Mobile App
+ORD-6245,2025-08-17,C-1101,Smart Watch,Electronics,5,98.45,492.25,Quebec,Mobile App
+ORD-5052,2025-08-18,C-1643,Laptop Stand,Electronics,1,283.19,283.19,Ontario,Website
+ORD-5590,2025-08-18,C-1128,Robot Vacuum,Home & Kitchen,1,33.1,33.1,British Columbia,Mobile App
+ORD-6123,2025-08-18,C-1412,Winter Parka,Apparel,1,51.71,51.71,Manitoba,Website
+ORD-6227,2025-08-18,C-1651,USB-C Charger,Electronics,1,135.91,135.91,Ontario,Website
+ORD-6463,2025-08-18,C-1911,Vitamin C Serum,Beauty,1,24.57,24.57,Quebec,Website
+ORD-6963,2025-08-18,C-1794,Cotton T-Shirt,Apparel,3,82.75,248.25,Ontario,Mobile App
+ORD-5905,2025-08-19,C-1612,Table Lamp,Home & Kitchen,1,99.51,99.51,Ontario,Mobile App
+ORD-5975,2025-08-19,C-1920,Air Fryer,Home & Kitchen,3,152.57,457.71,Quebec,Mobile App
+ORD-6386,2025-08-20,C-1108,Bluetooth Speaker,Electronics,1,246.16,246.16,Quebec,Website
+ORD-6203,2025-08-21,C-1955,Tennis Racket,Sports,2,126.41,252.82,British Columbia,Mobile App
+ORD-6323,2025-08-21,C-1777,Smart Watch,Electronics,1,404.35,404.35,Quebec,Website
+ORD-5189,2025-08-22,C-1022,Moisturizer,Beauty,2,13.87,27.74,Ontario,Mobile App
+ORD-5250,2025-08-22,C-1885,Winter Parka,Apparel,2,53.81,107.62,Ontario,In-Store Pickup
+ORD-5775,2025-08-22,C-1309,Yoga Leggings,Apparel,1,112.01,112.01,British Columbia,Mobile App
+ORD-6425,2025-08-22,C-1598,USB-C Charger,Electronics,5,270.4,1352.0,British Columbia,Website
+ORD-6969,2025-08-22,C-1625,Resistance Bands,Sports,1,54.34,54.34,Alberta,Mobile App
+ORD-5006,2025-08-23,C-1800,Running Shoes,Apparel,2,93.69,187.38,Alberta,Mobile App
+ORD-5334,2025-08-23,C-1442,Perfume,Beauty,1,16.63,16.63,Ontario,Mobile App
+ORD-5566,2025-08-23,C-1662,USB-C Charger,Electronics,2,564.33,1128.66,Quebec,Website
+ORD-6361,2025-08-23,C-1000,Tennis Racket,Sports,2,203.16,406.32,Manitoba,Website
+ORD-6658,2025-08-23,C-1382,Robot Vacuum,Home & Kitchen,1,42.92,42.92,Alberta,Mobile App
+ORD-6667,2025-08-23,C-1618,Dining Set,Home & Kitchen,3,56.99,170.97,Ontario,In-Store Pickup
+ORD-5327,2025-08-25,C-1908,USB-C Charger,Electronics,3,91.76,275.28,Quebec,Mobile App
+ORD-5865,2025-08-25,C-1938,Face Mask Set,Beauty,1,50.27,50.27,Alberta,Website
+ORD-6258,2025-08-25,C-1223,Resistance Bands,Sports,1,238.31,238.31,Ontario,In-Store Pickup
+ORD-6366,2025-08-25,C-1571,Yoga Leggings,Apparel,1,84.47,84.47,British Columbia,In-Store Pickup
+ORD-5983,2025-08-26,C-1588,Yoga Leggings,Apparel,1,91.08,91.08,Ontario,Website
+ORD-6288,2025-08-26,C-1992,Yoga Leggings,Apparel,2,54.87,109.74,Manitoba,Mobile App
+ORD-6988,2025-08-26,C-1310,Table Lamp,Home & Kitchen,2,164.09,328.18,British Columbia,Website
+ORD-5155,2025-08-27,C-1255,Bluetooth Speaker,Electronics,1,164.21,164.21,Alberta,Mobile App
+ORD-5525,2025-08-27,C-1660,Resistance Bands,Sports,3,212.86,638.58,Manitoba,Website
+ORD-5626,2025-08-27,C-1847,Table Lamp,Home & Kitchen,1,97.5,97.5,Ontario,Website
+ORD-6551,2025-08-27,C-1450,Denim Jacket,Apparel,1,119.49,119.49,British Columbia,In-Store Pickup
+ORD-5038,2025-08-28,C-1545,Wireless Headphones,Electronics,1,381.14,381.14,Quebec,Mobile App
+ORD-5148,2025-08-28,C-1462,Winter Parka,Apparel,1,41.86,41.86,British Columbia,Mobile App
+ORD-5621,2025-08-28,C-1778,Laptop Stand,Electronics,1,242.13,242.13,Ontario,Mobile App
+ORD-5713,2025-08-28,C-1945,Dumbbell Set,Sports,1,80.15,80.15,Quebec,In-Store Pickup
+ORD-5845,2025-08-28,C-1321,Running Shoes,Apparel,2,40.43,80.86,Quebec,Mobile App
+ORD-5033,2025-08-29,C-1863,Table Lamp,Home & Kitchen,2,128.65,257.3,British Columbia,Website
+ORD-5352,2025-08-29,C-1553,Perfume,Beauty,1,58.37,58.37,Ontario,In-Store Pickup
+ORD-5772,2025-08-29,C-1891,Tennis Racket,Sports,1,203.51,203.51,Ontario,In-Store Pickup
+ORD-6105,2025-08-29,C-1284,Yoga Mat,Sports,1,145.59,145.59,Alberta,Website
+ORD-5150,2025-08-30,C-1891,Smart Watch,Electronics,1,285.56,285.56,Alberta,Website
+ORD-5438,2025-08-30,C-1062,Dining Set,Home & Kitchen,3,130.39,391.17,Quebec,Website
+ORD-5703,2025-08-30,C-1663,Robot Vacuum,Home & Kitchen,1,61.66,61.66,Ontario,Website
+ORD-5985,2025-08-30,C-1995,Cotton T-Shirt,Apparel,1,68.56,68.56,Ontario,In-Store Pickup
+ORD-6209,2025-08-30,C-1786,Air Fryer,Home & Kitchen,1,178.12,178.12,Ontario,Mobile App
+ORD-6678,2025-08-30,C-1644,USB-C Charger,Electronics,2,425.73,851.46,Ontario,Website
+ORD-6088,2025-08-31,C-1770,Smart Watch,Electronics,2,307.48,614.96,Quebec,Website
+ORD-5265,2025-09-01,C-1136,Robot Vacuum,Home & Kitchen,5,113.42,567.1,Quebec,Website
+ORD-5342,2025-09-01,C-1711,USB-C Charger,Electronics,1,137.24,137.24,Ontario,Website
+ORD-5383,2025-09-01,C-1063,Running Shoes,Apparel,4,82.2,328.8,Quebec,In-Store Pickup
+ORD-6001,2025-09-01,C-1436,Robot Vacuum,Home & Kitchen,1,145.47,145.47,Quebec,Website
+ORD-6044,2025-09-01,C-1145,Laptop Stand,Electronics,3,493.51,1480.53,British Columbia,Mobile App
+ORD-6281,2025-09-01,C-1062,Denim Jacket,Apparel,1,94.49,94.49,Ontario,Mobile App
+ORD-5004,2025-09-02,C-1715,Moisturizer,Beauty,1,53.6,53.6,Alberta,In-Store Pickup
+ORD-5538,2025-09-02,C-1218,Table Lamp,Home & Kitchen,2,38.38,76.76,Quebec,Mobile App
+ORD-5763,2025-09-02,C-1573,Air Fryer,Home & Kitchen,2,45.03,90.06,Ontario,Website
+ORD-6790,2025-09-02,C-1817,Cotton T-Shirt,Apparel,1,86.41,86.41,Manitoba,In-Store Pickup
+ORD-5209,2025-09-03,C-1417,Running Shoes,Apparel,1,52.11,52.11,Ontario,Mobile App
+ORD-6086,2025-09-03,C-1643,Denim Jacket,Apparel,3,102.17,306.51,Alberta,Mobile App
+ORD-6162,2025-09-03,C-1985,Laptop Stand,Electronics,1,241.16,241.16,Ontario,In-Store Pickup
+ORD-6950,2025-09-03,C-1875,Tennis Racket,Sports,1,103.78,103.78,Ontario,Mobile App
+ORD-5718,2025-09-04,C-1842,Dumbbell Set,Sports,2,206.48,412.96,Quebec,Website
+ORD-6056,2025-09-04,C-1744,Yoga Leggings,Apparel,1,119.52,119.52,Quebec,In-Store Pickup
+ORD-6236,2025-09-04,C-1407,USB-C Charger,Electronics,3,344.56,1033.68,Ontario,Website
+ORD-6322,2025-09-04,C-1810,Cookware Set,Home & Kitchen,1,58.25,58.25,Alberta,In-Store Pickup
+ORD-6559,2025-09-04,C-1557,Yoga Mat,Sports,4,128.77,515.08,Ontario,Website
+ORD-6581,2025-09-04,C-1360,Laptop Stand,Electronics,1,583.65,583.65,Ontario,Mobile App
+ORD-6949,2025-09-04,C-1926,Moisturizer,Beauty,2,26.31,52.62,Quebec,Mobile App
+ORD-6207,2025-09-05,C-1511,Yoga Mat,Sports,3,173.18,519.54,Ontario,Mobile App
+ORD-5325,2025-09-06,C-1884,Denim Jacket,Apparel,1,73.83,73.83,Ontario,Mobile App
+ORD-5558,2025-09-06,C-1171,Dining Set,Home & Kitchen,1,85.74,85.74,Ontario,In-Store Pickup
+ORD-5750,2025-09-06,C-1929,Running Shoes,Apparel,1,22.19,22.19,Ontario,Website
+ORD-5842,2025-09-06,C-1373,USB-C Charger,Electronics,1,589.44,589.44,Ontario,Website
+ORD-6237,2025-09-06,C-1052,Laptop Stand,Electronics,1,229.59,229.59,British Columbia,Website
+ORD-5461,2025-09-07,C-1272,Cotton T-Shirt,Apparel,2,39.71,79.42,Alberta,Mobile App
+ORD-5792,2025-09-07,C-1681,Robot Vacuum,Home & Kitchen,1,72.42,72.42,Alberta,Mobile App
+ORD-5904,2025-09-07,C-1134,Dining Set,Home & Kitchen,2,97.98,195.96,British Columbia,Mobile App
+ORD-6005,2025-09-07,C-1257,Wireless Headphones,Electronics,1,461.31,461.31,British Columbia,Mobile App
+ORD-5139,2025-09-08,C-1749,Vitamin C Serum,Beauty,1,37.3,37.3,Quebec,In-Store Pickup
+ORD-5382,2025-09-08,C-1697,Cotton T-Shirt,Apparel,1,74.44,74.44,Quebec,In-Store Pickup
+ORD-5629,2025-09-08,C-1236,Dumbbell Set,Sports,1,76.61,76.61,Quebec,Mobile App
+ORD-6733,2025-09-08,C-1574,Cotton T-Shirt,Apparel,3,51.31,153.93,British Columbia,Mobile App
+ORD-5076,2025-09-09,C-1882,Dumbbell Set,Sports,1,213.74,213.74,Ontario,Mobile App
+ORD-5273,2025-09-09,C-1113,Laptop Stand,Electronics,1,270.26,270.26,Manitoba,Mobile App
+ORD-5989,2025-09-09,C-1935,Yoga Mat,Sports,1,186.88,186.88,Quebec,Website
+ORD-6304,2025-09-09,C-1646,Perfume,Beauty,2,19.74,39.48,Quebec,Mobile App
+ORD-6352,2025-09-09,C-1117,Bicycle Helmet,Sports,4,224.36,897.44,Quebec,Website
+ORD-5324,2025-09-11,C-1404,Winter Parka,Apparel,2,105.12,210.24,Quebec,Mobile App
+ORD-5607,2025-09-11,C-1121,Smart Watch,Electronics,1,580.33,580.33,Alberta,Website
+ORD-6000,2025-09-11,C-1708,Tennis Racket,Sports,1,98.69,98.69,Quebec,Website
+ORD-5903,2025-09-12,C-1013,Robot Vacuum,Home & Kitchen,1,80.71,80.71,Ontario,Mobile App
+ORD-6250,2025-09-12,C-1657,Yoga Leggings,Apparel,1,55.57,55.57,Ontario,Website
+ORD-6415,2025-09-12,C-1766,Air Fryer,Home & Kitchen,2,31.96,63.92,Ontario,In-Store Pickup
+ORD-5544,2025-09-13,C-1112,Winter Parka,Apparel,1,119.82,119.82,Manitoba,Mobile App
+ORD-5679,2025-09-14,C-1231,Perfume,Beauty,3,58.44,175.32,Quebec,In-Store Pickup
+ORD-5925,2025-09-14,C-1875,Bluetooth Speaker,Electronics,4,459.41,1837.64,Quebec,In-Store Pickup
+ORD-5951,2025-09-14,C-1575,Yoga Leggings,Apparel,1,53.95,53.95,Quebec,Mobile App
+ORD-5519,2025-09-15,C-1818,Air Fryer,Home & Kitchen,1,184.99,184.99,Ontario,In-Store Pickup
+ORD-5978,2025-09-15,C-1461,Running Shoes,Apparel,1,114.53,114.53,Alberta,Website
+ORD-6066,2025-09-15,C-1111,Laptop Stand,Electronics,1,259.86,259.86,Quebec,Mobile App
+ORD-6169,2025-09-15,C-1199,Smart Watch,Electronics,2,554.81,1109.62,Alberta,Website
+ORD-6261,2025-09-15,C-1219,Table Lamp,Home & Kitchen,1,149.86,149.86,Ontario,Mobile App
+ORD-5744,2025-09-16,C-1291,Dumbbell Set,Sports,1,52.66,52.66,Ontario,Mobile App
+ORD-6231,2025-09-16,C-1468,Moisturizer,Beauty,1,25.41,25.41,British Columbia,In-Store Pickup
+ORD-5295,2025-09-17,C-1500,Tennis Racket,Sports,1,53.59,53.59,Ontario,Website
+ORD-6152,2025-09-17,C-1521,Bicycle Helmet,Sports,1,164.09,164.09,Quebec,In-Store Pickup
+ORD-6187,2025-09-17,C-1693,Cotton T-Shirt,Apparel,1,33.53,33.53,Ontario,Mobile App
+ORD-6271,2025-09-17,C-1119,Wireless Headphones,Electronics,3,165.91,497.73,Ontario,Website
+ORD-6448,2025-09-17,C-1382,Vitamin C Serum,Beauty,1,47.85,47.85,Ontario,Mobile App
+ORD-6565,2025-09-17,C-1715,Table Lamp,Home & Kitchen,1,33.65,33.65,Alberta,Mobile App
+ORD-5559,2025-09-18,C-1919,Denim Jacket,Apparel,2,95.01,190.02,Alberta,Website
+ORD-6063,2025-09-18,C-1038,Robot Vacuum,Home & Kitchen,4,153.21,612.84,Alberta,Mobile App
+ORD-6580,2025-09-18,C-1238,USB-C Charger,Electronics,2,507.33,1014.66,Alberta,Mobile App
+ORD-5002,2025-09-19,C-1265,Laptop Stand,Electronics,1,494.17,494.17,British Columbia,Mobile App
+ORD-6148,2025-09-19,C-1082,Face Mask Set,Beauty,1,53.53,53.53,Quebec,Website
+ORD-6809,2025-09-19,C-1682,Perfume,Beauty,1,47.2,47.2,Manitoba,In-Store Pickup
+ORD-5535,2025-09-20,C-1981,Hair Dryer,Beauty,2,14.58,29.16,Ontario,Website
+ORD-6785,2025-09-20,C-1689,Table Lamp,Home & Kitchen,2,144.18,288.36,British Columbia,Mobile App
+ORD-6792,2025-09-20,C-1461,Bluetooth Speaker,Electronics,1,119.47,119.47,Ontario,Mobile App
+ORD-5776,2025-09-21,C-1229,Running Shoes,Apparel,1,98.5,98.5,Ontario,Website
+ORD-6515,2025-09-21,C-1514,Table Lamp,Home & Kitchen,3,180.5,541.5,Ontario,Website
+ORD-5116,2025-09-22,C-1295,Resistance Bands,Sports,2,98.43,196.86,Ontario,Mobile App
+ORD-5131,2025-09-22,C-1811,Cotton T-Shirt,Apparel,2,87.41,174.82,Alberta,Website
+ORD-5577,2025-09-22,C-1118,Bicycle Helmet,Sports,4,238.82,955.28,Ontario,Website
+ORD-6432,2025-09-22,C-1291,Air Fryer,Home & Kitchen,1,70.3,70.3,Manitoba,Website
+ORD-5656,2025-09-23,C-1138,Cookware Set,Home & Kitchen,2,152.27,304.54,Ontario,Mobile App
+ORD-5922,2025-09-23,C-1563,Dumbbell Set,Sports,2,188.86,377.72,Manitoba,Mobile App
+ORD-5924,2025-09-23,C-1902,Running Shoes,Apparel,2,96.82,193.64,British Columbia,Website
+ORD-6708,2025-09-23,C-1909,Air Fryer,Home & Kitchen,1,77.13,77.13,Alberta,Website
+ORD-6741,2025-09-23,C-1526,Bluetooth Speaker,Electronics,1,212.04,212.04,Quebec,Mobile App
+ORD-5034,2025-09-24,C-1042,Smart Watch,Electronics,2,437.55,875.1,Quebec,Mobile App
+ORD-5418,2025-09-24,C-1659,Bluetooth Speaker,Electronics,1,448.3,448.3,Ontario,Mobile App
+ORD-5578,2025-09-24,C-1448,Table Lamp,Home & Kitchen,1,89.13,89.13,Ontario,Mobile App
+ORD-5688,2025-09-24,C-1237,Resistance Bands,Sports,1,224.24,224.24,Ontario,Website
+ORD-6547,2025-09-24,C-1751,Tennis Racket,Sports,1,88.15,88.15,Manitoba,Mobile App
+ORD-5044,2025-09-25,C-1567,USB-C Charger,Electronics,2,308.64,617.28,Manitoba,Mobile App
+ORD-5707,2025-09-25,C-1622,Tennis Racket,Sports,1,103.78,103.78,Ontario,Mobile App
+ORD-5926,2025-09-25,C-1348,Table Lamp,Home & Kitchen,1,73.17,73.17,Alberta,In-Store Pickup
+ORD-6696,2025-09-25,C-1792,Face Mask Set,Beauty,3,26.39,79.17,Ontario,Website
+ORD-5994,2025-09-26,C-1179,Smart Watch,Electronics,3,397.86,1193.58,British Columbia,Mobile App
+ORD-6072,2025-09-26,C-1265,Yoga Leggings,Apparel,3,37.32,111.96,Ontario,Website
+ORD-5449,2025-09-27,C-1794,Robot Vacuum,Home & Kitchen,1,140.29,140.29,Alberta,Mobile App
+ORD-6178,2025-09-27,C-1579,Winter Parka,Apparel,3,118.97,356.91,Ontario,Website
+ORD-5474,2025-09-28,C-1743,Laptop Stand,Electronics,1,490.52,490.52,Ontario,Website
+ORD-5511,2025-09-28,C-1348,Face Mask Set,Beauty,2,43.89,87.78,Manitoba,In-Store Pickup
+ORD-6993,2025-09-28,C-1169,Cookware Set,Home & Kitchen,2,123.12,246.24,Ontario,In-Store Pickup
+ORD-5271,2025-09-29,C-1085,Table Lamp,Home & Kitchen,2,149.42,298.84,Quebec,Mobile App
+ORD-5292,2025-09-29,C-1263,Hair Dryer,Beauty,1,58.18,58.18,Alberta,In-Store Pickup
+ORD-5875,2025-09-29,C-1959,Denim Jacket,Apparel,2,79.66,159.32,Ontario,In-Store Pickup
+ORD-6725,2025-09-29,C-1180,Robot Vacuum,Home & Kitchen,1,128.35,128.35,British Columbia,Website
+ORD-5540,2025-09-30,C-1432,Face Mask Set,Beauty,2,41.32,82.64,Manitoba,Website
+ORD-5560,2025-09-30,C-1065,Bicycle Helmet,Sports,3,228.97,686.91,Ontario,Mobile App
+ORD-6655,2025-09-30,C-1786,Bluetooth Speaker,Electronics,1,87.56,87.56,Quebec,Website
