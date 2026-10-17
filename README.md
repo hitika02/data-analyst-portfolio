@@ -25,5 +25,3 @@ a recommendation.
 - **Option A (recommended):** 5 separate repos, one per project — looks stronger
   on a profile and lets you link the most relevant project per job application.
 - **Option B:** 1 repo (`data-analyst-portfolio`) with 5 folders — simpler to maintain.
-
-See [PUSH_GUIDE.md](PUSH_GUIDE.md) for the exact commands.
